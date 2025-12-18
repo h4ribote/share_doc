@@ -79,7 +79,7 @@
 ### AMM（Automated Market Maker）の採用
 
   - **アルゴリズム**  
-    $x \times y = k$ （Constant Product）
+    $`x \times y = k`$ （Constant Product）
   - **機能**
       - 政府がレートを決定するのではなく、市場の需給によって自動的にNCの対Peg価格が決定される。
       - 投資家がNCを購入すれば価格が上がり、売却すれば価格が下がる。
