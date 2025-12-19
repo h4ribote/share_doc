@@ -1,33 +1,35 @@
 ### 1. 新規市場開拓と通貨発行（The Minting Phase）
 
-これは**NC（自国通貨）が世界に生まれる唯一の瞬間**です。「政府が汗をかいて稼いだ外貨」と引き換えに、銀行がプール用のNCを発行します。
+これは**NC（自国通貨）が世界に生まれる唯一の瞬間**です。政府が獲得したL1通貨（原資）を中央銀行の金庫に預け入れ、その裏付けとして発行されたPegと、銀行が新規発行したNCをセットにして市場を作ります。
 
 ```mermaid
 sequenceDiagram
     autonumber
     actor Gov as 政府 (財務省)
     participant Game as 新規ゲーム (L1)
-    participant Bank as 中央銀行 (System)
+    participant Bank as 中央銀行 (Custodian)
     participant Pool as 流動性プール (AMM)
 
     Note over Gov, Pool: 【条件】新しいゲーム市場への接続時のみ実行可能
 
     Gov->>Game: 1. ゲームプレイ / ファーミング
     Game-->>Gov: 2. 原資獲得 (100万 Gil)
-    Gov->>Gov: 3. Peg化 (100万 Peg)
 
-    Gov->>Bank: 4. プール開設申請 (100万 Peg用意済み)
+    Note over Gov, Bank: 資産の分別管理 (Custody)
+    Gov->>Bank: 3. 原資(Gil)を預入 (Deposit)
+    Bank-->>Gov: 4. Pegを発行 (100万 Peg)
+
+    Gov->>Bank: 5. プール開設申請 (対となるNCの発行依頼)
 
     Note over Bank: NCの発行
     opt ここが唯一の発行ポイント
-        Bank->>Bank: 5. 100万 NC を新規発行 (Mint)
+        Bank->>Bank: 6. 100万 NC を新規発行 (Mint)
     end
 
-    Bank->>Gov: 6. 100万 NC を引き渡し
+    Bank->>Gov: 7. 100万 NC を引き渡し
     
-    Gov->>Pool: 7. ペア投入 (100万 Peg : 100万 NC)
+    Gov->>Pool: 8. ペア投入 (100万 Peg : 100万 NC)
     Note over Pool: 市場形成完了 (xy=k スタート)
-
 
 ```
 
@@ -63,8 +65,6 @@ sequenceDiagram
     Pool-->>Gov: Pegを受け取る
     
     Gov->>AC: 6. 調達したPegを入金
-    Note right of AC: レバレッジ取引開始
-
 
 ```
 
