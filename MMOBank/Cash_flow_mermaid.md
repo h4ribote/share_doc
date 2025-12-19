@@ -13,10 +13,10 @@ sequenceDiagram
     Note over Gov, Pool: 【条件】新しいゲーム市場への接続時のみ実行可能
 
     Gov->>Game: 1. ゲームプレイ / ファーミング
-    Game-->>Gov: 2. 原資獲得 (100万 Gil)
+    Game-->>Gov: 2. 原資獲得 (100万 IGC)
 
     Note over Gov, Bank: 資産の分別管理 (Custody)
-    Gov->>Bank: 3. 原資(Gil)を預入 (Deposit)
+    Gov->>Bank: 3. 原資(IGC)を預入 (Deposit)
     Bank-->>Gov: 4. Pegを発行 (100万 Peg)
 
     Gov->>Bank: 5. プール開設申請 (対となるNCの発行依頼)
