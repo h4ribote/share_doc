@@ -1,1 +1,5252 @@
-
+[
+  {
+    "id": 1,
+    "name": "Hammer",
+    "type": "Weapon"
+  },
+  {
+    "id": 2,
+    "name": "Baseball Bat",
+    "type": "Weapon"
+  },
+  {
+    "id": 3,
+    "name": "Crowbar",
+    "type": "Weapon"
+  },
+  {
+    "id": 4,
+    "name": "Knuckle Dusters",
+    "type": "Weapon"
+  },
+  {
+    "id": 5,
+    "name": "Pen Knife",
+    "type": "Weapon"
+  },
+  {
+    "id": 6,
+    "name": "Kitchen Knife",
+    "type": "Weapon"
+  },
+  {
+    "id": 7,
+    "name": "Dagger",
+    "type": "Weapon"
+  },
+  {
+    "id": 8,
+    "name": "Axe",
+    "type": "Weapon"
+  },
+  {
+    "id": 9,
+    "name": "Scimitar",
+    "type": "Weapon"
+  },
+  {
+    "id": 10,
+    "name": "Chainsaw",
+    "type": "Weapon"
+  },
+  {
+    "id": 11,
+    "name": "Samurai Sword",
+    "type": "Weapon"
+  },
+  {
+    "id": 12,
+    "name": "Glock 17",
+    "type": "Weapon"
+  },
+  {
+    "id": 13,
+    "name": "Raven MP25",
+    "type": "Weapon"
+  },
+  {
+    "id": 14,
+    "name": "Ruger 57",
+    "type": "Weapon"
+  },
+  {
+    "id": 15,
+    "name": "Beretta M9",
+    "type": "Weapon"
+  },
+  {
+    "id": 16,
+    "name": "USP",
+    "type": "Weapon"
+  },
+  {
+    "id": 17,
+    "name": "Beretta 92FS",
+    "type": "Weapon"
+  },
+  {
+    "id": 18,
+    "name": "Fiveseven",
+    "type": "Weapon"
+  },
+  {
+    "id": 19,
+    "name": "Magnum",
+    "type": "Weapon"
+  },
+  {
+    "id": 20,
+    "name": "Desert Eagle",
+    "type": "Weapon"
+  },
+  {
+    "id": 21,
+    "name": "Dual 92G Berettas",
+    "type": "Weapon"
+  },
+  {
+    "id": 22,
+    "name": "Sawed-Off Shotgun",
+    "type": "Weapon"
+  },
+  {
+    "id": 23,
+    "name": "Benelli M1 Tactical",
+    "type": "Weapon"
+  },
+  {
+    "id": 24,
+    "name": "MP5 Navy",
+    "type": "Weapon"
+  },
+  {
+    "id": 25,
+    "name": "P90",
+    "type": "Weapon"
+  },
+  {
+    "id": 26,
+    "name": "AK-47",
+    "type": "Weapon"
+  },
+  {
+    "id": 27,
+    "name": "M4A1 Colt Carbine",
+    "type": "Weapon"
+  },
+  {
+    "id": 28,
+    "name": "Benelli M4 Super",
+    "type": "Weapon"
+  },
+  {
+    "id": 29,
+    "name": "M16 A2 Rifle",
+    "type": "Weapon"
+  },
+  {
+    "id": 30,
+    "name": "Steyr AUG",
+    "type": "Weapon"
+  },
+  {
+    "id": 31,
+    "name": "M249 SAW",
+    "type": "Weapon"
+  },
+  {
+    "id": 32,
+    "name": "Leather Vest",
+    "type": "Armor"
+  },
+  {
+    "id": 33,
+    "name": "Police Vest",
+    "type": "Armor"
+  },
+  {
+    "id": 34,
+    "name": "Bulletproof Vest",
+    "type": "Armor"
+  },
+  {
+    "id": 35,
+    "name": "Box of Chocolate Bars",
+    "type": "Candy"
+  },
+  {
+    "id": 36,
+    "name": "Big Box of Chocolate Bars",
+    "type": "Candy"
+  },
+  {
+    "id": 37,
+    "name": "Bag of Bon Bons",
+    "type": "Candy"
+  },
+  {
+    "id": 38,
+    "name": "Box of Bon Bons",
+    "type": "Candy"
+  },
+  {
+    "id": 39,
+    "name": "Box of Extra Strong Mints",
+    "type": "Candy"
+  },
+  {
+    "id": 40,
+    "name": "Pack of Music CDs",
+    "type": "Other"
+  },
+  {
+    "id": 41,
+    "name": "DVD Player",
+    "type": "Other"
+  },
+  {
+    "id": 42,
+    "name": "MP3 Player",
+    "type": "Special"
+  },
+  {
+    "id": 43,
+    "name": "CD Player",
+    "type": "Special"
+  },
+  {
+    "id": 44,
+    "name": "Blank DVDs : 100",
+    "type": "Material"
+  },
+  {
+    "id": 45,
+    "name": "Hard Drive",
+    "type": "Other"
+  },
+  {
+    "id": 46,
+    "name": "Tank Top",
+    "type": "Clothing"
+  },
+  {
+    "id": 47,
+    "name": "Trainers",
+    "type": "Clothing"
+  },
+  {
+    "id": 48,
+    "name": "Jacket",
+    "type": "Clothing"
+  },
+  {
+    "id": 49,
+    "name": "Full Body Armor",
+    "type": "Armor"
+  },
+  {
+    "id": 50,
+    "name": "Outer Tactical Vest",
+    "type": "Armor"
+  },
+  {
+    "id": 51,
+    "name": "Plain Silver Ring",
+    "type": "Jewelry"
+  },
+  {
+    "id": 52,
+    "name": "Sapphire Ring",
+    "type": "Jewelry"
+  },
+  {
+    "id": 53,
+    "name": "Gold Ring",
+    "type": "Jewelry"
+  },
+  {
+    "id": 54,
+    "name": "Diamond Ring",
+    "type": "Jewelry"
+  },
+  {
+    "id": 55,
+    "name": "Pearl Necklace",
+    "type": "Jewelry"
+  },
+  {
+    "id": 56,
+    "name": "Silver Necklace",
+    "type": "Jewelry"
+  },
+  {
+    "id": 57,
+    "name": "Gold Necklace",
+    "type": "Jewelry"
+  },
+  {
+    "id": 58,
+    "name": "Plastic Watch",
+    "type": "Jewelry"
+  },
+  {
+    "id": 59,
+    "name": "Stainless Steel Watch",
+    "type": "Jewelry"
+  },
+  {
+    "id": 60,
+    "name": "Gold Watch",
+    "type": "Jewelry"
+  },
+  {
+    "id": 61,
+    "name": "Personal Computer",
+    "type": "Tool"
+  },
+  {
+    "id": 62,
+    "name": "Microwave",
+    "type": "Other"
+  },
+  {
+    "id": 63,
+    "name": "Minigun",
+    "type": "Weapon"
+  },
+  {
+    "id": 64,
+    "name": "Pack of Cuban Cigars",
+    "type": "Other"
+  },
+  {
+    "id": 65,
+    "name": "Television",
+    "type": "Special"
+  },
+  {
+    "id": 66,
+    "name": "Morphine",
+    "type": "Medical"
+  },
+  {
+    "id": 67,
+    "name": "First Aid Kit",
+    "type": "Medical"
+  },
+  {
+    "id": 68,
+    "name": "Small First Aid Kit",
+    "type": "Medical"
+  },
+  {
+    "id": 69,
+    "name": "Simple Virus",
+    "type": "Tool"
+  },
+  {
+    "id": 70,
+    "name": "Polymorphic Virus",
+    "type": "Tool"
+  },
+  {
+    "id": 71,
+    "name": "Tunneling Virus",
+    "type": "Tool"
+  },
+  {
+    "id": 72,
+    "name": "Armored Virus",
+    "type": "Tool"
+  },
+  {
+    "id": 73,
+    "name": "Stealth Virus",
+    "type": "Tool"
+  },
+  {
+    "id": 76,
+    "name": "Snow Cannon",
+    "type": "Weapon"
+  },
+  {
+    "id": 96,
+    "name": "Coat Hanger",
+    "type": "Tool"
+  },
+  {
+    "id": 97,
+    "name": "Bunch of Flowers",
+    "type": "Flower"
+  },
+  {
+    "id": 98,
+    "name": "Neutrilux 2000",
+    "type": "Weapon"
+  },
+  {
+    "id": 99,
+    "name": "Springfield 1911",
+    "type": "Weapon"
+  },
+  {
+    "id": 100,
+    "name": "Egg Propelled Launcher",
+    "type": "Weapon"
+  },
+  {
+    "id": 101,
+    "name": "Bunny Suit",
+    "type": "Clothing"
+  },
+  {
+    "id": 103,
+    "name": "Firewalk Virus",
+    "type": "Tool"
+  },
+  {
+    "id": 104,
+    "name": "Game Console",
+    "type": "Special"
+  },
+  {
+    "id": 105,
+    "name": "Xbox",
+    "type": "Special"
+  },
+  {
+    "id": 106,
+    "name": "Parachute",
+    "type": "Booster"
+  },
+  {
+    "id": 107,
+    "name": "Trench Coat",
+    "type": "Clothing"
+  },
+  {
+    "id": 108,
+    "name": "9mm Uzi",
+    "type": "Weapon"
+  },
+  {
+    "id": 109,
+    "name": "RPG Launcher",
+    "type": "Weapon"
+  },
+  {
+    "id": 110,
+    "name": "Leather Bullwhip",
+    "type": "Weapon"
+  },
+  {
+    "id": 111,
+    "name": "Ninja Claws",
+    "type": "Weapon"
+  },
+  {
+    "id": 129,
+    "name": "Dozen Roses",
+    "type": "Flower"
+  },
+  {
+    "id": 145,
+    "name": "Xbox 360",
+    "type": "Special"
+  },
+  {
+    "id": 146,
+    "name": "Yasukuni Sword",
+    "type": "Weapon"
+  },
+  {
+    "id": 147,
+    "name": "Rusty Sword",
+    "type": "Weapon"
+  },
+  {
+    "id": 151,
+    "name": "Pixie Sticks",
+    "type": "Candy"
+  },
+  {
+    "id": 154,
+    "name": "Laptop",
+    "type": "Tool"
+  },
+  {
+    "id": 159,
+    "name": "Bolt Cutters",
+    "type": "Tool"
+  },
+  {
+    "id": 160,
+    "name": "Photographs",
+    "type": "Other"
+  },
+  {
+    "id": 167,
+    "name": "Article on Crime",
+    "type": "Other"
+  },
+  {
+    "id": 168,
+    "name": "Unknown",
+    "type": "Unused"
+  },
+  {
+    "id": 170,
+    "name": "Wand of Destruction",
+    "type": "Weapon"
+  },
+  {
+    "id": 172,
+    "name": "Gasoline",
+    "type": "Material"
+  },
+  {
+    "id": 173,
+    "name": "Butterfly Knife",
+    "type": "Weapon"
+  },
+  {
+    "id": 174,
+    "name": "XM8 Rifle",
+    "type": "Weapon"
+  },
+  {
+    "id": 175,
+    "name": "Taser",
+    "type": "Weapon"
+  },
+  {
+    "id": 176,
+    "name": "Chain Mail",
+    "type": "Armor"
+  },
+  {
+    "id": 177,
+    "name": "Cobra Derringer",
+    "type": "Weapon"
+  },
+  {
+    "id": 178,
+    "name": "Flak Jacket",
+    "type": "Armor"
+  },
+  {
+    "id": 180,
+    "name": "Bottle of Beer",
+    "type": "Alcohol"
+  },
+  {
+    "id": 181,
+    "name": "Bottle of Champagne",
+    "type": "Alcohol"
+  },
+  {
+    "id": 182,
+    "name": "Soap on a Rope",
+    "type": "Other"
+  },
+  {
+    "id": 183,
+    "name": "Single Red Rose",
+    "type": "Flower"
+  },
+  {
+    "id": 184,
+    "name": "Bunch of Black Roses",
+    "type": "Flower"
+  },
+  {
+    "id": 186,
+    "name": "Sheep Plushie",
+    "type": "Plushie"
+  },
+  {
+    "id": 187,
+    "name": "Teddy Bear Plushie",
+    "type": "Plushie"
+  },
+  {
+    "id": 189,
+    "name": "S&W Revolver",
+    "type": "Weapon"
+  },
+  {
+    "id": 190,
+    "name": "C4 Explosive",
+    "type": "Material"
+  },
+  {
+    "id": 191,
+    "name": "Memory Locket",
+    "type": "Other"
+  },
+  {
+    "id": 196,
+    "name": "Cannabis",
+    "type": "Drug"
+  },
+  {
+    "id": 197,
+    "name": "Ecstasy",
+    "type": "Drug"
+  },
+  {
+    "id": 198,
+    "name": "Ketamine",
+    "type": "Drug"
+  },
+  {
+    "id": 199,
+    "name": "LSD",
+    "type": "Drug"
+  },
+  {
+    "id": 200,
+    "name": "Opium",
+    "type": "Drug"
+  },
+  {
+    "id": 201,
+    "name": "PCP",
+    "type": "Drug"
+  },
+  {
+    "id": 203,
+    "name": "Shrooms",
+    "type": "Drug"
+  },
+  {
+    "id": 204,
+    "name": "Speed",
+    "type": "Drug"
+  },
+  {
+    "id": 205,
+    "name": "Vicodin",
+    "type": "Drug"
+  },
+  {
+    "id": 206,
+    "name": "Xanax",
+    "type": "Drug"
+  },
+  {
+    "id": 208,
+    "name": "Unknown",
+    "type": "Unused"
+  },
+  {
+    "id": 209,
+    "name": "Box of Sweet Hearts",
+    "type": "Candy"
+  },
+  {
+    "id": 210,
+    "name": "Bag of Chocolate Kisses",
+    "type": "Candy"
+  },
+  {
+    "id": 215,
+    "name": "Kitten Plushie",
+    "type": "Plushie"
+  },
+  {
+    "id": 217,
+    "name": "Claymore Sword",
+    "type": "Weapon"
+  },
+  {
+    "id": 218,
+    "name": "Crossbow",
+    "type": "Weapon"
+  },
+  {
+    "id": 219,
+    "name": "Enfield SA-80",
+    "type": "Weapon"
+  },
+  {
+    "id": 220,
+    "name": "Grenade",
+    "type": "Weapon"
+  },
+  {
+    "id": 221,
+    "name": "Stick Grenade",
+    "type": "Weapon"
+  },
+  {
+    "id": 222,
+    "name": "Flash Grenade",
+    "type": "Weapon"
+  },
+  {
+    "id": 223,
+    "name": "Jackhammer",
+    "type": "Weapon"
+  },
+  {
+    "id": 224,
+    "name": "Swiss Army Knife",
+    "type": "Weapon"
+  },
+  {
+    "id": 225,
+    "name": "Mag 7",
+    "type": "Weapon"
+  },
+  {
+    "id": 226,
+    "name": "Smoke Grenade",
+    "type": "Weapon"
+  },
+  {
+    "id": 227,
+    "name": "Spear",
+    "type": "Weapon"
+  },
+  {
+    "id": 228,
+    "name": "Vektor CR-21",
+    "type": "Weapon"
+  },
+  {
+    "id": 229,
+    "name": "Claymore Mine",
+    "type": "Weapon"
+  },
+  {
+    "id": 230,
+    "name": "Flare Gun",
+    "type": "Weapon"
+  },
+  {
+    "id": 231,
+    "name": "Heckler & Koch SL8",
+    "type": "Weapon"
+  },
+  {
+    "id": 232,
+    "name": "SIG 550",
+    "type": "Weapon"
+  },
+  {
+    "id": 233,
+    "name": "BT MP9",
+    "type": "Weapon"
+  },
+  {
+    "id": 234,
+    "name": "Chain Whip",
+    "type": "Weapon"
+  },
+  {
+    "id": 235,
+    "name": "Wooden Nunchaku",
+    "type": "Weapon"
+  },
+  {
+    "id": 236,
+    "name": "Kama",
+    "type": "Weapon"
+  },
+  {
+    "id": 237,
+    "name": "Kodachi",
+    "type": "Weapon"
+  },
+  {
+    "id": 238,
+    "name": "Sai",
+    "type": "Weapon"
+  },
+  {
+    "id": 239,
+    "name": "Ninja Star",
+    "type": "Weapon"
+  },
+  {
+    "id": 240,
+    "name": "Type 98 Anti Tank",
+    "type": "Weapon"
+  },
+  {
+    "id": 241,
+    "name": "Bushmaster Carbon 15",
+    "type": "Weapon"
+  },
+  {
+    "id": 242,
+    "name": "HEG",
+    "type": "Weapon"
+  },
+  {
+    "id": 243,
+    "name": "Taurus",
+    "type": "Weapon"
+  },
+  {
+    "id": 244,
+    "name": "Blowgun",
+    "type": "Weapon"
+  },
+  {
+    "id": 245,
+    "name": "Bo Staff",
+    "type": "Weapon"
+  },
+  {
+    "id": 246,
+    "name": "Fireworks",
+    "type": "Weapon"
+  },
+  {
+    "id": 247,
+    "name": "Katana",
+    "type": "Weapon"
+  },
+  {
+    "id": 248,
+    "name": "Qsz-92",
+    "type": "Weapon"
+  },
+  {
+    "id": 249,
+    "name": "SKS Carbine",
+    "type": "Weapon"
+  },
+  {
+    "id": 250,
+    "name": "Twin Tiger Hooks",
+    "type": "Weapon"
+  },
+  {
+    "id": 251,
+    "name": "Wushu Double Axes",
+    "type": "Weapon"
+  },
+  {
+    "id": 252,
+    "name": "Ithaca 37",
+    "type": "Weapon"
+  },
+  {
+    "id": 253,
+    "name": "Lorcin 380",
+    "type": "Weapon"
+  },
+  {
+    "id": 254,
+    "name": "S&W M29",
+    "type": "Weapon"
+  },
+  {
+    "id": 255,
+    "name": "Flamethrower",
+    "type": "Weapon"
+  },
+  {
+    "id": 256,
+    "name": "Tear Gas",
+    "type": "Weapon"
+  },
+  {
+    "id": 257,
+    "name": "Throwing Knife",
+    "type": "Weapon"
+  },
+  {
+    "id": 258,
+    "name": "Jaguar Plushie",
+    "type": "Plushie"
+  },
+  {
+    "id": 259,
+    "name": "Mayan Statue",
+    "type": "Other"
+  },
+  {
+    "id": 260,
+    "name": "Dahlia",
+    "type": "Flower"
+  },
+  {
+    "id": 261,
+    "name": "Wolverine Plushie",
+    "type": "Plushie"
+  },
+  {
+    "id": 262,
+    "name": "Hockey Stick",
+    "type": "Other"
+  },
+  {
+    "id": 263,
+    "name": "Crocus",
+    "type": "Flower"
+  },
+  {
+    "id": 264,
+    "name": "Orchid",
+    "type": "Flower"
+  },
+  {
+    "id": 265,
+    "name": "Pele Charm",
+    "type": "Other"
+  },
+  {
+    "id": 266,
+    "name": "Nessie Plushie",
+    "type": "Plushie"
+  },
+  {
+    "id": 267,
+    "name": "Heather",
+    "type": "Flower"
+  },
+  {
+    "id": 268,
+    "name": "Red Fox Plushie",
+    "type": "Plushie"
+  },
+  {
+    "id": 269,
+    "name": "Monkey Plushie",
+    "type": "Plushie"
+  },
+  {
+    "id": 270,
+    "name": "Soccer Ball",
+    "type": "Other"
+  },
+  {
+    "id": 271,
+    "name": "Ceibo Flower",
+    "type": "Flower"
+  },
+  {
+    "id": 272,
+    "name": "Edelweiss",
+    "type": "Flower"
+  },
+  {
+    "id": 273,
+    "name": "Chamois Plushie",
+    "type": "Plushie"
+  },
+  {
+    "id": 274,
+    "name": "Panda Plushie",
+    "type": "Plushie"
+  },
+  {
+    "id": 275,
+    "name": "Jade Buddha",
+    "type": "Other"
+  },
+  {
+    "id": 276,
+    "name": "Peony",
+    "type": "Flower"
+  },
+  {
+    "id": 277,
+    "name": "Cherry Blossom",
+    "type": "Flower"
+  },
+  {
+    "id": 278,
+    "name": "Kabuki Mask",
+    "type": "Clothing"
+  },
+  {
+    "id": 279,
+    "name": "Maneki Neko",
+    "type": "Other"
+  },
+  {
+    "id": 280,
+    "name": "Elephant Statue",
+    "type": "Other"
+  },
+  {
+    "id": 281,
+    "name": "Lion Plushie",
+    "type": "Plushie"
+  },
+  {
+    "id": 282,
+    "name": "African Violet",
+    "type": "Flower"
+  },
+  {
+    "id": 283,
+    "name": "Donator Pack",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 289,
+    "name": "Dual Axes",
+    "type": "Weapon"
+  },
+  {
+    "id": 290,
+    "name": "Dual Hammers",
+    "type": "Weapon"
+  },
+  {
+    "id": 291,
+    "name": "Dual Scimitars",
+    "type": "Weapon"
+  },
+  {
+    "id": 292,
+    "name": "Dual Samurai Swords",
+    "type": "Weapon"
+  },
+  {
+    "id": 293,
+    "name": "Japanese/English Dictionary",
+    "type": "Other"
+  },
+  {
+    "id": 294,
+    "name": "Bottle of Sake",
+    "type": "Alcohol"
+  },
+  {
+    "id": 295,
+    "name": "Oriental Log",
+    "type": "Other"
+  },
+  {
+    "id": 296,
+    "name": "Oriental Log Translation",
+    "type": "Other"
+  },
+  {
+    "id": 305,
+    "name": "Mistletoe",
+    "type": "Other"
+  },
+  {
+    "id": 306,
+    "name": "Mini Sleigh",
+    "type": "Other"
+  },
+  {
+    "id": 307,
+    "name": "Snowman",
+    "type": "Other"
+  },
+  {
+    "id": 308,
+    "name": "Christmas Gnome",
+    "type": "Other"
+  },
+  {
+    "id": 309,
+    "name": "Gingerbread House",
+    "type": "Other"
+  },
+  {
+    "id": 310,
+    "name": "Lollipop",
+    "type": "Candy"
+  },
+  {
+    "id": 315,
+    "name": "Apartment Blueprint",
+    "type": "Unused"
+  },
+  {
+    "id": 316,
+    "name": "Semi-Detached House Blueprint",
+    "type": "Unused"
+  },
+  {
+    "id": 317,
+    "name": "Detached House Blueprint",
+    "type": "Unused"
+  },
+  {
+    "id": 318,
+    "name": "Beach House Blueprint",
+    "type": "Unused"
+  },
+  {
+    "id": 319,
+    "name": "Chalet Blueprint",
+    "type": "Unused"
+  },
+  {
+    "id": 320,
+    "name": "Villa Blueprint",
+    "type": "Unused"
+  },
+  {
+    "id": 321,
+    "name": "Penthouse Blueprint",
+    "type": "Unused"
+  },
+  {
+    "id": 322,
+    "name": "Mansion Blueprint",
+    "type": "Unused"
+  },
+  {
+    "id": 323,
+    "name": "Ranch Blueprint",
+    "type": "Unused"
+  },
+  {
+    "id": 324,
+    "name": "Palace Blueprint",
+    "type": "Unused"
+  },
+  {
+    "id": 325,
+    "name": "Castle Blueprint",
+    "type": "Unused"
+  },
+  {
+    "id": 326,
+    "name": "Printing Paper",
+    "type": "Material"
+  },
+  {
+    "id": 327,
+    "name": "Blank Casino Chips",
+    "type": "Material"
+  },
+  {
+    "id": 328,
+    "name": "PVC Cards",
+    "type": "Material"
+  },
+  {
+    "id": 329,
+    "name": "Skateboard",
+    "type": "Booster"
+  },
+  {
+    "id": 330,
+    "name": "Boxing Gloves",
+    "type": "Booster"
+  },
+  {
+    "id": 331,
+    "name": "Dumbbells",
+    "type": "Booster"
+  },
+  {
+    "id": 332,
+    "name": "Combat Vest",
+    "type": "Armor"
+  },
+  {
+    "id": 333,
+    "name": "Liquid Body Armor",
+    "type": "Armor"
+  },
+  {
+    "id": 334,
+    "name": "Flexible Body Armor",
+    "type": "Armor"
+  },
+  {
+    "id": 335,
+    "name": "Stick of Dynamite",
+    "type": "Material"
+  },
+  {
+    "id": 336,
+    "name": "Cesium-137",
+    "type": "Material"
+  },
+  {
+    "id": 337,
+    "name": "Dirty Bomb",
+    "type": "Special"
+  },
+  {
+    "id": 345,
+    "name": "Pack of Trojans",
+    "type": "Other"
+  },
+  {
+    "id": 346,
+    "name": "Pair of High Heels",
+    "type": "Weapon"
+  },
+  {
+    "id": 347,
+    "name": "Thong",
+    "type": "Clothing"
+  },
+  {
+    "id": 348,
+    "name": "Hazmat Suit",
+    "type": "Armor"
+  },
+  {
+    "id": 358,
+    "name": "Raw Ivory",
+    "type": "Other"
+  },
+  {
+    "id": 359,
+    "name": "Fine Chisel",
+    "type": "Weapon"
+  },
+  {
+    "id": 360,
+    "name": "Ivory Walking Cane",
+    "type": "Weapon"
+  },
+  {
+    "id": 361,
+    "name": "Neumune Tablet",
+    "type": "Medical"
+  },
+  {
+    "id": 364,
+    "name": "Box of Grenades",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 365,
+    "name": "Box of Medical Supplies",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 366,
+    "name": "Erotic DVD",
+    "type": "Booster"
+  },
+  {
+    "id": 367,
+    "name": "Feathery Hotel Coupon",
+    "type": "Booster"
+  },
+  {
+    "id": 368,
+    "name": "Lawyer's Business Card",
+    "type": "Booster"
+  },
+  {
+    "id": 369,
+    "name": "Lottery Voucher",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 370,
+    "name": "Drug Pack",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 372,
+    "name": "Empty Box",
+    "type": "Special"
+  },
+  {
+    "id": 373,
+    "name": "Parcel",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 374,
+    "name": "Birthday Present",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 375,
+    "name": "Present",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 376,
+    "name": "Christmas Present",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 377,
+    "name": "Birthday Wrapping Paper",
+    "type": "Special"
+  },
+  {
+    "id": 378,
+    "name": "Generic Wrapping Paper",
+    "type": "Special"
+  },
+  {
+    "id": 379,
+    "name": "Christmas Wrapping Paper",
+    "type": "Special"
+  },
+  {
+    "id": 380,
+    "name": "Small Explosive Device",
+    "type": "Special"
+  },
+  {
+    "id": 381,
+    "name": "Gold Laptop",
+    "type": "Tool"
+  },
+  {
+    "id": 382,
+    "name": "Gold Plated AK-47",
+    "type": "Weapon"
+  },
+  {
+    "id": 383,
+    "name": "Digital Organizer",
+    "type": "Other"
+  },
+  {
+    "id": 384,
+    "name": "Camel Plushie",
+    "type": "Plushie"
+  },
+  {
+    "id": 385,
+    "name": "Tribulus Omanense",
+    "type": "Flower"
+  },
+  {
+    "id": 386,
+    "name": "Sports Sneakers",
+    "type": "Enhancer"
+  },
+  {
+    "id": 387,
+    "name": "Handbag",
+    "type": "Weapon"
+  },
+  {
+    "id": 388,
+    "name": "Pink Mac-10",
+    "type": "Weapon"
+  },
+  {
+    "id": 391,
+    "name": "Macana",
+    "type": "Weapon"
+  },
+  {
+    "id": 392,
+    "name": "Pepper Spray",
+    "type": "Weapon"
+  },
+  {
+    "id": 393,
+    "name": "Slingshot",
+    "type": "Weapon"
+  },
+  {
+    "id": 394,
+    "name": "Brick",
+    "type": "Weapon"
+  },
+  {
+    "id": 395,
+    "name": "Metal Nunchaku",
+    "type": "Weapon"
+  },
+  {
+    "id": 396,
+    "name": "Business Class Ticket",
+    "type": "Special"
+  },
+  {
+    "id": 397,
+    "name": "Flail",
+    "type": "Weapon"
+  },
+  {
+    "id": 398,
+    "name": "SIG 552",
+    "type": "Weapon"
+  },
+  {
+    "id": 399,
+    "name": "ArmaLite M-15A4",
+    "type": "Weapon"
+  },
+  {
+    "id": 400,
+    "name": "Guandao",
+    "type": "Weapon"
+  },
+  {
+    "id": 401,
+    "name": "Lead Pipe",
+    "type": "Weapon"
+  },
+  {
+    "id": 402,
+    "name": "Ice Pick",
+    "type": "Weapon"
+  },
+  {
+    "id": 403,
+    "name": "Box of Tissues",
+    "type": "Special"
+  },
+  {
+    "id": 404,
+    "name": "Bandana",
+    "type": "Clothing"
+  },
+  {
+    "id": 405,
+    "name": "Loaf of Bread",
+    "type": "Other"
+  },
+  {
+    "id": 406,
+    "name": "Afro Comb",
+    "type": "Other"
+  },
+  {
+    "id": 407,
+    "name": "Compass",
+    "type": "Other"
+  },
+  {
+    "id": 408,
+    "name": "Sextant",
+    "type": "Other"
+  },
+  {
+    "id": 409,
+    "name": "Yucca Plant",
+    "type": "Other"
+  },
+  {
+    "id": 410,
+    "name": "Fire Hydrant",
+    "type": "Other"
+  },
+  {
+    "id": 411,
+    "name": "Model Space Ship",
+    "type": "Other"
+  },
+  {
+    "id": 412,
+    "name": "Sports Shades",
+    "type": "Clothing"
+  },
+  {
+    "id": 413,
+    "name": "Mountie Hat",
+    "type": "Clothing"
+  },
+  {
+    "id": 414,
+    "name": "Proda Sunglasses",
+    "type": "Clothing"
+  },
+  {
+    "id": 415,
+    "name": "Ship in a Bottle",
+    "type": "Other"
+  },
+  {
+    "id": 416,
+    "name": "Paper Weight",
+    "type": "Other"
+  },
+  {
+    "id": 417,
+    "name": "RS232 Cable",
+    "type": "Other"
+  },
+  {
+    "id": 418,
+    "name": "Tailor's Dummy",
+    "type": "Other"
+  },
+  {
+    "id": 419,
+    "name": "Small Suitcase",
+    "type": "Enhancer"
+  },
+  {
+    "id": 420,
+    "name": "Medium Suitcase",
+    "type": "Enhancer"
+  },
+  {
+    "id": 421,
+    "name": "Large Suitcase",
+    "type": "Enhancer"
+  },
+  {
+    "id": 422,
+    "name": "Vanity Hand Mirror",
+    "type": "Special"
+  },
+  {
+    "id": 426,
+    "name": "Bottle of Tequila",
+    "type": "Alcohol"
+  },
+  {
+    "id": 427,
+    "name": "Sumo Doll",
+    "type": "Other"
+  },
+  {
+    "id": 428,
+    "name": "Casino Pass",
+    "type": "Special"
+  },
+  {
+    "id": 429,
+    "name": "Chopsticks",
+    "type": "Other"
+  },
+  {
+    "id": 430,
+    "name": "Coconut Bra",
+    "type": "Clothing"
+  },
+  {
+    "id": 431,
+    "name": "Dart Board",
+    "type": "Other"
+  },
+  {
+    "id": 432,
+    "name": "Crazy Straw",
+    "type": "Other"
+  },
+  {
+    "id": 433,
+    "name": "Sensu",
+    "type": "Other"
+  },
+  {
+    "id": 434,
+    "name": "Yakitori Lantern",
+    "type": "Other"
+  },
+  {
+    "id": 435,
+    "name": "Dozen White Roses",
+    "type": "Flower"
+  },
+  {
+    "id": 436,
+    "name": "Snowboard",
+    "type": "Other"
+  },
+  {
+    "id": 437,
+    "name": "Glow Stick",
+    "type": "Material"
+  },
+  {
+    "id": 438,
+    "name": "Cricket Bat",
+    "type": "Weapon"
+  },
+  {
+    "id": 439,
+    "name": "Frying Pan",
+    "type": "Weapon"
+  },
+  {
+    "id": 440,
+    "name": "Pillow",
+    "type": "Weapon"
+  },
+  {
+    "id": 450,
+    "name": "Leopard Coin",
+    "type": "Artifact"
+  },
+  {
+    "id": 451,
+    "name": "Florin Coin",
+    "type": "Artifact"
+  },
+  {
+    "id": 452,
+    "name": "Gold Noble Coin",
+    "type": "Artifact"
+  },
+  {
+    "id": 453,
+    "name": "Ganesha Sculpture",
+    "type": "Artifact"
+  },
+  {
+    "id": 454,
+    "name": "Vairocana Buddha Sculpture",
+    "type": "Artifact"
+  },
+  {
+    "id": 455,
+    "name": "Companion Script : Abdullah",
+    "type": "Artifact"
+  },
+  {
+    "id": 456,
+    "name": "Companion Script : Ubay",
+    "type": "Artifact"
+  },
+  {
+    "id": 457,
+    "name": "Companion Script : Ali",
+    "type": "Artifact"
+  },
+  {
+    "id": 458,
+    "name": "Shabti Sculpture",
+    "type": "Artifact"
+  },
+  {
+    "id": 459,
+    "name": "Egyptian Amulet",
+    "type": "Artifact"
+  },
+  {
+    "id": 460,
+    "name": "White Senet Pawn",
+    "type": "Artifact"
+  },
+  {
+    "id": 461,
+    "name": "Black Senet Pawn",
+    "type": "Artifact"
+  },
+  {
+    "id": 462,
+    "name": "Senet Board",
+    "type": "Artifact"
+  },
+  {
+    "id": 463,
+    "name": "Epinephrine",
+    "type": "Weapon"
+  },
+  {
+    "id": 464,
+    "name": "Melatonin",
+    "type": "Weapon"
+  },
+  {
+    "id": 465,
+    "name": "Serotonin",
+    "type": "Weapon"
+  },
+  {
+    "id": 483,
+    "name": "MP5k",
+    "type": "Weapon"
+  },
+  {
+    "id": 484,
+    "name": "AK74U",
+    "type": "Weapon"
+  },
+  {
+    "id": 485,
+    "name": "Skorpion",
+    "type": "Weapon"
+  },
+  {
+    "id": 486,
+    "name": "TMP",
+    "type": "Weapon"
+  },
+  {
+    "id": 487,
+    "name": "Thompson",
+    "type": "Weapon"
+  },
+  {
+    "id": 488,
+    "name": "MP 40",
+    "type": "Weapon"
+  },
+  {
+    "id": 489,
+    "name": "Luger",
+    "type": "Weapon"
+  },
+  {
+    "id": 490,
+    "name": "Blunderbuss",
+    "type": "Weapon"
+  },
+  {
+    "id": 527,
+    "name": "Bag of Candy Kisses",
+    "type": "Candy"
+  },
+  {
+    "id": 528,
+    "name": "Bag of Tootsie Rolls",
+    "type": "Candy"
+  },
+  {
+    "id": 529,
+    "name": "Bag of Chocolate Truffles",
+    "type": "Candy"
+  },
+  {
+    "id": 530,
+    "name": "Can of Munster",
+    "type": "Energy Drink"
+  },
+  {
+    "id": 531,
+    "name": "Bottle of Pumpkin Brew",
+    "type": "Alcohol"
+  },
+  {
+    "id": 532,
+    "name": "Can of Red Cow",
+    "type": "Energy Drink"
+  },
+  {
+    "id": 533,
+    "name": "Can of Taurine Elite",
+    "type": "Energy Drink"
+  },
+  {
+    "id": 534,
+    "name": "Witch's Cauldron",
+    "type": "Other"
+  },
+  {
+    "id": 535,
+    "name": "Electronic Pumpkin",
+    "type": "Other"
+  },
+  {
+    "id": 536,
+    "name": "Jack O'Lantern Lamp",
+    "type": "Other"
+  },
+  {
+    "id": 537,
+    "name": "Spooky Paper Weight",
+    "type": "Other"
+  },
+  {
+    "id": 538,
+    "name": "Medieval Helmet",
+    "type": "Armor"
+  },
+  {
+    "id": 539,
+    "name": "Blood Spattered Sickle",
+    "type": "Weapon"
+  },
+  {
+    "id": 540,
+    "name": "Cauldron",
+    "type": "Other"
+  },
+  {
+    "id": 541,
+    "name": "Bottle of Stinky Swamp Punch",
+    "type": "Alcohol"
+  },
+  {
+    "id": 542,
+    "name": "Bottle of Wicked Witch",
+    "type": "Alcohol"
+  },
+  {
+    "id": 544,
+    "name": "Windproof Lighter",
+    "type": "Enhancer"
+  },
+  {
+    "id": 545,
+    "name": "Dual TMPs",
+    "type": "Weapon"
+  },
+  {
+    "id": 546,
+    "name": "Dual Bushmasters",
+    "type": "Weapon"
+  },
+  {
+    "id": 547,
+    "name": "Dual MP5s",
+    "type": "Weapon"
+  },
+  {
+    "id": 548,
+    "name": "Dual P90s",
+    "type": "Weapon"
+  },
+  {
+    "id": 549,
+    "name": "Dual Uzis",
+    "type": "Weapon"
+  },
+  {
+    "id": 550,
+    "name": "Bottle of Kandy Kane",
+    "type": "Alcohol"
+  },
+  {
+    "id": 551,
+    "name": "Bottle of Minty Mayhem",
+    "type": "Alcohol"
+  },
+  {
+    "id": 552,
+    "name": "Bottle of Mistletoe Madness",
+    "type": "Alcohol"
+  },
+  {
+    "id": 553,
+    "name": "Can of Santa Shooters",
+    "type": "Energy Drink"
+  },
+  {
+    "id": 554,
+    "name": "Can of Rockstar Rudolph",
+    "type": "Energy Drink"
+  },
+  {
+    "id": 555,
+    "name": "Can of X-MASS",
+    "type": "Energy Drink"
+  },
+  {
+    "id": 556,
+    "name": "Bag of Reindeer Droppings",
+    "type": "Candy"
+  },
+  {
+    "id": 557,
+    "name": "Advent Calendar",
+    "type": "Other"
+  },
+  {
+    "id": 558,
+    "name": "Santa's Snot",
+    "type": "Other"
+  },
+  {
+    "id": 559,
+    "name": "Polar Bear Toy",
+    "type": "Other"
+  },
+  {
+    "id": 560,
+    "name": "Fruitcake",
+    "type": "Material"
+  },
+  {
+    "id": 561,
+    "name": "Book of Carols",
+    "type": "Booster"
+  },
+  {
+    "id": 562,
+    "name": "Sweater",
+    "type": "Clothing"
+  },
+  {
+    "id": 563,
+    "name": "Gift Card",
+    "type": "Booster"
+  },
+  {
+    "id": 564,
+    "name": "Glasses",
+    "type": "Enhancer"
+  },
+  {
+    "id": 565,
+    "name": "High-Speed Drive",
+    "type": "Enhancer"
+  },
+  {
+    "id": 566,
+    "name": "Mountain Bike",
+    "type": "Enhancer"
+  },
+  {
+    "id": 567,
+    "name": "Cut-Throat Razor",
+    "type": "Enhancer"
+  },
+  {
+    "id": 568,
+    "name": "Jemmy",
+    "type": "Tool"
+  },
+  {
+    "id": 569,
+    "name": "Balaclava",
+    "type": "Enhancer"
+  },
+  {
+    "id": 570,
+    "name": "Advanced Driving Manual",
+    "type": "Enhancer"
+  },
+  {
+    "id": 571,
+    "name": "Ergonomic Keyboard",
+    "type": "Enhancer"
+  },
+  {
+    "id": 572,
+    "name": "Tracking Device",
+    "type": "Enhancer"
+  },
+  {
+    "id": 573,
+    "name": "Screwdriver",
+    "type": "Enhancer"
+  },
+  {
+    "id": 574,
+    "name": "Fanny Pack",
+    "type": "Enhancer"
+  },
+  {
+    "id": 575,
+    "name": "Tumble Dryer",
+    "type": "Enhancer"
+  },
+  {
+    "id": 576,
+    "name": "Chloroform",
+    "type": "Enhancer"
+  },
+  {
+    "id": 577,
+    "name": "Heavy Duty Padlock",
+    "type": "Enhancer"
+  },
+  {
+    "id": 578,
+    "name": "Duct Tape",
+    "type": "Enhancer"
+  },
+  {
+    "id": 579,
+    "name": "Wireless Dongle",
+    "type": "Enhancer"
+  },
+  {
+    "id": 580,
+    "name": "Horse's Head",
+    "type": "Special"
+  },
+  {
+    "id": 581,
+    "name": "Book",
+    "type": "Weapon"
+  },
+  {
+    "id": 586,
+    "name": "Jawbreaker",
+    "type": "Candy"
+  },
+  {
+    "id": 587,
+    "name": "Bag of Sherbet",
+    "type": "Candy"
+  },
+  {
+    "id": 588,
+    "name": "Goodie Bag",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 589,
+    "name": "Undefined",
+    "type": "Unused"
+  },
+  {
+    "id": 590,
+    "name": "Undefined 2",
+    "type": "Unused"
+  },
+  {
+    "id": 591,
+    "name": "Undefined 3",
+    "type": "Unused"
+  },
+  {
+    "id": 592,
+    "name": "Undefined 4",
+    "type": "Unused"
+  },
+  {
+    "id": 595,
+    "name": "Pile of Vomit",
+    "type": "Other"
+  },
+  {
+    "id": 598,
+    "name": "Witch's Hat",
+    "type": "Clothing"
+  },
+  {
+    "id": 599,
+    "name": "Golden Broomstick",
+    "type": "Weapon"
+  },
+  {
+    "id": 600,
+    "name": "Devil's Pitchfork",
+    "type": "Weapon"
+  },
+  {
+    "id": 601,
+    "name": "Christmas Lights",
+    "type": "Other"
+  },
+  {
+    "id": 602,
+    "name": "Gingerbread Man",
+    "type": "Other"
+  },
+  {
+    "id": 603,
+    "name": "Golden Wreath",
+    "type": "Other"
+  },
+  {
+    "id": 604,
+    "name": "Pair of Ice Skates",
+    "type": "Weapon"
+  },
+  {
+    "id": 605,
+    "name": "Diamond Icicle",
+    "type": "Weapon"
+  },
+  {
+    "id": 606,
+    "name": "Santa Boots",
+    "type": "Clothing"
+  },
+  {
+    "id": 607,
+    "name": "Santa Gloves",
+    "type": "Clothing"
+  },
+  {
+    "id": 608,
+    "name": "Santa Hat",
+    "type": "Clothing"
+  },
+  {
+    "id": 609,
+    "name": "Santa Jacket",
+    "type": "Clothing"
+  },
+  {
+    "id": 610,
+    "name": "Santa Trousers",
+    "type": "Clothing"
+  },
+  {
+    "id": 611,
+    "name": "Snowball",
+    "type": "Weapon"
+  },
+  {
+    "id": 612,
+    "name": "Tavor TAR-21",
+    "type": "Weapon"
+  },
+  {
+    "id": 613,
+    "name": "Harpoon",
+    "type": "Weapon"
+  },
+  {
+    "id": 614,
+    "name": "Diamond Bladed Knife",
+    "type": "Weapon"
+  },
+  {
+    "id": 615,
+    "name": "Naval Cutlass",
+    "type": "Weapon"
+  },
+  {
+    "id": 616,
+    "name": "Trout",
+    "type": "Weapon"
+  },
+  {
+    "id": 617,
+    "name": "Banana Orchid",
+    "type": "Flower"
+  },
+  {
+    "id": 618,
+    "name": "Stingray Plushie",
+    "type": "Plushie"
+  },
+  {
+    "id": 619,
+    "name": "Steel Drum",
+    "type": "Other"
+  },
+  {
+    "id": 620,
+    "name": "Nodding Turtle",
+    "type": "Other"
+  },
+  {
+    "id": 621,
+    "name": "Snorkel",
+    "type": "Clothing"
+  },
+  {
+    "id": 622,
+    "name": "Flippers",
+    "type": "Clothing"
+  },
+  {
+    "id": 623,
+    "name": "Speedo",
+    "type": "Clothing"
+  },
+  {
+    "id": 624,
+    "name": "Bikini",
+    "type": "Clothing"
+  },
+  {
+    "id": 625,
+    "name": "Wetsuit",
+    "type": "Clothing"
+  },
+  {
+    "id": 626,
+    "name": "Diving Gloves",
+    "type": "Clothing"
+  },
+  {
+    "id": 627,
+    "name": "Dog Poop",
+    "type": "Special"
+  },
+  {
+    "id": 628,
+    "name": "Stink Bombs",
+    "type": "Special"
+  },
+  {
+    "id": 629,
+    "name": "Toilet Paper",
+    "type": "Special"
+  },
+  {
+    "id": 632,
+    "name": "Petrified Humerus",
+    "type": "Weapon"
+  },
+  {
+    "id": 633,
+    "name": "Latex Gloves",
+    "type": "Enhancer"
+  },
+  {
+    "id": 634,
+    "name": "Bag of Bloody Eyeballs",
+    "type": "Candy"
+  },
+  {
+    "id": 635,
+    "name": "Straitjacket",
+    "type": "Clothing"
+  },
+  {
+    "id": 636,
+    "name": "Cinnamon Decoration",
+    "type": "Other"
+  },
+  {
+    "id": 637,
+    "name": "Christmas Express",
+    "type": "Other"
+  },
+  {
+    "id": 638,
+    "name": "Bottle of Christmas Cocktail",
+    "type": "Alcohol"
+  },
+  {
+    "id": 639,
+    "name": "Golden Candy Cane",
+    "type": "Other"
+  },
+  {
+    "id": 640,
+    "name": "Kevlar Gloves",
+    "type": "Armor"
+  },
+  {
+    "id": 641,
+    "name": "WWII Helmet",
+    "type": "Armor"
+  },
+  {
+    "id": 642,
+    "name": "Motorcycle Helmet",
+    "type": "Armor"
+  },
+  {
+    "id": 643,
+    "name": "Construction Helmet",
+    "type": "Armor"
+  },
+  {
+    "id": 644,
+    "name": "Welding Helmet",
+    "type": "Armor"
+  },
+  {
+    "id": 645,
+    "name": "Safety Boots",
+    "type": "Armor"
+  },
+  {
+    "id": 646,
+    "name": "Hiking Boots",
+    "type": "Armor"
+  },
+  {
+    "id": 647,
+    "name": "Leather Helmet",
+    "type": "Armor"
+  },
+  {
+    "id": 648,
+    "name": "Leather Pants",
+    "type": "Armor"
+  },
+  {
+    "id": 649,
+    "name": "Leather Boots",
+    "type": "Armor"
+  },
+  {
+    "id": 650,
+    "name": "Leather Gloves",
+    "type": "Armor"
+  },
+  {
+    "id": 651,
+    "name": "Combat Helmet",
+    "type": "Armor"
+  },
+  {
+    "id": 652,
+    "name": "Combat Pants",
+    "type": "Armor"
+  },
+  {
+    "id": 653,
+    "name": "Combat Boots",
+    "type": "Armor"
+  },
+  {
+    "id": 654,
+    "name": "Combat Gloves",
+    "type": "Armor"
+  },
+  {
+    "id": 655,
+    "name": "Riot Helmet",
+    "type": "Armor"
+  },
+  {
+    "id": 656,
+    "name": "Riot Body",
+    "type": "Armor"
+  },
+  {
+    "id": 657,
+    "name": "Riot Pants",
+    "type": "Armor"
+  },
+  {
+    "id": 658,
+    "name": "Riot Boots",
+    "type": "Armor"
+  },
+  {
+    "id": 659,
+    "name": "Riot Gloves",
+    "type": "Armor"
+  },
+  {
+    "id": 660,
+    "name": "Dune Helmet",
+    "type": "Armor"
+  },
+  {
+    "id": 661,
+    "name": "Dune Vest",
+    "type": "Armor"
+  },
+  {
+    "id": 662,
+    "name": "Dune Pants",
+    "type": "Armor"
+  },
+  {
+    "id": 663,
+    "name": "Dune Boots",
+    "type": "Armor"
+  },
+  {
+    "id": 664,
+    "name": "Dune Gloves",
+    "type": "Armor"
+  },
+  {
+    "id": 665,
+    "name": "Assault Helmet",
+    "type": "Armor"
+  },
+  {
+    "id": 666,
+    "name": "Assault Body",
+    "type": "Armor"
+  },
+  {
+    "id": 667,
+    "name": "Assault Pants",
+    "type": "Armor"
+  },
+  {
+    "id": 668,
+    "name": "Assault Boots",
+    "type": "Armor"
+  },
+  {
+    "id": 669,
+    "name": "Assault Gloves",
+    "type": "Armor"
+  },
+  {
+    "id": 670,
+    "name": "Delta Gas Mask",
+    "type": "Armor"
+  },
+  {
+    "id": 671,
+    "name": "Delta Body",
+    "type": "Armor"
+  },
+  {
+    "id": 672,
+    "name": "Delta Pants",
+    "type": "Armor"
+  },
+  {
+    "id": 673,
+    "name": "Delta Boots",
+    "type": "Armor"
+  },
+  {
+    "id": 674,
+    "name": "Delta Gloves",
+    "type": "Armor"
+  },
+  {
+    "id": 675,
+    "name": "Marauder Face Mask",
+    "type": "Armor"
+  },
+  {
+    "id": 676,
+    "name": "Marauder Body",
+    "type": "Armor"
+  },
+  {
+    "id": 677,
+    "name": "Marauder Pants",
+    "type": "Armor"
+  },
+  {
+    "id": 678,
+    "name": "Marauder Boots",
+    "type": "Armor"
+  },
+  {
+    "id": 679,
+    "name": "Marauder Gloves",
+    "type": "Armor"
+  },
+  {
+    "id": 680,
+    "name": "EOD Helmet",
+    "type": "Armor"
+  },
+  {
+    "id": 681,
+    "name": "EOD Apron",
+    "type": "Armor"
+  },
+  {
+    "id": 682,
+    "name": "EOD Pants",
+    "type": "Armor"
+  },
+  {
+    "id": 683,
+    "name": "EOD Boots",
+    "type": "Armor"
+  },
+  {
+    "id": 684,
+    "name": "EOD Gloves",
+    "type": "Armor"
+  },
+  {
+    "id": 697,
+    "name": "Rotten Eggs",
+    "type": "Other"
+  },
+  {
+    "id": 698,
+    "name": "Peg Leg",
+    "type": "Clothing"
+  },
+  {
+    "id": 699,
+    "name": "Antidote",
+    "type": "Medical"
+  },
+  {
+    "id": 700,
+    "name": "Christmas Angel",
+    "type": "Other"
+  },
+  {
+    "id": 701,
+    "name": "Eggnog",
+    "type": "Other"
+  },
+  {
+    "id": 702,
+    "name": "Sprig of Holly",
+    "type": "Other"
+  },
+  {
+    "id": 703,
+    "name": "Festive Socks",
+    "type": "Clothing"
+  },
+  {
+    "id": 704,
+    "name": "Respo Hoodie",
+    "type": "Clothing"
+  },
+  {
+    "id": 707,
+    "name": "Lump of Coal",
+    "type": "Tool"
+  },
+  {
+    "id": 726,
+    "name": "Scrooge's Top Hat",
+    "type": "Clothing"
+  },
+  {
+    "id": 727,
+    "name": "Scrooge's Topcoat",
+    "type": "Clothing"
+  },
+  {
+    "id": 728,
+    "name": "Scrooge's Trousers",
+    "type": "Clothing"
+  },
+  {
+    "id": 729,
+    "name": "Scrooge's Boots",
+    "type": "Clothing"
+  },
+  {
+    "id": 730,
+    "name": "Scrooge's Gloves",
+    "type": "Clothing"
+  },
+  {
+    "id": 731,
+    "name": "Empty Blood Bag",
+    "type": "Medical"
+  },
+  {
+    "id": 732,
+    "name": "Blood Bag : A+",
+    "type": "Medical"
+  },
+  {
+    "id": 733,
+    "name": "Blood Bag : A-",
+    "type": "Medical"
+  },
+  {
+    "id": 734,
+    "name": "Blood Bag : B+",
+    "type": "Medical"
+  },
+  {
+    "id": 735,
+    "name": "Blood Bag : B-",
+    "type": "Medical"
+  },
+  {
+    "id": 736,
+    "name": "Blood Bag : AB+",
+    "type": "Medical"
+  },
+  {
+    "id": 737,
+    "name": "Blood Bag : AB-",
+    "type": "Medical"
+  },
+  {
+    "id": 738,
+    "name": "Blood Bag : O+",
+    "type": "Medical"
+  },
+  {
+    "id": 739,
+    "name": "Blood Bag : O-",
+    "type": "Medical"
+  },
+  {
+    "id": 742,
+    "name": "Molotov Cocktail",
+    "type": "Weapon"
+  },
+  {
+    "id": 743,
+    "name": "Christmas Sweater '15",
+    "type": "Clothing"
+  },
+  {
+    "id": 788,
+    "name": "Certificate of Awesome",
+    "type": "Other"
+  },
+  {
+    "id": 789,
+    "name": "Certificate of Lame",
+    "type": "Other"
+  },
+  {
+    "id": 790,
+    "name": "Plastic Sword",
+    "type": "Weapon"
+  },
+  {
+    "id": 791,
+    "name": "Mediocre T-Shirt",
+    "type": "Clothing"
+  },
+  {
+    "id": 806,
+    "name": "Old Lady Mask",
+    "type": "Clothing"
+  },
+  {
+    "id": 807,
+    "name": "Exotic Gentleman Mask",
+    "type": "Clothing"
+  },
+  {
+    "id": 808,
+    "name": "Ginger Kid Mask",
+    "type": "Clothing"
+  },
+  {
+    "id": 809,
+    "name": "Young Lady Mask",
+    "type": "Clothing"
+  },
+  {
+    "id": 810,
+    "name": "Moustache Man Mask",
+    "type": "Clothing"
+  },
+  {
+    "id": 811,
+    "name": "Scarred Man Mask",
+    "type": "Clothing"
+  },
+  {
+    "id": 812,
+    "name": "Psycho Clown Mask",
+    "type": "Clothing"
+  },
+  {
+    "id": 813,
+    "name": "Nun Mask",
+    "type": "Clothing"
+  },
+  {
+    "id": 814,
+    "name": "Tyrosine",
+    "type": "Weapon"
+  },
+  {
+    "id": 815,
+    "name": "Keg of Beer",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 817,
+    "name": "Six-Pack of Alcohol",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 818,
+    "name": "Six-Pack of Energy Drink",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 819,
+    "name": "Rosary Beads",
+    "type": "Enhancer"
+  },
+  {
+    "id": 828,
+    "name": "Donald Trump Mask '16",
+    "type": "Clothing"
+  },
+  {
+    "id": 830,
+    "name": "Nock Gun",
+    "type": "Weapon"
+  },
+  {
+    "id": 831,
+    "name": "Beretta Pico",
+    "type": "Weapon"
+  },
+  {
+    "id": 832,
+    "name": "Riding Crop",
+    "type": "Weapon"
+  },
+  {
+    "id": 833,
+    "name": "Sand",
+    "type": "Material"
+  },
+  {
+    "id": 834,
+    "name": "Sweatpants",
+    "type": "Clothing"
+  },
+  {
+    "id": 835,
+    "name": "String Vest",
+    "type": "Clothing"
+  },
+  {
+    "id": 836,
+    "name": "Black Oxfords",
+    "type": "Clothing"
+  },
+  {
+    "id": 837,
+    "name": "Rheinmetall MG 3",
+    "type": "Weapon"
+  },
+  {
+    "id": 838,
+    "name": "Homemade Pocket Shotgun",
+    "type": "Weapon"
+  },
+  {
+    "id": 839,
+    "name": "Madball",
+    "type": "Weapon"
+  },
+  {
+    "id": 840,
+    "name": "Nail Bomb",
+    "type": "Weapon"
+  },
+  {
+    "id": 841,
+    "name": "Classic Fedora",
+    "type": "Clothing"
+  },
+  {
+    "id": 842,
+    "name": "Pinstripe Suit Trousers",
+    "type": "Clothing"
+  },
+  {
+    "id": 843,
+    "name": "Duster",
+    "type": "Clothing"
+  },
+  {
+    "id": 844,
+    "name": "Tranquilizer Gun",
+    "type": "Weapon"
+  },
+  {
+    "id": 845,
+    "name": "Bolt Gun",
+    "type": "Weapon"
+  },
+  {
+    "id": 846,
+    "name": "Scalpel",
+    "type": "Weapon"
+  },
+  {
+    "id": 847,
+    "name": "Nerve Gas",
+    "type": "Weapon"
+  },
+  {
+    "id": 848,
+    "name": "Kevlar Lab Coat",
+    "type": "Armor"
+  },
+  {
+    "id": 849,
+    "name": "Loupes",
+    "type": "Clothing"
+  },
+  {
+    "id": 850,
+    "name": "Sledgehammer",
+    "type": "Weapon"
+  },
+  {
+    "id": 851,
+    "name": "Wifebeater",
+    "type": "Clothing"
+  },
+  {
+    "id": 852,
+    "name": "Metal Detector",
+    "type": "Tool"
+  },
+  {
+    "id": 853,
+    "name": "Cemetery Key",
+    "type": "Tool"
+  },
+  {
+    "id": 856,
+    "name": "Spray Paint : Black",
+    "type": "Material"
+  },
+  {
+    "id": 857,
+    "name": "Spray Paint : Red",
+    "type": "Material"
+  },
+  {
+    "id": 858,
+    "name": "Spray Paint : Pink",
+    "type": "Material"
+  },
+  {
+    "id": 859,
+    "name": "Spray Paint : Purple",
+    "type": "Material"
+  },
+  {
+    "id": 860,
+    "name": "Spray Paint : Blue",
+    "type": "Material"
+  },
+  {
+    "id": 861,
+    "name": "Spray Paint : Green",
+    "type": "Material"
+  },
+  {
+    "id": 862,
+    "name": "Spray Paint : White",
+    "type": "Material"
+  },
+  {
+    "id": 863,
+    "name": "Spray Paint : Orange",
+    "type": "Material"
+  },
+  {
+    "id": 864,
+    "name": "Salt Shaker",
+    "type": "Other"
+  },
+  {
+    "id": 865,
+    "name": "Poison Mistletoe",
+    "type": "Special"
+  },
+  {
+    "id": 868,
+    "name": "Turkey Baster",
+    "type": "Other"
+  },
+  {
+    "id": 869,
+    "name": "Elon Musk Mask '17",
+    "type": "Clothing"
+  },
+  {
+    "id": 870,
+    "name": "Love Juice",
+    "type": "Drug"
+  },
+  {
+    "id": 873,
+    "name": "Bottle of Green Stout",
+    "type": "Alcohol"
+  },
+  {
+    "id": 875,
+    "name": "Rotten Apple",
+    "type": "Other"
+  },
+  {
+    "id": 876,
+    "name": "Festering Chicken",
+    "type": "Other"
+  },
+  {
+    "id": 877,
+    "name": "Moldy Pizza",
+    "type": "Other"
+  },
+  {
+    "id": 878,
+    "name": "Smelly Cheese",
+    "type": "Other"
+  },
+  {
+    "id": 879,
+    "name": "Sour Milk",
+    "type": "Other"
+  },
+  {
+    "id": 880,
+    "name": "Stale Bread",
+    "type": "Other"
+  },
+  {
+    "id": 881,
+    "name": "Spoiled Fish",
+    "type": "Other"
+  },
+  {
+    "id": 882,
+    "name": "Insurance Policy",
+    "type": "Material"
+  },
+  {
+    "id": 883,
+    "name": "Bank Statement",
+    "type": "Material"
+  },
+  {
+    "id": 884,
+    "name": "Car Battery",
+    "type": "Tool"
+  },
+  {
+    "id": 885,
+    "name": "Scrap Metal",
+    "type": "Other"
+  },
+  {
+    "id": 886,
+    "name": "Torn City Times",
+    "type": "Tool"
+  },
+  {
+    "id": 887,
+    "name": "Magazine",
+    "type": "Other"
+  },
+  {
+    "id": 888,
+    "name": "Umbrella",
+    "type": "Other"
+  },
+  {
+    "id": 889,
+    "name": "Travel Mug",
+    "type": "Other"
+  },
+  {
+    "id": 890,
+    "name": "Headphones",
+    "type": "Other"
+  },
+  {
+    "id": 891,
+    "name": "Undefined",
+    "type": "Unused"
+  },
+  {
+    "id": 892,
+    "name": "Mix CD",
+    "type": "Other"
+  },
+  {
+    "id": 893,
+    "name": "Lost and Found Office Key",
+    "type": "Tool"
+  },
+  {
+    "id": 894,
+    "name": "Cosmetics Case",
+    "type": "Other"
+  },
+  {
+    "id": 895,
+    "name": "Phone Card",
+    "type": "Other"
+  },
+  {
+    "id": 896,
+    "name": "Subway Pass",
+    "type": "Other"
+  },
+  {
+    "id": 897,
+    "name": "Bottle Cap",
+    "type": "Other"
+  },
+  {
+    "id": 898,
+    "name": "Silver Coin",
+    "type": "Other"
+  },
+  {
+    "id": 899,
+    "name": "Silver Bead",
+    "type": "Other"
+  },
+  {
+    "id": 900,
+    "name": "Lucky Quarter",
+    "type": "Other"
+  },
+  {
+    "id": 901,
+    "name": "Daffodil",
+    "type": "Flower"
+  },
+  {
+    "id": 902,
+    "name": "Bunch of Carnations",
+    "type": "Flower"
+  },
+  {
+    "id": 903,
+    "name": "White Lily",
+    "type": "Flower"
+  },
+  {
+    "id": 904,
+    "name": "Funeral Wreath",
+    "type": "Flower"
+  },
+  {
+    "id": 905,
+    "name": "Car Keys",
+    "type": "Other"
+  },
+  {
+    "id": 906,
+    "name": "Handkerchief",
+    "type": "Tool"
+  },
+  {
+    "id": 907,
+    "name": "Candle",
+    "type": "Material"
+  },
+  {
+    "id": 909,
+    "name": "Tin Can",
+    "type": "Other"
+  },
+  {
+    "id": 921,
+    "name": "Michael Myers Mask '18",
+    "type": "Clothing"
+  },
+  {
+    "id": 924,
+    "name": "Bottle of Christmas Spirit",
+    "type": "Alcohol"
+  },
+  {
+    "id": 926,
+    "name": "Gronch Mask '18",
+    "type": "Clothing"
+  },
+  {
+    "id": 927,
+    "name": "Baseball Cap",
+    "type": "Clothing"
+  },
+  {
+    "id": 928,
+    "name": "Bermudas",
+    "type": "Clothing"
+  },
+  {
+    "id": 929,
+    "name": "Blouse",
+    "type": "Clothing"
+  },
+  {
+    "id": 930,
+    "name": "Boob Tube",
+    "type": "Clothing"
+  },
+  {
+    "id": 931,
+    "name": "Bush Hat",
+    "type": "Clothing"
+  },
+  {
+    "id": 932,
+    "name": "Camisole",
+    "type": "Clothing"
+  },
+  {
+    "id": 933,
+    "name": "Capri Pants",
+    "type": "Clothing"
+  },
+  {
+    "id": 934,
+    "name": "Cardigan",
+    "type": "Clothing"
+  },
+  {
+    "id": 935,
+    "name": "Cork Hat",
+    "type": "Clothing"
+  },
+  {
+    "id": 936,
+    "name": "Crop Top",
+    "type": "Clothing"
+  },
+  {
+    "id": 937,
+    "name": "Fisherman Hat",
+    "type": "Clothing"
+  },
+  {
+    "id": 938,
+    "name": "Gym Shorts",
+    "type": "Clothing"
+  },
+  {
+    "id": 939,
+    "name": "Halterneck",
+    "type": "Clothing"
+  },
+  {
+    "id": 940,
+    "name": "Raincoat",
+    "type": "Clothing"
+  },
+  {
+    "id": 941,
+    "name": "Pantyhose",
+    "type": "Clothing"
+  },
+  {
+    "id": 942,
+    "name": "Pencil Skirt",
+    "type": "Clothing"
+  },
+  {
+    "id": 943,
+    "name": "Peplum Top",
+    "type": "Clothing"
+  },
+  {
+    "id": 944,
+    "name": "Polo Shirt",
+    "type": "Clothing"
+  },
+  {
+    "id": 945,
+    "name": "Poncho",
+    "type": "Clothing"
+  },
+  {
+    "id": 946,
+    "name": "Puffer Vest",
+    "type": "Clothing"
+  },
+  {
+    "id": 947,
+    "name": "Mackintosh",
+    "type": "Clothing"
+  },
+  {
+    "id": 948,
+    "name": "Shorts",
+    "type": "Clothing"
+  },
+  {
+    "id": 949,
+    "name": "Skirt",
+    "type": "Clothing"
+  },
+  {
+    "id": 950,
+    "name": "Travel Socks",
+    "type": "Clothing"
+  },
+  {
+    "id": 951,
+    "name": "Turtleneck",
+    "type": "Clothing"
+  },
+  {
+    "id": 952,
+    "name": "Yoga Pants",
+    "type": "Clothing"
+  },
+  {
+    "id": 956,
+    "name": "Blank DVDs",
+    "type": "Material"
+  },
+  {
+    "id": 957,
+    "name": "Blank DVDs : 50",
+    "type": "Material"
+  },
+  {
+    "id": 958,
+    "name": "Chest Harness",
+    "type": "Clothing"
+  },
+  {
+    "id": 959,
+    "name": "Choker",
+    "type": "Clothing"
+  },
+  {
+    "id": 960,
+    "name": "Fishnet Stockings",
+    "type": "Clothing"
+  },
+  {
+    "id": 961,
+    "name": "Knee-high Boots",
+    "type": "Clothing"
+  },
+  {
+    "id": 962,
+    "name": "Lingerie",
+    "type": "Clothing"
+  },
+  {
+    "id": 963,
+    "name": "Mankini",
+    "type": "Clothing"
+  },
+  {
+    "id": 964,
+    "name": "Mini Skirt",
+    "type": "Clothing"
+  },
+  {
+    "id": 965,
+    "name": "Nipple Tassels",
+    "type": "Clothing"
+  },
+  {
+    "id": 966,
+    "name": "Bowler Hat",
+    "type": "Clothing"
+  },
+  {
+    "id": 967,
+    "name": "Fitted Shirt",
+    "type": "Clothing"
+  },
+  {
+    "id": 968,
+    "name": "Bow Tie",
+    "type": "Clothing"
+  },
+  {
+    "id": 969,
+    "name": "Neck Tie",
+    "type": "Clothing"
+  },
+  {
+    "id": 970,
+    "name": "Waistcoat",
+    "type": "Clothing"
+  },
+  {
+    "id": 971,
+    "name": "Blazer",
+    "type": "Clothing"
+  },
+  {
+    "id": 972,
+    "name": "Suit Trousers",
+    "type": "Clothing"
+  },
+  {
+    "id": 973,
+    "name": "Derby Shoes",
+    "type": "Clothing"
+  },
+  {
+    "id": 974,
+    "name": "Smoking Jacket",
+    "type": "Clothing"
+  },
+  {
+    "id": 975,
+    "name": "Monocle",
+    "type": "Clothing"
+  },
+  {
+    "id": 979,
+    "name": "Paint Mask",
+    "type": "Enhancer"
+  },
+  {
+    "id": 980,
+    "name": "Ladder",
+    "type": "Tool"
+  },
+  {
+    "id": 981,
+    "name": "Wire Cutters",
+    "type": "Tool"
+  },
+  {
+    "id": 982,
+    "name": "Ripped Jeans",
+    "type": "Clothing"
+  },
+  {
+    "id": 983,
+    "name": "Bandit Mask",
+    "type": "Clothing"
+  },
+  {
+    "id": 984,
+    "name": "Bottle of Moonshine",
+    "type": "Alcohol"
+  },
+  {
+    "id": 985,
+    "name": "Can of Goose Juice",
+    "type": "Energy Drink"
+  },
+  {
+    "id": 986,
+    "name": "Can of Damp Valley",
+    "type": "Energy Drink"
+  },
+  {
+    "id": 987,
+    "name": "Can of Crocozade",
+    "type": "Energy Drink"
+  },
+  {
+    "id": 988,
+    "name": "Fur Coat",
+    "type": "Clothing"
+  },
+  {
+    "id": 989,
+    "name": "Fur Scarf",
+    "type": "Clothing"
+  },
+  {
+    "id": 990,
+    "name": "Fur Hat",
+    "type": "Clothing"
+  },
+  {
+    "id": 991,
+    "name": "Platform Shoes",
+    "type": "Clothing"
+  },
+  {
+    "id": 992,
+    "name": "Silver Flats",
+    "type": "Clothing"
+  },
+  {
+    "id": 993,
+    "name": "Crystal Bracelet",
+    "type": "Jewelry"
+  },
+  {
+    "id": 994,
+    "name": "Cocktail Ring",
+    "type": "Jewelry"
+  },
+  {
+    "id": 995,
+    "name": "Sun Hat",
+    "type": "Clothing"
+  },
+  {
+    "id": 996,
+    "name": "Square Sunglasses",
+    "type": "Clothing"
+  },
+  {
+    "id": 997,
+    "name": "Statement Necklace",
+    "type": "Jewelry"
+  },
+  {
+    "id": 998,
+    "name": "Floral Dress",
+    "type": "Clothing"
+  },
+  {
+    "id": 1001,
+    "name": "Shrug",
+    "type": "Clothing"
+  },
+  {
+    "id": 1002,
+    "name": "Eye Patch",
+    "type": "Clothing"
+  },
+  {
+    "id": 1012,
+    "name": "Blood Bag : Irradiated",
+    "type": "Medical"
+  },
+  {
+    "id": 1013,
+    "name": "Jigsaw Mask '19",
+    "type": "Clothing"
+  },
+  {
+    "id": 1014,
+    "name": "Reading Glasses",
+    "type": "Clothing"
+  },
+  {
+    "id": 1015,
+    "name": "Chinos",
+    "type": "Clothing"
+  },
+  {
+    "id": 1016,
+    "name": "Collared Shawl",
+    "type": "Clothing"
+  },
+  {
+    "id": 1017,
+    "name": "Pleated Skirt",
+    "type": "Clothing"
+  },
+  {
+    "id": 1018,
+    "name": "Flip Flops",
+    "type": "Clothing"
+  },
+  {
+    "id": 1019,
+    "name": "Bingo Visor",
+    "type": "Clothing"
+  },
+  {
+    "id": 1020,
+    "name": "Cover-ups",
+    "type": "Clothing"
+  },
+  {
+    "id": 1021,
+    "name": "Sandals",
+    "type": "Clothing"
+  },
+  {
+    "id": 1022,
+    "name": "Golf Socks",
+    "type": "Clothing"
+  },
+  {
+    "id": 1023,
+    "name": "Flat Cap",
+    "type": "Clothing"
+  },
+  {
+    "id": 1024,
+    "name": "Slippers",
+    "type": "Clothing"
+  },
+  {
+    "id": 1025,
+    "name": "Bathrobe",
+    "type": "Clothing"
+  },
+  {
+    "id": 1026,
+    "name": "Party Hat '19",
+    "type": "Clothing"
+  },
+  {
+    "id": 1027,
+    "name": "Badge : 15th Anniversary",
+    "type": "Clothing"
+  },
+  {
+    "id": 1028,
+    "name": "Birthday Cupcake",
+    "type": "Candy"
+  },
+  {
+    "id": 1029,
+    "name": "Strippogram Voucher",
+    "type": "Special"
+  },
+  {
+    "id": 1035,
+    "name": "Anniversary Present",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1036,
+    "name": "Greta Mask '19",
+    "type": "Clothing"
+  },
+  {
+    "id": 1037,
+    "name": "Anatoly Mask '19",
+    "type": "Clothing"
+  },
+  {
+    "id": 1038,
+    "name": "Santa Beard",
+    "type": "Clothing"
+  },
+  {
+    "id": 1039,
+    "name": "Bag of Humbugs",
+    "type": "Candy"
+  },
+  {
+    "id": 1040,
+    "name": "Christmas Cracker",
+    "type": "Special"
+  },
+  {
+    "id": 1042,
+    "name": "Concussion Grenade",
+    "type": "Weapon"
+  },
+  {
+    "id": 1043,
+    "name": "Paper Crown : Green",
+    "type": "Clothing"
+  },
+  {
+    "id": 1044,
+    "name": "Paper Crown : Yellow",
+    "type": "Clothing"
+  },
+  {
+    "id": 1045,
+    "name": "Paper Crown : Red",
+    "type": "Clothing"
+  },
+  {
+    "id": 1046,
+    "name": "Paper Crown : Blue",
+    "type": "Clothing"
+  },
+  {
+    "id": 1047,
+    "name": "Denim Shirt",
+    "type": "Clothing"
+  },
+  {
+    "id": 1048,
+    "name": "Denim Vest",
+    "type": "Clothing"
+  },
+  {
+    "id": 1049,
+    "name": "Denim Jacket",
+    "type": "Clothing"
+  },
+  {
+    "id": 1050,
+    "name": "Denim Jeans",
+    "type": "Clothing"
+  },
+  {
+    "id": 1051,
+    "name": "Denim Shoes",
+    "type": "Clothing"
+  },
+  {
+    "id": 1052,
+    "name": "Denim Cap",
+    "type": "Clothing"
+  },
+  {
+    "id": 1053,
+    "name": "Bread Knife",
+    "type": "Weapon"
+  },
+  {
+    "id": 1054,
+    "name": "Semtex",
+    "type": "Weapon"
+  },
+  {
+    "id": 1055,
+    "name": "Poison Umbrella",
+    "type": "Weapon"
+  },
+  {
+    "id": 1056,
+    "name": "Millwall Brick",
+    "type": "Weapon"
+  },
+  {
+    "id": 1057,
+    "name": "Gentleman Cache",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1058,
+    "name": "Gold Chain",
+    "type": "Jewelry"
+  },
+  {
+    "id": 1059,
+    "name": "Snapback Hat",
+    "type": "Clothing"
+  },
+  {
+    "id": 1060,
+    "name": "Saggy Pants",
+    "type": "Clothing"
+  },
+  {
+    "id": 1061,
+    "name": "Oversized Shirt",
+    "type": "Clothing"
+  },
+  {
+    "id": 1062,
+    "name": "Basketball Shirt",
+    "type": "Clothing"
+  },
+  {
+    "id": 1063,
+    "name": "Parachute Pants",
+    "type": "Clothing"
+  },
+  {
+    "id": 1064,
+    "name": "Tube Dress",
+    "type": "Clothing"
+  },
+  {
+    "id": 1065,
+    "name": "Gold Sneakers",
+    "type": "Clothing"
+  },
+  {
+    "id": 1066,
+    "name": "Shutter Shades",
+    "type": "Clothing"
+  },
+  {
+    "id": 1067,
+    "name": "Silver Hoodie",
+    "type": "Clothing"
+  },
+  {
+    "id": 1068,
+    "name": "Bucket Hat",
+    "type": "Clothing"
+  },
+  {
+    "id": 1069,
+    "name": "Puffer Jacket",
+    "type": "Clothing"
+  },
+  {
+    "id": 1070,
+    "name": "Durag",
+    "type": "Clothing"
+  },
+  {
+    "id": 1071,
+    "name": "Onesie",
+    "type": "Clothing"
+  },
+  {
+    "id": 1072,
+    "name": "Baseball Jacket",
+    "type": "Clothing"
+  },
+  {
+    "id": 1073,
+    "name": "Braces",
+    "type": "Clothing"
+  },
+  {
+    "id": 1074,
+    "name": "Panama Hat",
+    "type": "Clothing"
+  },
+  {
+    "id": 1075,
+    "name": "Pipe",
+    "type": "Clothing"
+  },
+  {
+    "id": 1076,
+    "name": "Shoulder Sweater",
+    "type": "Clothing"
+  },
+  {
+    "id": 1077,
+    "name": "Sports Jacket",
+    "type": "Clothing"
+  },
+  {
+    "id": 1078,
+    "name": "Old Wallet",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1079,
+    "name": "Cardholder",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1080,
+    "name": "Billfold",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1081,
+    "name": "Coin Purse",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1082,
+    "name": "Zip Wallet",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1083,
+    "name": "Clutch",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1084,
+    "name": "Credit Card",
+    "type": "Tool"
+  },
+  {
+    "id": 1085,
+    "name": "Lipstick",
+    "type": "Other"
+  },
+  {
+    "id": 1086,
+    "name": "Driver's License",
+    "type": "Other"
+  },
+  {
+    "id": 1087,
+    "name": "Tampon",
+    "type": "Other"
+  },
+  {
+    "id": 1088,
+    "name": "Receipt",
+    "type": "Other"
+  },
+  {
+    "id": 1089,
+    "name": "Family Photo",
+    "type": "Other"
+  },
+  {
+    "id": 1090,
+    "name": "Lint",
+    "type": "Other"
+  },
+  {
+    "id": 1091,
+    "name": "Handcuffs",
+    "type": "Other"
+  },
+  {
+    "id": 1092,
+    "name": "Lubricant",
+    "type": "Other"
+  },
+  {
+    "id": 1093,
+    "name": "Hit Contract",
+    "type": "Other"
+  },
+  {
+    "id": 1094,
+    "name": "Syringe",
+    "type": "Material"
+  },
+  {
+    "id": 1095,
+    "name": "Spoon",
+    "type": "Other"
+  },
+  {
+    "id": 1096,
+    "name": "Cell Phone",
+    "type": "Other"
+  },
+  {
+    "id": 1097,
+    "name": "Assless Chaps",
+    "type": "Clothing"
+  },
+  {
+    "id": 1098,
+    "name": "Opera Gloves",
+    "type": "Clothing"
+  },
+  {
+    "id": 1099,
+    "name": "Booty Shorts",
+    "type": "Clothing"
+  },
+  {
+    "id": 1100,
+    "name": "Collar",
+    "type": "Clothing"
+  },
+  {
+    "id": 1101,
+    "name": "Ball Gag",
+    "type": "Clothing"
+  },
+  {
+    "id": 1102,
+    "name": "Blindfold",
+    "type": "Clothing"
+  },
+  {
+    "id": 1103,
+    "name": "Maid Uniform",
+    "type": "Clothing"
+  },
+  {
+    "id": 1104,
+    "name": "Maid Hat",
+    "type": "Clothing"
+  },
+  {
+    "id": 1105,
+    "name": "Ball Gown",
+    "type": "Clothing"
+  },
+  {
+    "id": 1106,
+    "name": "Fascinator Hat",
+    "type": "Clothing"
+  },
+  {
+    "id": 1107,
+    "name": "Wedding Dress",
+    "type": "Clothing"
+  },
+  {
+    "id": 1108,
+    "name": "Wedding Veil",
+    "type": "Clothing"
+  },
+  {
+    "id": 1109,
+    "name": "Head Scarf",
+    "type": "Clothing"
+  },
+  {
+    "id": 1110,
+    "name": "Nightgown",
+    "type": "Clothing"
+  },
+  {
+    "id": 1111,
+    "name": "Pullover",
+    "type": "Clothing"
+  },
+  {
+    "id": 1112,
+    "name": "Elegant Cache",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1113,
+    "name": "Naughty Cache",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1114,
+    "name": "Elderly Cache",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1115,
+    "name": "Denim Cache",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1116,
+    "name": "Wannabe Cache",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1117,
+    "name": "Cutesy Cache",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1118,
+    "name": "Armor Cache",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1119,
+    "name": "Melee Cache",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1120,
+    "name": "Small Arms Cache",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1121,
+    "name": "Medium Arms Cache",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1122,
+    "name": "Heavy Arms Cache",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1123,
+    "name": "Spy Camera",
+    "type": "Tool"
+  },
+  {
+    "id": 1124,
+    "name": "Card Programmer",
+    "type": "Tool"
+  },
+  {
+    "id": 1125,
+    "name": "Card Skimmer",
+    "type": "Tool"
+  },
+  {
+    "id": 1126,
+    "name": "Tutu",
+    "type": "Clothing"
+  },
+  {
+    "id": 1127,
+    "name": "Knee Socks",
+    "type": "Clothing"
+  },
+  {
+    "id": 1128,
+    "name": "Kitty Shoes",
+    "type": "Clothing"
+  },
+  {
+    "id": 1129,
+    "name": "Cat Ears",
+    "type": "Clothing"
+  },
+  {
+    "id": 1130,
+    "name": "Bunny Ears",
+    "type": "Clothing"
+  },
+  {
+    "id": 1131,
+    "name": "Puppy Ears",
+    "type": "Clothing"
+  },
+  {
+    "id": 1132,
+    "name": "Heart Sunglasses",
+    "type": "Clothing"
+  },
+  {
+    "id": 1133,
+    "name": "Hair Bow",
+    "type": "Clothing"
+  },
+  {
+    "id": 1134,
+    "name": "Lolita Dress",
+    "type": "Clothing"
+  },
+  {
+    "id": 1135,
+    "name": "Unicorn Horn",
+    "type": "Clothing"
+  },
+  {
+    "id": 1136,
+    "name": "Check Skirt",
+    "type": "Clothing"
+  },
+  {
+    "id": 1137,
+    "name": "Polka Dot Dress",
+    "type": "Clothing"
+  },
+  {
+    "id": 1138,
+    "name": "Ballet Shoes",
+    "type": "Clothing"
+  },
+  {
+    "id": 1139,
+    "name": "Dungarees",
+    "type": "Clothing"
+  },
+  {
+    "id": 1140,
+    "name": "Tights",
+    "type": "Clothing"
+  },
+  {
+    "id": 1141,
+    "name": "Pennywise Mask '20",
+    "type": "Clothing"
+  },
+  {
+    "id": 1142,
+    "name": "Tiger King Mask '20",
+    "type": "Clothing"
+  },
+  {
+    "id": 1143,
+    "name": "Disposable Mask",
+    "type": "Material"
+  },
+  {
+    "id": 1144,
+    "name": "Chin Diaper",
+    "type": "Clothing"
+  },
+  {
+    "id": 1145,
+    "name": "Tighty Whities",
+    "type": "Clothing"
+  },
+  {
+    "id": 1146,
+    "name": "Tangerine",
+    "type": "Other"
+  },
+  {
+    "id": 1148,
+    "name": "Broken Bauble",
+    "type": "Other"
+  },
+  {
+    "id": 1150,
+    "name": "Ski Mask",
+    "type": "Clothing"
+  },
+  {
+    "id": 1151,
+    "name": "Bunny Nose",
+    "type": "Clothing"
+  },
+  {
+    "id": 1152,
+    "name": "SMAW Launcher",
+    "type": "Weapon"
+  },
+  {
+    "id": 1153,
+    "name": "China Lake",
+    "type": "Weapon"
+  },
+  {
+    "id": 1154,
+    "name": "Milkor MGL",
+    "type": "Weapon"
+  },
+  {
+    "id": 1155,
+    "name": "PKM",
+    "type": "Weapon"
+  },
+  {
+    "id": 1156,
+    "name": "Negev NG-5",
+    "type": "Weapon"
+  },
+  {
+    "id": 1157,
+    "name": "Stoner 96",
+    "type": "Weapon"
+  },
+  {
+    "id": 1158,
+    "name": "Meat Hook",
+    "type": "Weapon"
+  },
+  {
+    "id": 1159,
+    "name": "Cleaver",
+    "type": "Weapon"
+  },
+  {
+    "id": 1164,
+    "name": "M'aol Visage",
+    "type": "Armor"
+  },
+  {
+    "id": 1165,
+    "name": "M'aol Spathe",
+    "type": "Armor"
+  },
+  {
+    "id": 1166,
+    "name": "M'aol Britches",
+    "type": "Armor"
+  },
+  {
+    "id": 1167,
+    "name": "M'aol Hooves",
+    "type": "Armor"
+  },
+  {
+    "id": 1168,
+    "name": "M'aol Clawshields",
+    "type": "Armor"
+  },
+  {
+    "id": 1169,
+    "name": "M'aol Wings",
+    "type": "Clothing"
+  },
+  {
+    "id": 1177,
+    "name": "Sandworm Mask '21",
+    "type": "Clothing"
+  },
+  {
+    "id": 1178,
+    "name": "Party Popper",
+    "type": "Weapon"
+  },
+  {
+    "id": 1179,
+    "name": "Eye Bleach",
+    "type": "Special"
+  },
+  {
+    "id": 1180,
+    "name": "Prince Philip Mask '21",
+    "type": "Clothing"
+  },
+  {
+    "id": 1181,
+    "name": "Krampus Mask '21",
+    "type": "Clothing"
+  },
+  {
+    "id": 1182,
+    "name": "Head Bandage",
+    "type": "Clothing"
+  },
+  {
+    "id": 1183,
+    "name": "Medical Eye Patch",
+    "type": "Clothing"
+  },
+  {
+    "id": 1184,
+    "name": "Knee Brace",
+    "type": "Clothing"
+  },
+  {
+    "id": 1185,
+    "name": "Band-Aids",
+    "type": "Clothing"
+  },
+  {
+    "id": 1186,
+    "name": "Torso Bandage",
+    "type": "Clothing"
+  },
+  {
+    "id": 1187,
+    "name": "Prosthetic Arm",
+    "type": "Clothing"
+  },
+  {
+    "id": 1188,
+    "name": "Prosthetic Leg",
+    "type": "Clothing"
+  },
+  {
+    "id": 1189,
+    "name": "Formaldehyde",
+    "type": "Other"
+  },
+  {
+    "id": 1190,
+    "name": "Hook Hand",
+    "type": "Clothing"
+  },
+  {
+    "id": 1191,
+    "name": "Plaster Cast Leg",
+    "type": "Clothing"
+  },
+  {
+    "id": 1192,
+    "name": "Plaster Cast Arm",
+    "type": "Clothing"
+  },
+  {
+    "id": 1193,
+    "name": "Neck Brace",
+    "type": "Clothing"
+  },
+  {
+    "id": 1194,
+    "name": "Halo Vest",
+    "type": "Clothing"
+  },
+  {
+    "id": 1195,
+    "name": "Crutches",
+    "type": "Clothing"
+  },
+  {
+    "id": 1196,
+    "name": "Medical Diaper",
+    "type": "Clothing"
+  },
+  {
+    "id": 1197,
+    "name": "Hospital Gown",
+    "type": "Clothing"
+  },
+  {
+    "id": 1198,
+    "name": "Sticky Notes",
+    "type": "Other"
+  },
+  {
+    "id": 1199,
+    "name": "Casket",
+    "type": "Other"
+  },
+  {
+    "id": 1200,
+    "name": "Nitrous Tank",
+    "type": "Other"
+  },
+  {
+    "id": 1201,
+    "name": "Rope",
+    "type": "Material"
+  },
+  {
+    "id": 1202,
+    "name": "Window Breaker",
+    "type": "Tool"
+  },
+  {
+    "id": 1203,
+    "name": "Lockpicks",
+    "type": "Tool"
+  },
+  {
+    "id": 1204,
+    "name": "Skeleton Key",
+    "type": "Tool"
+  },
+  {
+    "id": 1205,
+    "name": "Wrench",
+    "type": "Weapon"
+  },
+  {
+    "id": 1206,
+    "name": "Truck Nuts",
+    "type": "Other"
+  },
+  {
+    "id": 1207,
+    "name": "Thimble",
+    "type": "Tool"
+  },
+  {
+    "id": 1208,
+    "name": "Beach Ball",
+    "type": "Other"
+  },
+  {
+    "id": 1209,
+    "name": "Hunting Trophy",
+    "type": "Other"
+  },
+  {
+    "id": 1210,
+    "name": "Hoe",
+    "type": "Other"
+  },
+  {
+    "id": 1211,
+    "name": "Fishing Rod",
+    "type": "Other"
+  },
+  {
+    "id": 1212,
+    "name": "Bleach",
+    "type": "Material"
+  },
+  {
+    "id": 1213,
+    "name": "Lye",
+    "type": "Material"
+  },
+  {
+    "id": 1214,
+    "name": "Towel",
+    "type": "Other"
+  },
+  {
+    "id": 1215,
+    "name": "Scissors",
+    "type": "Tool"
+  },
+  {
+    "id": 1216,
+    "name": "Clippers",
+    "type": "Other"
+  },
+  {
+    "id": 1217,
+    "name": "Shaving Foam",
+    "type": "Material"
+  },
+  {
+    "id": 1219,
+    "name": "Oxygen Tank",
+    "type": "Material"
+  },
+  {
+    "id": 1220,
+    "name": "Massage Oil",
+    "type": "Other"
+  },
+  {
+    "id": 1221,
+    "name": "Jigsaw Puzzle",
+    "type": "Other"
+  },
+  {
+    "id": 1222,
+    "name": "Picture Frame",
+    "type": "Other"
+  },
+  {
+    "id": 1223,
+    "name": "Cigar Cutter",
+    "type": "Tool"
+  },
+  {
+    "id": 1224,
+    "name": "Ash Tray",
+    "type": "Other"
+  },
+  {
+    "id": 1225,
+    "name": "Bowling Trophy",
+    "type": "Other"
+  },
+  {
+    "id": 1226,
+    "name": "Fertilizer",
+    "type": "Other"
+  },
+  {
+    "id": 1227,
+    "name": "Igniter Cord",
+    "type": "Other"
+  },
+  {
+    "id": 1228,
+    "name": "Bond Paper",
+    "type": "Material"
+  },
+  {
+    "id": 1230,
+    "name": "Remote Detonator",
+    "type": "Tool"
+  },
+  {
+    "id": 1231,
+    "name": "Golf Club",
+    "type": "Weapon"
+  },
+  {
+    "id": 1232,
+    "name": "Garden Gnome",
+    "type": "Other"
+  },
+  {
+    "id": 1233,
+    "name": "Wheelbarrow",
+    "type": "Tool"
+  },
+  {
+    "id": 1234,
+    "name": "Shovel",
+    "type": "Tool"
+  },
+  {
+    "id": 1235,
+    "name": "Blanket",
+    "type": "Tool"
+  },
+  {
+    "id": 1236,
+    "name": "Crockpot",
+    "type": "Other"
+  },
+  {
+    "id": 1237,
+    "name": "Plunger",
+    "type": "Other"
+  },
+  {
+    "id": 1238,
+    "name": "Silver Cutlery Set",
+    "type": "Other"
+  },
+  {
+    "id": 1239,
+    "name": "Stash Box",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1240,
+    "name": "Perfume",
+    "type": "Other"
+  },
+  {
+    "id": 1241,
+    "name": "Croquet Set",
+    "type": "Other"
+  },
+  {
+    "id": 1242,
+    "name": "Horseshoe",
+    "type": "Other"
+  },
+  {
+    "id": 1243,
+    "name": "Persian Rug",
+    "type": "Other"
+  },
+  {
+    "id": 1244,
+    "name": "Typewriter",
+    "type": "Tool"
+  },
+  {
+    "id": 1245,
+    "name": "Chandelier",
+    "type": "Other"
+  },
+  {
+    "id": 1246,
+    "name": "Inkwell",
+    "type": "Material"
+  },
+  {
+    "id": 1247,
+    "name": "Bull Semen",
+    "type": "Other"
+  },
+  {
+    "id": 1248,
+    "name": "Ammonia",
+    "type": "Other"
+  },
+  {
+    "id": 1249,
+    "name": "Hydrochloric Acid",
+    "type": "Material"
+  },
+  {
+    "id": 1250,
+    "name": "Anchor",
+    "type": "Material"
+  },
+  {
+    "id": 1251,
+    "name": "Boat Engine",
+    "type": "Other"
+  },
+  {
+    "id": 1252,
+    "name": "Brass Ingot",
+    "type": "Material"
+  },
+  {
+    "id": 1253,
+    "name": "Tractor Part",
+    "type": "Other"
+  },
+  {
+    "id": 1254,
+    "name": "Tire",
+    "type": "Other"
+  },
+  {
+    "id": 1255,
+    "name": "Bone Saw",
+    "type": "Weapon"
+  },
+  {
+    "id": 1256,
+    "name": "Machine Part",
+    "type": "Other"
+  },
+  {
+    "id": 1257,
+    "name": "Cattle Prod",
+    "type": "Weapon"
+  },
+  {
+    "id": 1258,
+    "name": "Binoculars",
+    "type": "Tool"
+  },
+  {
+    "id": 1259,
+    "name": "Razor Wire",
+    "type": "Material"
+  },
+  {
+    "id": 1260,
+    "name": "Stamp Collection",
+    "type": "Other"
+  },
+  {
+    "id": 1261,
+    "name": "Bucket",
+    "type": "Tool"
+  },
+  {
+    "id": 1262,
+    "name": "Urea",
+    "type": "Other"
+  },
+  {
+    "id": 1263,
+    "name": "Phosphorus",
+    "type": "Other"
+  },
+  {
+    "id": 1264,
+    "name": "Potassium Nitrate",
+    "type": "Material"
+  },
+  {
+    "id": 1265,
+    "name": "Grain",
+    "type": "Other"
+  },
+  {
+    "id": 1266,
+    "name": "Shampoo",
+    "type": "Other"
+  },
+  {
+    "id": 1267,
+    "name": "Detergent",
+    "type": "Other"
+  },
+  {
+    "id": 1268,
+    "name": "Vitamins",
+    "type": "Other"
+  },
+  {
+    "id": 1269,
+    "name": "Cough Syrup",
+    "type": "Other"
+  },
+  {
+    "id": 1270,
+    "name": "Paper Towels",
+    "type": "Material"
+  },
+  {
+    "id": 1271,
+    "name": "Pepper Mill",
+    "type": "Other"
+  },
+  {
+    "id": 1272,
+    "name": "Toothbrush",
+    "type": "Other"
+  },
+  {
+    "id": 1273,
+    "name": "Toothpaste",
+    "type": "Other"
+  },
+  {
+    "id": 1274,
+    "name": "Mouthwash",
+    "type": "Other"
+  },
+  {
+    "id": 1275,
+    "name": "Mop",
+    "type": "Other"
+  },
+  {
+    "id": 1276,
+    "name": "Broom",
+    "type": "Other"
+  },
+  {
+    "id": 1277,
+    "name": "Floor Cleaner",
+    "type": "Material"
+  },
+  {
+    "id": 1278,
+    "name": "Model Spine",
+    "type": "Other"
+  },
+  {
+    "id": 1279,
+    "name": "Massage Table",
+    "type": "Other"
+  },
+  {
+    "id": 1280,
+    "name": "Scalp Massager",
+    "type": "Other"
+  },
+  {
+    "id": 1281,
+    "name": "Dentures",
+    "type": "Other"
+  },
+  {
+    "id": 1282,
+    "name": "Gold Tooth",
+    "type": "Other"
+  },
+  {
+    "id": 1283,
+    "name": "Bleaching Tray",
+    "type": "Other"
+  },
+  {
+    "id": 1284,
+    "name": "Dental Mirror",
+    "type": "Tool"
+  },
+  {
+    "id": 1285,
+    "name": "Paperclips",
+    "type": "Other"
+  },
+  {
+    "id": 1286,
+    "name": "Stapler",
+    "type": "Other"
+  },
+  {
+    "id": 1287,
+    "name": "Hole Punch",
+    "type": "Other"
+  },
+  {
+    "id": 1288,
+    "name": "Notepad",
+    "type": "Other"
+  },
+  {
+    "id": 1289,
+    "name": "Permanent Marker",
+    "type": "Tool"
+  },
+  {
+    "id": 1290,
+    "name": "Toner",
+    "type": "Material"
+  },
+  {
+    "id": 1291,
+    "name": "Bloody Apron",
+    "type": "Clothing"
+  },
+  {
+    "id": 1292,
+    "name": "Bone",
+    "type": "Other"
+  },
+  {
+    "id": 1293,
+    "name": "Injury Cache",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1294,
+    "name": "Glitter Bomb",
+    "type": "Weapon"
+  },
+  {
+    "id": 1295,
+    "name": "Hell Priest Mask '22",
+    "type": "Clothing"
+  },
+  {
+    "id": 1296,
+    "name": "Ban Hammer",
+    "type": "Weapon"
+  },
+  {
+    "id": 1298,
+    "name": "Tin of Treats",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1299,
+    "name": "Queen Elizabeth II Mask '22",
+    "type": "Clothing"
+  },
+  {
+    "id": 1300,
+    "name": "eCPU",
+    "type": "Tool"
+  },
+  {
+    "id": 1301,
+    "name": "CPU",
+    "type": "Tool"
+  },
+  {
+    "id": 1302,
+    "name": "HPCPU",
+    "type": "Tool"
+  },
+  {
+    "id": 1303,
+    "name": "Computer Fan",
+    "type": "Tool"
+  },
+  {
+    "id": 1304,
+    "name": "Water Block",
+    "type": "Tool"
+  },
+  {
+    "id": 1305,
+    "name": "Heat Sink",
+    "type": "Tool"
+  },
+  {
+    "id": 1306,
+    "name": "PSU",
+    "type": "Tool"
+  },
+  {
+    "id": 1307,
+    "name": "Sentinel Helmet",
+    "type": "Armor"
+  },
+  {
+    "id": 1308,
+    "name": "Sentinel Apron",
+    "type": "Armor"
+  },
+  {
+    "id": 1309,
+    "name": "Sentinel Pants",
+    "type": "Armor"
+  },
+  {
+    "id": 1310,
+    "name": "Sentinel Boots",
+    "type": "Armor"
+  },
+  {
+    "id": 1311,
+    "name": "Sentinel Gloves",
+    "type": "Armor"
+  },
+  {
+    "id": 1312,
+    "name": "Chocolate Egg",
+    "type": "Candy"
+  },
+  {
+    "id": 1313,
+    "name": "Cassock",
+    "type": "Clothing"
+  },
+  {
+    "id": 1314,
+    "name": "Embosser",
+    "type": "Tool"
+  },
+  {
+    "id": 1315,
+    "name": "Hot Foil Stamper",
+    "type": "Tool"
+  },
+  {
+    "id": 1316,
+    "name": "Sewing Kit",
+    "type": "Tool"
+  },
+  {
+    "id": 1317,
+    "name": "Crucible",
+    "type": "Tool"
+  },
+  {
+    "id": 1318,
+    "name": "Glue",
+    "type": "Material"
+  },
+  {
+    "id": 1319,
+    "name": "Crushed Enamel",
+    "type": "Material"
+  },
+  {
+    "id": 1320,
+    "name": "Blowtorch",
+    "type": "Material"
+  },
+  {
+    "id": 1321,
+    "name": "Adhesive Plastic",
+    "type": "Material"
+  },
+  {
+    "id": 1322,
+    "name": "Cardstock",
+    "type": "Material"
+  },
+  {
+    "id": 1327,
+    "name": "Printer",
+    "type": "Tool"
+  },
+  {
+    "id": 1328,
+    "name": "Graver",
+    "type": "Tool"
+  },
+  {
+    "id": 1329,
+    "name": "Perforator",
+    "type": "Tool"
+  },
+  {
+    "id": 1330,
+    "name": "Fountain Pen",
+    "type": "Tool"
+  },
+  {
+    "id": 1331,
+    "name": "Hand Drill",
+    "type": "Tool"
+  },
+  {
+    "id": 1332,
+    "name": "Wax Seal Stamp",
+    "type": "Tool"
+  },
+  {
+    "id": 1333,
+    "name": "Bonded Latex",
+    "type": "Material"
+  },
+  {
+    "id": 1334,
+    "name": "Grinding Stone",
+    "type": "Tool"
+  },
+  {
+    "id": 1335,
+    "name": "Parking Permit",
+    "type": "Other"
+  },
+  {
+    "id": 1336,
+    "name": "Birth Certificate",
+    "type": "Other"
+  },
+  {
+    "id": 1337,
+    "name": "Diploma",
+    "type": "Other"
+  },
+  {
+    "id": 1338,
+    "name": "Polishing Pad",
+    "type": "Tool"
+  },
+  {
+    "id": 1339,
+    "name": "Bank Check",
+    "type": "Other"
+  },
+  {
+    "id": 1340,
+    "name": "Double Cut File",
+    "type": "Tool"
+  },
+  {
+    "id": 1341,
+    "name": "Concert Ticket",
+    "type": "Other"
+  },
+  {
+    "id": 1342,
+    "name": "Travel Visa",
+    "type": "Other"
+  },
+  {
+    "id": 1343,
+    "name": "Passport",
+    "type": "Other"
+  },
+  {
+    "id": 1344,
+    "name": "Medical Bill",
+    "type": "Material"
+  },
+  {
+    "id": 1345,
+    "name": "Prescription",
+    "type": "Other"
+  },
+  {
+    "id": 1346,
+    "name": "Magnifying Glass",
+    "type": "Enhancer"
+  },
+  {
+    "id": 1347,
+    "name": "Certificate Seal",
+    "type": "Material"
+  },
+  {
+    "id": 1348,
+    "name": "Aluminum Plate",
+    "type": "Material"
+  },
+  {
+    "id": 1349,
+    "name": "License Plate",
+    "type": "Other"
+  },
+  {
+    "id": 1350,
+    "name": "Police Badge",
+    "type": "Tool"
+  },
+  {
+    "id": 1351,
+    "name": "Flashlight",
+    "type": "Enhancer"
+  },
+  {
+    "id": 1352,
+    "name": "Collectible Cache",
+    "type": "Supply Pack"
+  },
+  {
+    "id": 1353,
+    "name": "Megaphone",
+    "type": "Enhancer"
+  },
+  {
+    "id": 1354,
+    "name": "Office Chair",
+    "type": "Enhancer"
+  },
+  {
+    "id": 1355,
+    "name": "Vanguard Respirator",
+    "type": "Armor"
+  },
+  {
+    "id": 1356,
+    "name": "Vanguard Body",
+    "type": "Armor"
+  },
+  {
+    "id": 1357,
+    "name": "Vanguard Pants",
+    "type": "Armor"
+  },
+  {
+    "id": 1358,
+    "name": "Vanguard Boots",
+    "type": "Armor"
+  },
+  {
+    "id": 1359,
+    "name": "Vanguard Gloves",
+    "type": "Armor"
+  },
+  {
+    "id": 1360,
+    "name": "Evil Winnie Mask '23",
+    "type": "Clothing"
+  },
+  {
+    "id": 1361,
+    "name": "Dog Treats",
+    "type": "Material"
+  },
+  {
+    "id": 1362,
+    "name": "Net",
+    "type": "Tool"
+  },
+  {
+    "id": 1363,
+    "name": "Ipecac Syrup",
+    "type": "Medical"
+  },
+  {
+    "id": 1367,
+    "name": "Turkey Head '23",
+    "type": "Clothing"
+  },
+  {
+    "id": 1368,
+    "name": "Rudolph's Nose",
+    "type": "Clothing"
+  },
+  {
+    "id": 1369,
+    "name": "Reindeer Antlers",
+    "type": "Clothing"
+  },
+  {
+    "id": 1379,
+    "name": "ATM Key",
+    "type": "Tool"
+  },
+  {
+    "id": 1380,
+    "name": "RF Detector",
+    "type": "Tool"
+  },
+  {
+    "id": 1381,
+    "name": "ID Badge",
+    "type": "Tool"
+  },
+  {
+    "id": 1382,
+    "name": "Lanyard",
+    "type": "Material"
+  },
+  {
+    "id": 1383,
+    "name": "DSLR Camera",
+    "type": "Tool"
+  },
+  {
+    "id": 1429,
+    "name": "Zip Ties",
+    "type": "Material"
+  },
+  {
+    "id": 1430,
+    "name": "Shaped Charge",
+    "type": "Material"
+  },
+  {
+    "id": 1431,
+    "name": "Core Drill",
+    "type": "Tool"
+  },
+  {
+    "id": 1449,
+    "name": "Hannibal Mask '24",
+    "type": "Clothing"
+  },
+  {
+    "id": 1450,
+    "name": "Devil Horns",
+    "type": "Clothing"
+  },
+  {
+    "id": 1452,
+    "name": "Kevin McCallister Mask '24",
+    "type": "Clothing"
+  },
+  {
+    "id": 1453,
+    "name": "Oversized Christmas Sweater",
+    "type": "Clothing"
+  },
+  {
+    "id": 1456,
+    "name": "Bolas",
+    "type": "Weapon"
+  },
+  {
+    "id": 1457,
+    "name": "Kerosene",
+    "type": "Material"
+  },
+  {
+    "id": 1458,
+    "name": "Diesel",
+    "type": "Material"
+  },
+  {
+    "id": 1459,
+    "name": "Hydrogen Tank",
+    "type": "Material"
+  },
+  {
+    "id": 1460,
+    "name": "Methane Tank",
+    "type": "Material"
+  },
+  {
+    "id": 1461,
+    "name": "Thermite",
+    "type": "Material"
+  },
+  {
+    "id": 1462,
+    "name": "Magnesium Shavings",
+    "type": "Material"
+  },
+  {
+    "id": 1463,
+    "name": "Fire Extinguisher",
+    "type": "Material"
+  },
+  {
+    "id": 1465,
+    "name": "Cluster Ring",
+    "type": "Jewelry"
+  },
+  {
+    "id": 1466,
+    "name": "Lighter",
+    "type": "Tool"
+  },
+  {
+    "id": 1475,
+    "name": "Scream Mask '25",
+    "type": "Clothing"
+  },
+  {
+    "id": 1482,
+    "name": "Bearer Bond",
+    "type": "Other"
+  },
+  {
+    "id": 1483,
+    "name": "Insulin",
+    "type": "Other"
+  },
+  {
+    "id": 1484,
+    "name": "Bear Gall",
+    "type": "Other"
+  },
+  {
+    "id": 1485,
+    "name": "Shark Fin",
+    "type": "Other"
+  },
+  {
+    "id": 1486,
+    "name": "Turtle Shell",
+    "type": "Other"
+  },
+  {
+    "id": 1487,
+    "name": "Patagonian Fossil",
+    "type": "Artifact"
+  },
+  {
+    "id": 1488,
+    "name": "Meteorite Fragment",
+    "type": "Artifact"
+  },
+  {
+    "id": 1489,
+    "name": "Ephedrine Powder",
+    "type": "Other"
+  },
+  {
+    "id": 1490,
+    "name": "Safrole Oil",
+    "type": "Other"
+  },
+  {
+    "id": 1491,
+    "name": "Ergotamine Ampoule",
+    "type": "Other"
+  },
+  {
+    "id": 1492,
+    "name": "Counterfeit Manga",
+    "type": "Other"
+  },
+  {
+    "id": 1493,
+    "name": "Whale Meat",
+    "type": "Other"
+  },
+  {
+    "id": 1494,
+    "name": "Pangolin Scales",
+    "type": "Other"
+  },
+  {
+    "id": 1495,
+    "name": "Ambergris Lump",
+    "type": "Other"
+  },
+  {
+    "id": 1496,
+    "name": "Natural Pearls",
+    "type": "Other"
+  },
+  {
+    "id": 1497,
+    "name": "Uncut Diamonds",
+    "type": "Other"
+  },
+  {
+    "id": 1498,
+    "name": "Tiger Bone Powder",
+    "type": "Other"
+  },
+  {
+    "id": 1499,
+    "name": "Obsidian Point",
+    "type": "Artifact"
+  },
+  {
+    "id": 1500,
+    "name": "Quartzite Point",
+    "type": "Artifact"
+  },
+  {
+    "id": 1501,
+    "name": "Chert Point",
+    "type": "Artifact"
+  },
+  {
+    "id": 1502,
+    "name": "Basalt Point",
+    "type": "Artifact"
+  },
+  {
+    "id": 1503,
+    "name": "Chalcedony Point",
+    "type": "Artifact"
+  },
+  {
+    "id": 1504,
+    "name": "Quartz Point",
+    "type": "Artifact"
+  },
+  {
+    "id": 1506,
+    "name": "Copium Inhaler",
+    "type": "Special"
+  },
+  {
+    "id": 1507,
+    "name": "Snowman Mask '25",
+    "type": "Clothing"
+  },
+  {
+    "id": 1508,
+    "name": "Priceless Painting",
+    "type": "Other"
+  },
+  {
+    "id": 1509,
+    "name": "Angle Grinder",
+    "type": "Tool"
+  }
+]
