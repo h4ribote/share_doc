@@ -2,5251 +2,6301 @@
   {
     "id": 1,
     "name": "Hammer",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 26
   },
   {
     "id": 2,
     "name": "Baseball Bat",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 118
   },
   {
     "id": 3,
     "name": "Crowbar",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 101
   },
   {
     "id": 4,
     "name": "Knuckle Dusters",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 244
   },
   {
     "id": 5,
     "name": "Pen Knife",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 436
   },
   {
     "id": 6,
     "name": "Kitchen Knife",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 910
   },
   {
     "id": 7,
     "name": "Dagger",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 1333
   },
   {
     "id": 8,
     "name": "Axe",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 2009
   },
   {
     "id": 9,
     "name": "Scimitar",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 5065
   },
   {
     "id": 10,
     "name": "Chainsaw",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 11064
   },
   {
     "id": 11,
     "name": "Samurai Sword",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 52588
   },
   {
     "id": 12,
     "name": "Glock 17",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 184
   },
   {
     "id": 13,
     "name": "Raven MP25",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 264
   },
   {
     "id": 14,
     "name": "Ruger 57",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 431
   },
   {
     "id": 15,
     "name": "Beretta M9",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 1037
   },
   {
     "id": 16,
     "name": "USP",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 1533
   },
   {
     "id": 17,
     "name": "Beretta 92FS",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 450000
   },
   {
     "id": 18,
     "name": "Fiveseven",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 6715
   },
   {
     "id": 19,
     "name": "Magnum",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 14379
   },
   {
     "id": 20,
     "name": "Desert Eagle",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 35984
   },
   {
     "id": 21,
     "name": "Dual 92G Berettas",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 2129444
   },
   {
     "id": 22,
     "name": "Sawed-Off Shotgun",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 1239
   },
   {
     "id": 23,
     "name": "Benelli M1 Tactical",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 3037
   },
   {
     "id": 24,
     "name": "MP5 Navy",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 3670
   },
   {
     "id": 25,
     "name": "P90",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 5755
   },
   {
     "id": 26,
     "name": "AK-47",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 9696
   },
   {
     "id": 27,
     "name": "M4A1 Colt Carbine",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 11540
   },
   {
     "id": 28,
     "name": "Benelli M4 Super",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 20865
   },
   {
     "id": 29,
     "name": "M16 A2 Rifle",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 35735
   },
   {
     "id": 30,
     "name": "Steyr AUG",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 75613
   },
   {
     "id": 31,
     "name": "M249 SAW",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 674957
   },
   {
     "id": 32,
     "name": "Leather Vest",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 1142
   },
   {
     "id": 33,
     "name": "Police Vest",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 7342
   },
   {
     "id": 34,
     "name": "Bulletproof Vest",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 31197
   },
   {
     "id": 35,
     "name": "Box of Chocolate Bars",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 608
   },
   {
     "id": 36,
     "name": "Big Box of Chocolate Bars",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 46783
   },
   {
     "id": 37,
     "name": "Bag of Bon Bons",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 587
   },
   {
     "id": 38,
     "name": "Box of Bon Bons",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 657
   },
   {
     "id": 39,
     "name": "Box of Extra Strong Mints",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 609
   },
   {
     "id": 40,
     "name": "Pack of Music CDs",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 608
   },
   {
     "id": 41,
     "name": "DVD Player",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 205
   },
   {
     "id": 42,
     "name": "MP3 Player",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 503
   },
   {
     "id": 43,
     "name": "CD Player",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 406
   },
   {
     "id": 44,
     "name": "Blank DVDs : 100",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 0
   },
   {
     "id": 45,
     "name": "Hard Drive",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 212
   },
   {
     "id": 46,
     "name": "Tank Top",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 196
   },
   {
     "id": 47,
     "name": "Trainers",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 253
   },
   {
     "id": 48,
     "name": "Jacket",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 240
   },
   {
     "id": 49,
     "name": "Full Body Armor",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 60539
   },
   {
     "id": 50,
     "name": "Outer Tactical Vest",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 750637
   },
   {
     "id": 51,
     "name": "Plain Silver Ring",
-    "type": "Jewelry"
+    "type": "Jewelry",
+    "market_price": 262
   },
   {
     "id": 52,
     "name": "Sapphire Ring",
-    "type": "Jewelry"
+    "type": "Jewelry",
+    "market_price": 601
   },
   {
     "id": 53,
     "name": "Gold Ring",
-    "type": "Jewelry"
+    "type": "Jewelry",
+    "market_price": 466
   },
   {
     "id": 54,
     "name": "Diamond Ring",
-    "type": "Jewelry"
+    "type": "Jewelry",
+    "market_price": 2635
   },
   {
     "id": 55,
     "name": "Pearl Necklace",
-    "type": "Jewelry"
+    "type": "Jewelry",
+    "market_price": 401
   },
   {
     "id": 56,
     "name": "Silver Necklace",
-    "type": "Jewelry"
+    "type": "Jewelry",
+    "market_price": 292
   },
   {
     "id": 57,
     "name": "Gold Necklace",
-    "type": "Jewelry"
+    "type": "Jewelry",
+    "market_price": 430
   },
   {
     "id": 58,
     "name": "Plastic Watch",
-    "type": "Jewelry"
+    "type": "Jewelry",
+    "market_price": 419
   },
   {
     "id": 59,
     "name": "Stainless Steel Watch",
-    "type": "Jewelry"
+    "type": "Jewelry",
+    "market_price": 249
   },
   {
     "id": 60,
     "name": "Gold Watch",
-    "type": "Jewelry"
+    "type": "Jewelry",
+    "market_price": 1150
   },
   {
     "id": 61,
     "name": "Personal Computer",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 305
   },
   {
     "id": 62,
     "name": "Microwave",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 664
   },
   {
     "id": 63,
     "name": "Minigun",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 1396417
   },
   {
     "id": 64,
     "name": "Pack of Cuban Cigars",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 685
   },
   {
     "id": 65,
     "name": "Television",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 490
   },
   {
     "id": 66,
     "name": "Morphine",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 14639
   },
   {
     "id": 67,
     "name": "First Aid Kit",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 9546
   },
   {
     "id": 68,
     "name": "Small First Aid Kit",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 4240
   },
   {
     "id": 69,
     "name": "Simple Virus",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 5076
   },
   {
     "id": 70,
     "name": "Polymorphic Virus",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 951854
   },
   {
     "id": 71,
     "name": "Tunneling Virus",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 2520207
   },
   {
     "id": 72,
     "name": "Armored Virus",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 738930
   },
   {
     "id": 73,
     "name": "Stealth Virus",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 1080125
   },
   {
     "id": 76,
     "name": "Snow Cannon",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 96,
     "name": "Coat Hanger",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 43574
   },
   {
     "id": 97,
     "name": "Bunch of Flowers",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 224
   },
   {
     "id": 98,
     "name": "Neutrilux 2000",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 99,
     "name": "Springfield 1911",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 7922
   },
   {
     "id": 100,
     "name": "Egg Propelled Launcher",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 101,
     "name": "Bunny Suit",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 103,
     "name": "Firewalk Virus",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 13706517
   },
   {
     "id": 104,
     "name": "Game Console",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 628
   },
   {
     "id": 105,
     "name": "Xbox",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 0
   },
   {
     "id": 106,
     "name": "Parachute",
-    "type": "Booster"
+    "type": "Booster",
+    "market_price": 448090000
   },
   {
     "id": 107,
     "name": "Trench Coat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 324876
   },
   {
     "id": 108,
     "name": "9mm Uzi",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 602229
   },
   {
     "id": 109,
     "name": "RPG Launcher",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 110,
     "name": "Leather Bullwhip",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 657
   },
   {
     "id": 111,
     "name": "Ninja Claws",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 4810
   },
   {
     "id": 129,
     "name": "Dozen Roses",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 306
   },
   {
     "id": 145,
     "name": "Xbox 360",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 0
   },
   {
     "id": 146,
     "name": "Yasukuni Sword",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 152544
   },
   {
     "id": 147,
     "name": "Rusty Sword",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 2292
   },
   {
     "id": 151,
     "name": "Pixie Sticks",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 315548
   },
   {
     "id": 154,
     "name": "Laptop",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 390
   },
   {
     "id": 159,
     "name": "Bolt Cutters",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 564
   },
   {
     "id": 160,
     "name": "Photographs",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 15000000
   },
   {
     "id": 167,
     "name": "Article on Crime",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 0
   },
   {
     "id": 168,
     "name": "Unknown",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 170,
     "name": "Wand of Destruction",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 172,
     "name": "Gasoline",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 571
   },
   {
     "id": 173,
     "name": "Butterfly Knife",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 907
   },
   {
     "id": 174,
     "name": "XM8 Rifle",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 8459
   },
   {
     "id": 175,
     "name": "Taser",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 3406
   },
   {
     "id": 176,
     "name": "Chain Mail",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 5735
   },
   {
     "id": 177,
     "name": "Cobra Derringer",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 54552
   },
   {
     "id": 178,
     "name": "Flak Jacket",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 4235
   },
   {
     "id": 180,
     "name": "Bottle of Beer",
-    "type": "Alcohol"
+    "type": "Alcohol",
+    "market_price": 654
   },
   {
     "id": 181,
     "name": "Bottle of Champagne",
-    "type": "Alcohol"
+    "type": "Alcohol",
+    "market_price": 2933
   },
   {
     "id": 182,
     "name": "Soap on a Rope",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 422
   },
   {
     "id": 183,
     "name": "Single Red Rose",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 309
   },
   {
     "id": 184,
     "name": "Bunch of Black Roses",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 558
   },
   {
     "id": 186,
     "name": "Sheep Plushie",
-    "type": "Plushie"
+    "type": "Plushie",
+    "market_price": 579
   },
   {
     "id": 187,
     "name": "Teddy Bear Plushie",
-    "type": "Plushie"
+    "type": "Plushie",
+    "market_price": 575
   },
   {
     "id": 189,
     "name": "S&W Revolver",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 871
   },
   {
     "id": 190,
     "name": "C4 Explosive",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 81459
   },
   {
     "id": 191,
     "name": "Memory Locket",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 4171000
   },
   {
     "id": 196,
     "name": "Cannabis",
-    "type": "Drug"
+    "type": "Drug",
+    "market_price": 8751
   },
   {
     "id": 197,
     "name": "Ecstasy",
-    "type": "Drug"
+    "type": "Drug",
+    "market_price": 40750
   },
   {
     "id": 198,
     "name": "Ketamine",
-    "type": "Drug"
+    "type": "Drug",
+    "market_price": 2214
   },
   {
     "id": 199,
     "name": "LSD",
-    "type": "Drug"
+    "type": "Drug",
+    "market_price": 28070
   },
   {
     "id": 200,
     "name": "Opium",
-    "type": "Drug"
+    "type": "Drug",
+    "market_price": 29777
   },
   {
     "id": 201,
     "name": "PCP",
-    "type": "Drug"
+    "type": "Drug",
+    "market_price": 4207
   },
   {
     "id": 203,
     "name": "Shrooms",
-    "type": "Drug"
+    "type": "Drug",
+    "market_price": 5590
   },
   {
     "id": 204,
     "name": "Speed",
-    "type": "Drug"
+    "type": "Drug",
+    "market_price": 2907
   },
   {
     "id": 205,
     "name": "Vicodin",
-    "type": "Drug"
+    "type": "Drug",
+    "market_price": 1130
   },
   {
     "id": 206,
     "name": "Xanax",
-    "type": "Drug"
+    "type": "Drug",
+    "market_price": 852278
   },
   {
     "id": 208,
     "name": "Unknown",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 209,
     "name": "Box of Sweet Hearts",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 591
   },
   {
     "id": 210,
     "name": "Bag of Chocolate Kisses",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 593
   },
   {
     "id": 215,
     "name": "Kitten Plushie",
-    "type": "Plushie"
+    "type": "Plushie",
+    "market_price": 581
   },
   {
     "id": 217,
     "name": "Claymore Sword",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 75282
   },
   {
     "id": 218,
     "name": "Crossbow",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 686
   },
   {
     "id": 219,
     "name": "Enfield SA-80",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 274722
   },
   {
     "id": 220,
     "name": "Grenade",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 6980
   },
   {
     "id": 221,
     "name": "Stick Grenade",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 13370
   },
   {
     "id": 222,
     "name": "Flash Grenade",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 22197
   },
   {
     "id": 223,
     "name": "Jackhammer",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 4031824
   },
   {
     "id": 224,
     "name": "Swiss Army Knife",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 1725
   },
   {
     "id": 225,
     "name": "Mag 7",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 53907
   },
   {
     "id": 226,
     "name": "Smoke Grenade",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 86356
   },
   {
     "id": 227,
     "name": "Spear",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 284
   },
   {
     "id": 228,
     "name": "Vektor CR-21",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 6921
   },
   {
     "id": 229,
     "name": "Claymore Mine",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 14414
   },
   {
     "id": 230,
     "name": "Flare Gun",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 160
   },
   {
     "id": 231,
     "name": "Heckler & Koch SL8",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 34488
   },
   {
     "id": 232,
     "name": "SIG 550",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 58433
   },
   {
     "id": 233,
     "name": "BT MP9",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 53258
   },
   {
     "id": 234,
     "name": "Chain Whip",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 2011
   },
   {
     "id": 235,
     "name": "Wooden Nunchaku",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 5333
   },
   {
     "id": 236,
     "name": "Kama",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 39459
   },
   {
     "id": 237,
     "name": "Kodachi",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 103611
   },
   {
     "id": 238,
     "name": "Sai",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 781
   },
   {
     "id": 239,
     "name": "Ninja Star",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 1412
   },
   {
     "id": 240,
     "name": "Type 98 Anti Tank",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 16620386
   },
   {
     "id": 241,
     "name": "Bushmaster Carbon 15",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 10105
   },
   {
     "id": 242,
     "name": "HEG",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 15140
   },
   {
     "id": 243,
     "name": "Taurus",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 393
   },
   {
     "id": 244,
     "name": "Blowgun",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 2014
   },
   {
     "id": 245,
     "name": "Bo Staff",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 5606
   },
   {
     "id": 246,
     "name": "Fireworks",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 473
   },
   {
     "id": 247,
     "name": "Katana",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 12905
   },
   {
     "id": 248,
     "name": "Qsz-92",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 70371
   },
   {
     "id": 249,
     "name": "SKS Carbine",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 5052
   },
   {
     "id": 250,
     "name": "Twin Tiger Hooks",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 43949
   },
   {
     "id": 251,
     "name": "Wushu Double Axes",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 71780
   },
   {
     "id": 252,
     "name": "Ithaca 37",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 6983
   },
   {
     "id": 253,
     "name": "Lorcin 380",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 1061
   },
   {
     "id": 254,
     "name": "S&W M29",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 128602
   },
   {
     "id": 255,
     "name": "Flamethrower",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 2522398
   },
   {
     "id": 256,
     "name": "Tear Gas",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 60947
   },
   {
     "id": 257,
     "name": "Throwing Knife",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 29375
   },
   {
     "id": 258,
     "name": "Jaguar Plushie",
-    "type": "Plushie"
+    "type": "Plushie",
+    "market_price": 14582
   },
   {
     "id": 259,
     "name": "Mayan Statue",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 2562
   },
   {
     "id": 260,
     "name": "Dahlia",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 2529
   },
   {
     "id": 261,
     "name": "Wolverine Plushie",
-    "type": "Plushie"
+    "type": "Plushie",
+    "market_price": 7002
   },
   {
     "id": 262,
     "name": "Hockey Stick",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 3099
   },
   {
     "id": 263,
     "name": "Crocus",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 7022
   },
   {
     "id": 264,
     "name": "Orchid",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 7134
   },
   {
     "id": 265,
     "name": "Pele Charm",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 2891
   },
   {
     "id": 266,
     "name": "Nessie Plushie",
-    "type": "Plushie"
+    "type": "Plushie",
+    "market_price": 32175
   },
   {
     "id": 267,
     "name": "Heather",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 37142
   },
   {
     "id": 268,
     "name": "Red Fox Plushie",
-    "type": "Plushie"
+    "type": "Plushie",
+    "market_price": 34537
   },
   {
     "id": 269,
     "name": "Monkey Plushie",
-    "type": "Plushie"
+    "type": "Plushie",
+    "market_price": 34297
   },
   {
     "id": 270,
     "name": "Soccer Ball",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 1462
   },
   {
     "id": 271,
     "name": "Ceibo Flower",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 33440
   },
   {
     "id": 272,
     "name": "Edelweiss",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 7178
   },
   {
     "id": 273,
     "name": "Chamois Plushie",
-    "type": "Plushie"
+    "type": "Plushie",
+    "market_price": 9607
   },
   {
     "id": 274,
     "name": "Panda Plushie",
-    "type": "Plushie"
+    "type": "Plushie",
+    "market_price": 53100
   },
   {
     "id": 275,
     "name": "Jade Buddha",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 12826
   },
   {
     "id": 276,
     "name": "Peony",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 60696
   },
   {
     "id": 277,
     "name": "Cherry Blossom",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 33819
   },
   {
     "id": 278,
     "name": "Kabuki Mask",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 44768
   },
   {
     "id": 279,
     "name": "Maneki Neko",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 34478
   },
   {
     "id": 280,
     "name": "Elephant Statue",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 5399
   },
   {
     "id": 281,
     "name": "Lion Plushie",
-    "type": "Plushie"
+    "type": "Plushie",
+    "market_price": 59308
   },
   {
     "id": 282,
     "name": "African Violet",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 60709
   },
   {
     "id": 283,
     "name": "Donator Pack",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 24187147
   },
   {
     "id": 289,
     "name": "Dual Axes",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 290,
     "name": "Dual Hammers",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 291,
     "name": "Dual Scimitars",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 292,
     "name": "Dual Samurai Swords",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 293,
     "name": "Japanese/English Dictionary",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 0
   },
   {
     "id": 294,
     "name": "Bottle of Sake",
-    "type": "Alcohol"
+    "type": "Alcohol",
+    "market_price": 1717
   },
   {
     "id": 295,
     "name": "Oriental Log",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 0
   },
   {
     "id": 296,
     "name": "Oriental Log Translation",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 0
   },
   {
     "id": 305,
     "name": "Mistletoe",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 200000
   },
   {
     "id": 306,
     "name": "Mini Sleigh",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 122617
   },
   {
     "id": 307,
     "name": "Snowman",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 178200
   },
   {
     "id": 308,
     "name": "Christmas Gnome",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 449554
   },
   {
     "id": 309,
     "name": "Gingerbread House",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 144053
   },
   {
     "id": 310,
     "name": "Lollipop",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 746
   },
   {
     "id": 315,
     "name": "Apartment Blueprint",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 316,
     "name": "Semi-Detached House Blueprint",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 317,
     "name": "Detached House Blueprint",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 318,
     "name": "Beach House Blueprint",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 319,
     "name": "Chalet Blueprint",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 320,
     "name": "Villa Blueprint",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 321,
     "name": "Penthouse Blueprint",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 322,
     "name": "Mansion Blueprint",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 323,
     "name": "Ranch Blueprint",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 324,
     "name": "Palace Blueprint",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 325,
     "name": "Castle Blueprint",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 326,
     "name": "Printing Paper",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 59978
   },
   {
     "id": 327,
     "name": "Blank Casino Chips",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 46813
   },
   {
     "id": 328,
     "name": "PVC Cards",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 18157
   },
   {
     "id": 329,
     "name": "Skateboard",
-    "type": "Booster"
+    "type": "Booster",
+    "market_price": 416700000
   },
   {
     "id": 330,
     "name": "Boxing Gloves",
-    "type": "Booster"
+    "type": "Booster",
+    "market_price": 447872143
   },
   {
     "id": 331,
     "name": "Dumbbells",
-    "type": "Booster"
+    "type": "Booster",
+    "market_price": 445333333
   },
   {
     "id": 332,
     "name": "Combat Vest",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 3743555
   },
   {
     "id": 333,
     "name": "Liquid Body Armor",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 5795554
   },
   {
     "id": 334,
     "name": "Flexible Body Armor",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 10827779
   },
   {
     "id": 335,
     "name": "Stick of Dynamite",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 16057
   },
   {
     "id": 336,
     "name": "Cesium-137",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 0
   },
   {
     "id": 337,
     "name": "Dirty Bomb",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 0
   },
   {
     "id": 345,
     "name": "Pack of Trojans",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 50000000
   },
   {
     "id": 346,
     "name": "Pair of High Heels",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 99
   },
   {
     "id": 347,
     "name": "Thong",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 29036
   },
   {
     "id": 348,
     "name": "Hazmat Suit",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 358,
     "name": "Raw Ivory",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 69477
   },
   {
     "id": 359,
     "name": "Fine Chisel",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 22
   },
   {
     "id": 360,
     "name": "Ivory Walking Cane",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 16449981
   },
   {
     "id": 361,
     "name": "Neumune Tablet",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 2135325
   },
   {
     "id": 364,
     "name": "Box of Grenades",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 1086712
   },
   {
     "id": 365,
     "name": "Box of Medical Supplies",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 273542
   },
   {
     "id": 366,
     "name": "Erotic DVD",
-    "type": "Booster"
+    "type": "Booster",
+    "market_price": 4040831
   },
   {
     "id": 367,
     "name": "Feathery Hotel Coupon",
-    "type": "Booster"
+    "type": "Booster",
+    "market_price": 12435143
   },
   {
     "id": 368,
     "name": "Lawyer's Business Card",
-    "type": "Booster"
+    "type": "Booster",
+    "market_price": 198276
   },
   {
     "id": 369,
     "name": "Lottery Voucher",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 902003
   },
   {
     "id": 370,
     "name": "Drug Pack",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 4361635
   },
   {
     "id": 372,
     "name": "Empty Box",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 303
   },
   {
     "id": 373,
     "name": "Parcel",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 0
   },
   {
     "id": 374,
     "name": "Birthday Present",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 0
   },
   {
     "id": 375,
     "name": "Present",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 0
   },
   {
     "id": 376,
     "name": "Christmas Present",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 0
   },
   {
     "id": 377,
     "name": "Birthday Wrapping Paper",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 282
   },
   {
     "id": 378,
     "name": "Generic Wrapping Paper",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 427
   },
   {
     "id": 379,
     "name": "Christmas Wrapping Paper",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 237
   },
   {
     "id": 380,
     "name": "Small Explosive Device",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 4847374
   },
   {
     "id": 381,
     "name": "Gold Laptop",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 0
   },
   {
     "id": 382,
     "name": "Gold Plated AK-47",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 383,
     "name": "Digital Organizer",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 0
   },
   {
     "id": 384,
     "name": "Camel Plushie",
-    "type": "Plushie"
+    "type": "Plushie",
+    "market_price": 73809
   },
   {
     "id": 385,
     "name": "Tribulus Omanense",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 64703
   },
   {
     "id": 386,
     "name": "Sports Sneakers",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 0
   },
   {
     "id": 387,
     "name": "Handbag",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 388,
     "name": "Pink Mac-10",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 391,
     "name": "Macana",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 108594
   },
   {
     "id": 392,
     "name": "Pepper Spray",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 1462
   },
   {
     "id": 393,
     "name": "Slingshot",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 16
   },
   {
     "id": 394,
     "name": "Brick",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 600
   },
   {
     "id": 395,
     "name": "Metal Nunchaku",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 413411
   },
   {
     "id": 396,
     "name": "Business Class Ticket",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 7527625
   },
   {
     "id": 397,
     "name": "Flail",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 8000000
   },
   {
     "id": 398,
     "name": "SIG 552",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 3932746
   },
   {
     "id": 399,
     "name": "ArmaLite M-15A4",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 20283098
   },
   {
     "id": 400,
     "name": "Guandao",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 148244
   },
   {
     "id": 401,
     "name": "Lead Pipe",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 40
   },
   {
     "id": 402,
     "name": "Ice Pick",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 14846
   },
   {
     "id": 403,
     "name": "Box of Tissues",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 307
   },
   {
     "id": 404,
     "name": "Bandana",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 270
   },
   {
     "id": 405,
     "name": "Loaf of Bread",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 15000000
   },
   {
     "id": 406,
     "name": "Afro Comb",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 29885
   },
   {
     "id": 407,
     "name": "Compass",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 16236
   },
   {
     "id": 408,
     "name": "Sextant",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 17622
   },
   {
     "id": 409,
     "name": "Yucca Plant",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 7126
   },
   {
     "id": 410,
     "name": "Fire Hydrant",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 15237
   },
   {
     "id": 411,
     "name": "Model Space Ship",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 15168
   },
   {
     "id": 412,
     "name": "Sports Shades",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 2719
   },
   {
     "id": 413,
     "name": "Mountie Hat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 21265
   },
   {
     "id": 414,
     "name": "Proda Sunglasses",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1817
   },
   {
     "id": 415,
     "name": "Ship in a Bottle",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 38097
   },
   {
     "id": 416,
     "name": "Paper Weight",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 1590
   },
   {
     "id": 417,
     "name": "RS232 Cable",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 202
   },
   {
     "id": 418,
     "name": "Tailor's Dummy",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 7395
   },
   {
     "id": 419,
     "name": "Small Suitcase",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 1099145
   },
   {
     "id": 420,
     "name": "Medium Suitcase",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 3900581
   },
   {
     "id": 421,
     "name": "Large Suitcase",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 10559723
   },
   {
     "id": 422,
     "name": "Vanity Hand Mirror",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 5983
   },
   {
     "id": 426,
     "name": "Bottle of Tequila",
-    "type": "Alcohol"
+    "type": "Alcohol",
+    "market_price": 715
   },
   {
     "id": 427,
     "name": "Sumo Doll",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 12571
   },
   {
     "id": 428,
     "name": "Casino Pass",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 15235667
   },
   {
     "id": 429,
     "name": "Chopsticks",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 26398
   },
   {
     "id": 430,
     "name": "Coconut Bra",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 299798
   },
   {
     "id": 431,
     "name": "Dart Board",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 1221
   },
   {
     "id": 432,
     "name": "Crazy Straw",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 704
   },
   {
     "id": 433,
     "name": "Sensu",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 2410
   },
   {
     "id": 434,
     "name": "Yakitori Lantern",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 3294
   },
   {
     "id": 435,
     "name": "Dozen White Roses",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 0
   },
   {
     "id": 436,
     "name": "Snowboard",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 3969
   },
   {
     "id": 437,
     "name": "Glow Stick",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 21039
   },
   {
     "id": 438,
     "name": "Cricket Bat",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 9504
   },
   {
     "id": 439,
     "name": "Frying Pan",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 219
   },
   {
     "id": 440,
     "name": "Pillow",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 789
   },
   {
     "id": 450,
     "name": "Leopard Coin",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 1333333
   },
   {
     "id": 451,
     "name": "Florin Coin",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 1531437
   },
   {
     "id": 452,
     "name": "Gold Noble Coin",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 1614993
   },
   {
     "id": 453,
     "name": "Ganesha Sculpture",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 9249995
   },
   {
     "id": 454,
     "name": "Vairocana Buddha Sculpture",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 6609998
   },
   {
     "id": 455,
     "name": "Companion Script : Abdullah",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 12550000
   },
   {
     "id": 456,
     "name": "Companion Script : Ubay",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 11833333
   },
   {
     "id": 457,
     "name": "Companion Script : Ali",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 11799998
   },
   {
     "id": 458,
     "name": "Shabti Sculpture",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 16345273
   },
   {
     "id": 459,
     "name": "Egyptian Amulet",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 0
   },
   {
     "id": 460,
     "name": "White Senet Pawn",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 6833333
   },
   {
     "id": 461,
     "name": "Black Senet Pawn",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 7140442
   },
   {
     "id": 462,
     "name": "Senet Board",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 409443
   },
   {
     "id": 463,
     "name": "Epinephrine",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 927196
   },
   {
     "id": 464,
     "name": "Melatonin",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 309334
   },
   {
     "id": 465,
     "name": "Serotonin",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 1307350
   },
   {
     "id": 483,
     "name": "MP5k",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 427
   },
   {
     "id": 484,
     "name": "AK74U",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 27109
   },
   {
     "id": 485,
     "name": "Skorpion",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 263
   },
   {
     "id": 486,
     "name": "TMP",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 351
   },
   {
     "id": 487,
     "name": "Thompson",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 551
   },
   {
     "id": 488,
     "name": "MP 40",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 26117
   },
   {
     "id": 489,
     "name": "Luger",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 246
   },
   {
     "id": 490,
     "name": "Blunderbuss",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 9386
   },
   {
     "id": 527,
     "name": "Bag of Candy Kisses",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 48487
   },
   {
     "id": 528,
     "name": "Bag of Tootsie Rolls",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 70995
   },
   {
     "id": 529,
     "name": "Bag of Chocolate Truffles",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 130721
   },
   {
     "id": 530,
     "name": "Can of Munster",
-    "type": "Energy Drink"
+    "type": "Energy Drink",
+    "market_price": 1469693
   },
   {
     "id": 531,
     "name": "Bottle of Pumpkin Brew",
-    "type": "Alcohol"
+    "type": "Alcohol",
+    "market_price": 51503
   },
   {
     "id": 532,
     "name": "Can of Red Cow",
-    "type": "Energy Drink"
+    "type": "Energy Drink",
+    "market_price": 1977430
   },
   {
     "id": 533,
     "name": "Can of Taurine Elite",
-    "type": "Energy Drink"
+    "type": "Energy Drink",
+    "market_price": 3166968
   },
   {
     "id": 534,
     "name": "Witch's Cauldron",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 0
   },
   {
     "id": 535,
     "name": "Electronic Pumpkin",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 24073
   },
   {
     "id": 536,
     "name": "Jack O'Lantern Lamp",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 1100000
   },
   {
     "id": 537,
     "name": "Spooky Paper Weight",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 0
   },
   {
     "id": 538,
     "name": "Medieval Helmet",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 539,
     "name": "Blood Spattered Sickle",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 540,
     "name": "Cauldron",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 0
   },
   {
     "id": 541,
     "name": "Bottle of Stinky Swamp Punch",
-    "type": "Alcohol"
+    "type": "Alcohol",
+    "market_price": 269097
   },
   {
     "id": 542,
     "name": "Bottle of Wicked Witch",
-    "type": "Alcohol"
+    "type": "Alcohol",
+    "market_price": 127375
   },
   {
     "id": 544,
     "name": "Windproof Lighter",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 7181248
   },
   {
     "id": 545,
     "name": "Dual TMPs",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 546,
     "name": "Dual Bushmasters",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 547,
     "name": "Dual MP5s",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 548,
     "name": "Dual P90s",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 549,
     "name": "Dual Uzis",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 550,
     "name": "Bottle of Kandy Kane",
-    "type": "Alcohol"
+    "type": "Alcohol",
+    "market_price": 51707
   },
   {
     "id": 551,
     "name": "Bottle of Minty Mayhem",
-    "type": "Alcohol"
+    "type": "Alcohol",
+    "market_price": 125715
   },
   {
     "id": 552,
     "name": "Bottle of Mistletoe Madness",
-    "type": "Alcohol"
+    "type": "Alcohol",
+    "market_price": 266263
   },
   {
     "id": 553,
     "name": "Can of Santa Shooters",
-    "type": "Energy Drink"
+    "type": "Energy Drink",
+    "market_price": 1464237
   },
   {
     "id": 554,
     "name": "Can of Rockstar Rudolph",
-    "type": "Energy Drink"
+    "type": "Energy Drink",
+    "market_price": 1966211
   },
   {
     "id": 555,
     "name": "Can of X-MASS",
-    "type": "Energy Drink"
+    "type": "Energy Drink",
+    "market_price": 3168178
   },
   {
     "id": 556,
     "name": "Bag of Reindeer Droppings",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 132165
   },
   {
     "id": 557,
     "name": "Advent Calendar",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 7543
   },
   {
     "id": 558,
     "name": "Santa's Snot",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 25843
   },
   {
     "id": 559,
     "name": "Polar Bear Toy",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 43421
   },
   {
     "id": 560,
     "name": "Fruitcake",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 635
   },
   {
     "id": 561,
     "name": "Book of Carols",
-    "type": "Booster"
+    "type": "Booster",
+    "market_price": 11258034
   },
   {
     "id": 562,
     "name": "Sweater",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 201
   },
   {
     "id": 563,
     "name": "Gift Card",
-    "type": "Booster"
+    "type": "Booster",
+    "market_price": 3054835
   },
   {
     "id": 564,
     "name": "Glasses",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 8203
   },
   {
     "id": 565,
     "name": "High-Speed Drive",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 252754
   },
   {
     "id": 566,
     "name": "Mountain Bike",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 100522
   },
   {
     "id": 567,
     "name": "Cut-Throat Razor",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 23535
   },
   {
     "id": 568,
     "name": "Jemmy",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 9970
   },
   {
     "id": 569,
     "name": "Balaclava",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 6662210
   },
   {
     "id": 570,
     "name": "Advanced Driving Manual",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 146657
   },
   {
     "id": 571,
     "name": "Ergonomic Keyboard",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 453363
   },
   {
     "id": 572,
     "name": "Tracking Device",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 154230
   },
   {
     "id": 573,
     "name": "Screwdriver",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 1742247
   },
   {
     "id": 574,
     "name": "Fanny Pack",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 125899
   },
   {
     "id": 575,
     "name": "Tumble Dryer",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 141169
   },
   {
     "id": 576,
     "name": "Chloroform",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 697619
   },
   {
     "id": 577,
     "name": "Heavy Duty Padlock",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 1630000
   },
   {
     "id": 578,
     "name": "Duct Tape",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 744305
   },
   {
     "id": 579,
     "name": "Wireless Dongle",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 419305
   },
   {
     "id": 580,
     "name": "Horse's Head",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 1710405
   },
   {
     "id": 581,
     "name": "Book",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 586,
     "name": "Jawbreaker",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 320352
   },
   {
     "id": 587,
     "name": "Bag of Sherbet",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 322079
   },
   {
     "id": 588,
     "name": "Goodie Bag",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 27798433
   },
   {
     "id": 589,
     "name": "Undefined",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 590,
     "name": "Undefined 2",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 591,
     "name": "Undefined 3",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 592,
     "name": "Undefined 4",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 595,
     "name": "Pile of Vomit",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 0
   },
   {
     "id": 598,
     "name": "Witch's Hat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 599,
     "name": "Golden Broomstick",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 600,
     "name": "Devil's Pitchfork",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 601,
     "name": "Christmas Lights",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 16370
   },
   {
     "id": 602,
     "name": "Gingerbread Man",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 138843
   },
   {
     "id": 603,
     "name": "Golden Wreath",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 23503
   },
   {
     "id": 604,
     "name": "Pair of Ice Skates",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 336
   },
   {
     "id": 605,
     "name": "Diamond Icicle",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 77262
   },
   {
     "id": 606,
     "name": "Santa Boots",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 498238
   },
   {
     "id": 607,
     "name": "Santa Gloves",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 400000
   },
   {
     "id": 608,
     "name": "Santa Hat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1389790
   },
   {
     "id": 609,
     "name": "Santa Jacket",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 496000
   },
   {
     "id": 610,
     "name": "Santa Trousers",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 436535
   },
   {
     "id": 611,
     "name": "Snowball",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 11233
   },
   {
     "id": 612,
     "name": "Tavor TAR-21",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 356013
   },
   {
     "id": 613,
     "name": "Harpoon",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 199238
   },
   {
     "id": 614,
     "name": "Diamond Bladed Knife",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 937733
   },
   {
     "id": 615,
     "name": "Naval Cutlass",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 616,
     "name": "Trout",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 5758
   },
   {
     "id": 617,
     "name": "Banana Orchid",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 9875
   },
   {
     "id": 618,
     "name": "Stingray Plushie",
-    "type": "Plushie"
+    "type": "Plushie",
+    "market_price": 6999
   },
   {
     "id": 619,
     "name": "Steel Drum",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 2061
   },
   {
     "id": 620,
     "name": "Nodding Turtle",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 2618
   },
   {
     "id": 621,
     "name": "Snorkel",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 14481
   },
   {
     "id": 622,
     "name": "Flippers",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 7183
   },
   {
     "id": 623,
     "name": "Speedo",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 3827
   },
   {
     "id": 624,
     "name": "Bikini",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 5345
   },
   {
     "id": 625,
     "name": "Wetsuit",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 19548
   },
   {
     "id": 626,
     "name": "Diving Gloves",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 2982
   },
   {
     "id": 627,
     "name": "Dog Poop",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 1708991
   },
   {
     "id": 628,
     "name": "Stink Bombs",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 1541397
   },
   {
     "id": 629,
     "name": "Toilet Paper",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 1771500
   },
   {
     "id": 632,
     "name": "Petrified Humerus",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 633,
     "name": "Latex Gloves",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 412805
   },
   {
     "id": 634,
     "name": "Bag of Bloody Eyeballs",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 74387
   },
   {
     "id": 635,
     "name": "Straitjacket",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 636,
     "name": "Cinnamon Decoration",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 45000
   },
   {
     "id": 637,
     "name": "Christmas Express",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 131111
   },
   {
     "id": 638,
     "name": "Bottle of Christmas Cocktail",
-    "type": "Alcohol"
+    "type": "Alcohol",
+    "market_price": 133684
   },
   {
     "id": 639,
     "name": "Golden Candy Cane",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 169421
   },
   {
     "id": 640,
     "name": "Kevlar Gloves",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 321281
   },
   {
     "id": 641,
     "name": "WWII Helmet",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 73837
   },
   {
     "id": 642,
     "name": "Motorcycle Helmet",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 67499999
   },
   {
     "id": 643,
     "name": "Construction Helmet",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 10855
   },
   {
     "id": 644,
     "name": "Welding Helmet",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 645,
     "name": "Safety Boots",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 56678
   },
   {
     "id": 646,
     "name": "Hiking Boots",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 4910
   },
   {
     "id": 647,
     "name": "Leather Helmet",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 665
   },
   {
     "id": 648,
     "name": "Leather Pants",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 859
   },
   {
     "id": 649,
     "name": "Leather Boots",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 615
   },
   {
     "id": 650,
     "name": "Leather Gloves",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 356
   },
   {
     "id": 651,
     "name": "Combat Helmet",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 3323545
   },
   {
     "id": 652,
     "name": "Combat Pants",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 3128404
   },
   {
     "id": 653,
     "name": "Combat Boots",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 2624389
   },
   {
     "id": 654,
     "name": "Combat Gloves",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 2282030
   },
   {
     "id": 655,
     "name": "Riot Helmet",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 97325440
   },
   {
     "id": 656,
     "name": "Riot Body",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 92518872
   },
   {
     "id": 657,
     "name": "Riot Pants",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 70999999
   },
   {
     "id": 658,
     "name": "Riot Boots",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 79925199
   },
   {
     "id": 659,
     "name": "Riot Gloves",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 79249283
   },
   {
     "id": 660,
     "name": "Dune Helmet",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 69830001
   },
   {
     "id": 661,
     "name": "Dune Vest",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 72899999
   },
   {
     "id": 662,
     "name": "Dune Pants",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 89203345
   },
   {
     "id": 663,
     "name": "Dune Boots",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 69210001
   },
   {
     "id": 664,
     "name": "Dune Gloves",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 70720196
   },
   {
     "id": 665,
     "name": "Assault Helmet",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 98444445
   },
   {
     "id": 666,
     "name": "Assault Body",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 226666666
   },
   {
     "id": 667,
     "name": "Assault Pants",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 205803418
   },
   {
     "id": 668,
     "name": "Assault Boots",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 122367034
   },
   {
     "id": 669,
     "name": "Assault Gloves",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 116012501
   },
   {
     "id": 670,
     "name": "Delta Gas Mask",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 671,
     "name": "Delta Body",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 455555556
   },
   {
     "id": 672,
     "name": "Delta Pants",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 673,
     "name": "Delta Boots",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 450000000
   },
   {
     "id": 674,
     "name": "Delta Gloves",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 675,
     "name": "Marauder Face Mask",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 1450000000
   },
   {
     "id": 676,
     "name": "Marauder Body",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 1472000000
   },
   {
     "id": 677,
     "name": "Marauder Pants",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 1280000000
   },
   {
     "id": 678,
     "name": "Marauder Boots",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 1087500001
   },
   {
     "id": 679,
     "name": "Marauder Gloves",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 520000000
   },
   {
     "id": 680,
     "name": "EOD Helmet",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 681,
     "name": "EOD Apron",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 682,
     "name": "EOD Pants",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 683,
     "name": "EOD Boots",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 684,
     "name": "EOD Gloves",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 697,
     "name": "Rotten Eggs",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 0
   },
   {
     "id": 698,
     "name": "Peg Leg",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 699,
     "name": "Antidote",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 0
   },
   {
     "id": 700,
     "name": "Christmas Angel",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 81331
   },
   {
     "id": 701,
     "name": "Eggnog",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 929322
   },
   {
     "id": 702,
     "name": "Sprig of Holly",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 35371
   },
   {
     "id": 703,
     "name": "Festive Socks",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 5569
   },
   {
     "id": 704,
     "name": "Respo Hoodie",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 707,
     "name": "Lump of Coal",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 3768
   },
   {
     "id": 726,
     "name": "Scrooge's Top Hat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 727,
     "name": "Scrooge's Topcoat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 728,
     "name": "Scrooge's Trousers",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 729,
     "name": "Scrooge's Boots",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 730,
     "name": "Scrooge's Gloves",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 731,
     "name": "Empty Blood Bag",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 16525
   },
   {
     "id": 732,
     "name": "Blood Bag : A+",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 17562
   },
   {
     "id": 733,
     "name": "Blood Bag : A-",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 17943
   },
   {
     "id": 734,
     "name": "Blood Bag : B+",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 18375
   },
   {
     "id": 735,
     "name": "Blood Bag : B-",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 25574
   },
   {
     "id": 736,
     "name": "Blood Bag : AB+",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 18326
   },
   {
     "id": 737,
     "name": "Blood Bag : AB-",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 26837
   },
   {
     "id": 738,
     "name": "Blood Bag : O+",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 17364
   },
   {
     "id": 739,
     "name": "Blood Bag : O-",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 19998
   },
   {
     "id": 742,
     "name": "Molotov Cocktail",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 110875
   },
   {
     "id": 743,
     "name": "Christmas Sweater '15",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 788,
     "name": "Certificate of Awesome",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 8402
   },
   {
     "id": 789,
     "name": "Certificate of Lame",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 3075
   },
   {
     "id": 790,
     "name": "Plastic Sword",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 17
   },
   {
     "id": 791,
     "name": "Mediocre T-Shirt",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1826
   },
   {
     "id": 806,
     "name": "Old Lady Mask",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 12740
   },
   {
     "id": 807,
     "name": "Exotic Gentleman Mask",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 20077
   },
   {
     "id": 808,
     "name": "Ginger Kid Mask",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 16238
   },
   {
     "id": 809,
     "name": "Young Lady Mask",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 15676
   },
   {
     "id": 810,
     "name": "Moustache Man Mask",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 13153
   },
   {
     "id": 811,
     "name": "Scarred Man Mask",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 14389
   },
   {
     "id": 812,
     "name": "Psycho Clown Mask",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 92281
   },
   {
     "id": 813,
     "name": "Nun Mask",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 15383
   },
   {
     "id": 814,
     "name": "Tyrosine",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 611183
   },
   {
     "id": 815,
     "name": "Keg of Beer",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 6587236
   },
   {
     "id": 817,
     "name": "Six-Pack of Alcohol",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 875888
   },
   {
     "id": 818,
     "name": "Six-Pack of Energy Drink",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 13044133
   },
   {
     "id": 819,
     "name": "Rosary Beads",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 2333332
   },
   {
     "id": 828,
     "name": "Donald Trump Mask '16",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 830,
     "name": "Nock Gun",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 831,
     "name": "Beretta Pico",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 832,
     "name": "Riding Crop",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 833,
     "name": "Sand",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 39112
   },
   {
     "id": 834,
     "name": "Sweatpants",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 760300
   },
   {
     "id": 835,
     "name": "String Vest",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 264499
   },
   {
     "id": 836,
     "name": "Black Oxfords",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 5500000
   },
   {
     "id": 837,
     "name": "Rheinmetall MG 3",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 838,
     "name": "Homemade Pocket Shotgun",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 839,
     "name": "Madball",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 9999999
   },
   {
     "id": 840,
     "name": "Nail Bomb",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 2814995
   },
   {
     "id": 841,
     "name": "Classic Fedora",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 970000
   },
   {
     "id": 842,
     "name": "Pinstripe Suit Trousers",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1367901
   },
   {
     "id": 843,
     "name": "Duster",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 844,
     "name": "Tranquilizer Gun",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 845,
     "name": "Bolt Gun",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 846,
     "name": "Scalpel",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 318
   },
   {
     "id": 847,
     "name": "Nerve Gas",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 848,
     "name": "Kevlar Lab Coat",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 849,
     "name": "Loupes",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 850,
     "name": "Sledgehammer",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 851,
     "name": "Wifebeater",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 852,
     "name": "Metal Detector",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 1520082
   },
   {
     "id": 853,
     "name": "Cemetery Key",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 3019451
   },
   {
     "id": 856,
     "name": "Spray Paint : Black",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 307
   },
   {
     "id": 857,
     "name": "Spray Paint : Red",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 319
   },
   {
     "id": 858,
     "name": "Spray Paint : Pink",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 301
   },
   {
     "id": 859,
     "name": "Spray Paint : Purple",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 337
   },
   {
     "id": 860,
     "name": "Spray Paint : Blue",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 303
   },
   {
     "id": 861,
     "name": "Spray Paint : Green",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 354
   },
   {
     "id": 862,
     "name": "Spray Paint : White",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 290
   },
   {
     "id": 863,
     "name": "Spray Paint : Orange",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 684
   },
   {
     "id": 864,
     "name": "Salt Shaker",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 76600
   },
   {
     "id": 865,
     "name": "Poison Mistletoe",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 62926984
   },
   {
     "id": 868,
     "name": "Turkey Baster",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 2529
   },
   {
     "id": 869,
     "name": "Elon Musk Mask '17",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 870,
     "name": "Love Juice",
-    "type": "Drug"
+    "type": "Drug",
+    "market_price": 2789824
   },
   {
     "id": 873,
     "name": "Bottle of Green Stout",
-    "type": "Alcohol"
+    "type": "Alcohol",
+    "market_price": 841949
   },
   {
     "id": 875,
     "name": "Rotten Apple",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 426
   },
   {
     "id": 876,
     "name": "Festering Chicken",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 2407
   },
   {
     "id": 877,
     "name": "Moldy Pizza",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 9089
   },
   {
     "id": 878,
     "name": "Smelly Cheese",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 7449
   },
   {
     "id": 879,
     "name": "Sour Milk",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 3566
   },
   {
     "id": 880,
     "name": "Stale Bread",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 2503
   },
   {
     "id": 881,
     "name": "Spoiled Fish",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 5050
   },
   {
     "id": 882,
     "name": "Insurance Policy",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 14308
   },
   {
     "id": 883,
     "name": "Bank Statement",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 17001
   },
   {
     "id": 884,
     "name": "Car Battery",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 351
   },
   {
     "id": 885,
     "name": "Scrap Metal",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 205
   },
   {
     "id": 886,
     "name": "Torn City Times",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 3681
   },
   {
     "id": 887,
     "name": "Magazine",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 298
   },
   {
     "id": 888,
     "name": "Umbrella",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 201
   },
   {
     "id": 889,
     "name": "Travel Mug",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 733
   },
   {
     "id": 890,
     "name": "Headphones",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 205
   },
   {
     "id": 891,
     "name": "Undefined",
-    "type": "Unused"
+    "type": "Unused",
+    "market_price": 0
   },
   {
     "id": 892,
     "name": "Mix CD",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 219
   },
   {
     "id": 893,
     "name": "Lost and Found Office Key",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 207919
   },
   {
     "id": 894,
     "name": "Cosmetics Case",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 201
   },
   {
     "id": 895,
     "name": "Phone Card",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 209
   },
   {
     "id": 896,
     "name": "Subway Pass",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 1841
   },
   {
     "id": 897,
     "name": "Bottle Cap",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 907
   },
   {
     "id": 898,
     "name": "Silver Coin",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 29633
   },
   {
     "id": 899,
     "name": "Silver Bead",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 101457
   },
   {
     "id": 900,
     "name": "Lucky Quarter",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 212561
   },
   {
     "id": 901,
     "name": "Daffodil",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 252
   },
   {
     "id": 902,
     "name": "Bunch of Carnations",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 208
   },
   {
     "id": 903,
     "name": "White Lily",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 4200
   },
   {
     "id": 904,
     "name": "Funeral Wreath",
-    "type": "Flower"
+    "type": "Flower",
+    "market_price": 217
   },
   {
     "id": 905,
     "name": "Car Keys",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 1028
   },
   {
     "id": 906,
     "name": "Handkerchief",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 184
   },
   {
     "id": 907,
     "name": "Candle",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 762
   },
   {
     "id": 909,
     "name": "Tin Can",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 207
   },
   {
     "id": 921,
     "name": "Michael Myers Mask '18",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 924,
     "name": "Bottle of Christmas Spirit",
-    "type": "Alcohol"
+    "type": "Alcohol",
+    "market_price": 1328985
   },
   {
     "id": 926,
     "name": "Gronch Mask '18",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 927,
     "name": "Baseball Cap",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 400
   },
   {
     "id": 928,
     "name": "Bermudas",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 214
   },
   {
     "id": 929,
     "name": "Blouse",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 195
   },
   {
     "id": 930,
     "name": "Boob Tube",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 396
   },
   {
     "id": 931,
     "name": "Bush Hat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 49766
   },
   {
     "id": 932,
     "name": "Camisole",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 225
   },
   {
     "id": 933,
     "name": "Capri Pants",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 230
   },
   {
     "id": 934,
     "name": "Cardigan",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 264
   },
   {
     "id": 935,
     "name": "Cork Hat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 613
   },
   {
     "id": 936,
     "name": "Crop Top",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 11287
   },
   {
     "id": 937,
     "name": "Fisherman Hat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 7869
   },
   {
     "id": 938,
     "name": "Gym Shorts",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 208
   },
   {
     "id": 939,
     "name": "Halterneck",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 268
   },
   {
     "id": 940,
     "name": "Raincoat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 7948
   },
   {
     "id": 941,
     "name": "Pantyhose",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 194
   },
   {
     "id": 942,
     "name": "Pencil Skirt",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 201
   },
   {
     "id": 943,
     "name": "Peplum Top",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 207
   },
   {
     "id": 944,
     "name": "Polo Shirt",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 202
   },
   {
     "id": 945,
     "name": "Poncho",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 203587
   },
   {
     "id": 946,
     "name": "Puffer Vest",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 235
   },
   {
     "id": 947,
     "name": "Mackintosh",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 13042
   },
   {
     "id": 948,
     "name": "Shorts",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 203
   },
   {
     "id": 949,
     "name": "Skirt",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 420
   },
   {
     "id": 950,
     "name": "Travel Socks",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 332
   },
   {
     "id": 951,
     "name": "Turtleneck",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 202
   },
   {
     "id": 952,
     "name": "Yoga Pants",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 287
   },
   {
     "id": 956,
     "name": "Blank DVDs",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 604
   },
   {
     "id": 957,
     "name": "Blank DVDs : 50",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 0
   },
   {
     "id": 958,
     "name": "Chest Harness",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1858326
   },
   {
     "id": 959,
     "name": "Choker",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1518999
   },
   {
     "id": 960,
     "name": "Fishnet Stockings",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 796657
   },
   {
     "id": 961,
     "name": "Knee-high Boots",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 2249989
   },
   {
     "id": 962,
     "name": "Lingerie",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 2999998
   },
   {
     "id": 963,
     "name": "Mankini",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 964,
     "name": "Mini Skirt",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 770000
   },
   {
     "id": 965,
     "name": "Nipple Tassels",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 15449988
   },
   {
     "id": 966,
     "name": "Bowler Hat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 793625
   },
   {
     "id": 967,
     "name": "Fitted Shirt",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 3125000
   },
   {
     "id": 968,
     "name": "Bow Tie",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 555000
   },
   {
     "id": 969,
     "name": "Neck Tie",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1857552
   },
   {
     "id": 970,
     "name": "Waistcoat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 578500
   },
   {
     "id": 971,
     "name": "Blazer",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 2043331
   },
   {
     "id": 972,
     "name": "Suit Trousers",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 2600000
   },
   {
     "id": 973,
     "name": "Derby Shoes",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 3866582
   },
   {
     "id": 974,
     "name": "Smoking Jacket",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 975,
     "name": "Monocle",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 979,
     "name": "Paint Mask",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 458522
   },
   {
     "id": 980,
     "name": "Ladder",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 7225
   },
   {
     "id": 981,
     "name": "Wire Cutters",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 1893
   },
   {
     "id": 982,
     "name": "Ripped Jeans",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 983,
     "name": "Bandit Mask",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 884000
   },
   {
     "id": 984,
     "name": "Bottle of Moonshine",
-    "type": "Alcohol"
+    "type": "Alcohol",
+    "market_price": 917855
   },
   {
     "id": 985,
     "name": "Can of Goose Juice",
-    "type": "Energy Drink"
+    "type": "Energy Drink",
+    "market_price": 294879
   },
   {
     "id": 986,
     "name": "Can of Damp Valley",
-    "type": "Energy Drink"
+    "type": "Energy Drink",
+    "market_price": 640911
   },
   {
     "id": 987,
     "name": "Can of Crocozade",
-    "type": "Energy Drink"
+    "type": "Energy Drink",
+    "market_price": 1000087
   },
   {
     "id": 988,
     "name": "Fur Coat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 3216665
   },
   {
     "id": 989,
     "name": "Fur Scarf",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1116512
   },
   {
     "id": 990,
     "name": "Fur Hat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 735000
   },
   {
     "id": 991,
     "name": "Platform Shoes",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 846667
   },
   {
     "id": 992,
     "name": "Silver Flats",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 993,
     "name": "Crystal Bracelet",
-    "type": "Jewelry"
+    "type": "Jewelry",
+    "market_price": 0
   },
   {
     "id": 994,
     "name": "Cocktail Ring",
-    "type": "Jewelry"
+    "type": "Jewelry",
+    "market_price": 3439995
   },
   {
     "id": 995,
     "name": "Sun Hat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 996,
     "name": "Square Sunglasses",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1900000
   },
   {
     "id": 997,
     "name": "Statement Necklace",
-    "type": "Jewelry"
+    "type": "Jewelry",
+    "market_price": 15900000
   },
   {
     "id": 998,
     "name": "Floral Dress",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1001,
     "name": "Shrug",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 285518
   },
   {
     "id": 1002,
     "name": "Eye Patch",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1012,
     "name": "Blood Bag : Irradiated",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 36846
   },
   {
     "id": 1013,
     "name": "Jigsaw Mask '19",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1014,
     "name": "Reading Glasses",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 271850
   },
   {
     "id": 1015,
     "name": "Chinos",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 837499
   },
   {
     "id": 1016,
     "name": "Collared Shawl",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1017,
     "name": "Pleated Skirt",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 194050
   },
   {
     "id": 1018,
     "name": "Flip Flops",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 233368
   },
   {
     "id": 1019,
     "name": "Bingo Visor",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1020,
     "name": "Cover-ups",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 2999998
   },
   {
     "id": 1021,
     "name": "Sandals",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 218163
   },
   {
     "id": 1022,
     "name": "Golf Socks",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 41642
   },
   {
     "id": 1023,
     "name": "Flat Cap",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1024,
     "name": "Slippers",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1025,
     "name": "Bathrobe",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1026,
     "name": "Party Hat '19",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 3600000
   },
   {
     "id": 1027,
     "name": "Badge : 15th Anniversary",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 3999995
   },
   {
     "id": 1028,
     "name": "Birthday Cupcake",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 3382142
   },
   {
     "id": 1029,
     "name": "Strippogram Voucher",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 18787700
   },
   {
     "id": 1035,
     "name": "Anniversary Present",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 0
   },
   {
     "id": 1036,
     "name": "Greta Mask '19",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1037,
     "name": "Anatoly Mask '19",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1038,
     "name": "Santa Beard",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1039,
     "name": "Bag of Humbugs",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 492121
   },
   {
     "id": 1040,
     "name": "Christmas Cracker",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 520533
   },
   {
     "id": 1042,
     "name": "Concussion Grenade",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 4333330
   },
   {
     "id": 1043,
     "name": "Paper Crown : Green",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1044,
     "name": "Paper Crown : Yellow",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 455613
   },
   {
     "id": 1045,
     "name": "Paper Crown : Red",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 399969
   },
   {
     "id": 1046,
     "name": "Paper Crown : Blue",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 398391
   },
   {
     "id": 1047,
     "name": "Denim Shirt",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 251771
   },
   {
     "id": 1048,
     "name": "Denim Vest",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 176833
   },
   {
     "id": 1049,
     "name": "Denim Jacket",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 299815
   },
   {
     "id": 1050,
     "name": "Denim Jeans",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1048495
   },
   {
     "id": 1051,
     "name": "Denim Shoes",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 563912
   },
   {
     "id": 1052,
     "name": "Denim Cap",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 212500
   },
   {
     "id": 1053,
     "name": "Bread Knife",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 1054,
     "name": "Semtex",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 1055,
     "name": "Poison Umbrella",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 790583485
   },
   {
     "id": 1056,
     "name": "Millwall Brick",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 1057,
     "name": "Gentleman Cache",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 4133139
   },
   {
     "id": 1058,
     "name": "Gold Chain",
-    "type": "Jewelry"
+    "type": "Jewelry",
+    "market_price": 0
   },
   {
     "id": 1059,
     "name": "Snapback Hat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 697500
   },
   {
     "id": 1060,
     "name": "Saggy Pants",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 5944000
   },
   {
     "id": 1061,
     "name": "Oversized Shirt",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 449978
   },
   {
     "id": 1062,
     "name": "Basketball Shirt",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1063,
     "name": "Parachute Pants",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1064,
     "name": "Tube Dress",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1065,
     "name": "Gold Sneakers",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 35000000
   },
   {
     "id": 1066,
     "name": "Shutter Shades",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 2200000
   },
   {
     "id": 1067,
     "name": "Silver Hoodie",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 881995
   },
   {
     "id": 1068,
     "name": "Bucket Hat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 253028
   },
   {
     "id": 1069,
     "name": "Puffer Jacket",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1343498
   },
   {
     "id": 1070,
     "name": "Durag",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 234884
   },
   {
     "id": 1071,
     "name": "Onesie",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1072,
     "name": "Baseball Jacket",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 274998
   },
   {
     "id": 1073,
     "name": "Braces",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1049995
   },
   {
     "id": 1074,
     "name": "Panama Hat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 445333
   },
   {
     "id": 1075,
     "name": "Pipe",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1076,
     "name": "Shoulder Sweater",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1077,
     "name": "Sports Jacket",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 2249983
   },
   {
     "id": 1078,
     "name": "Old Wallet",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 4337
   },
   {
     "id": 1079,
     "name": "Cardholder",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 7242
   },
   {
     "id": 1080,
     "name": "Billfold",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 35733
   },
   {
     "id": 1081,
     "name": "Coin Purse",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 3235
   },
   {
     "id": 1082,
     "name": "Zip Wallet",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 6028
   },
   {
     "id": 1083,
     "name": "Clutch",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 5716
   },
   {
     "id": 1084,
     "name": "Credit Card",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 324
   },
   {
     "id": 1085,
     "name": "Lipstick",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 194
   },
   {
     "id": 1086,
     "name": "Driver's License",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 4866
   },
   {
     "id": 1087,
     "name": "Tampon",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 995
   },
   {
     "id": 1088,
     "name": "Receipt",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 202
   },
   {
     "id": 1089,
     "name": "Family Photo",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 1010
   },
   {
     "id": 1090,
     "name": "Lint",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 0
   },
   {
     "id": 1091,
     "name": "Handcuffs",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 30321
   },
   {
     "id": 1092,
     "name": "Lubricant",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 2721
   },
   {
     "id": 1093,
     "name": "Hit Contract",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 9011
   },
   {
     "id": 1094,
     "name": "Syringe",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 610
   },
   {
     "id": 1095,
     "name": "Spoon",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 2121
   },
   {
     "id": 1096,
     "name": "Cell Phone",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 198
   },
   {
     "id": 1097,
     "name": "Assless Chaps",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1000000
   },
   {
     "id": 1098,
     "name": "Opera Gloves",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 4349992
   },
   {
     "id": 1099,
     "name": "Booty Shorts",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1763266
   },
   {
     "id": 1100,
     "name": "Collar",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1101,
     "name": "Ball Gag",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1102,
     "name": "Blindfold",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 4179998
   },
   {
     "id": 1103,
     "name": "Maid Uniform",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 4419257
   },
   {
     "id": 1104,
     "name": "Maid Hat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 867500
   },
   {
     "id": 1105,
     "name": "Ball Gown",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 22000000
   },
   {
     "id": 1106,
     "name": "Fascinator Hat",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 4999997
   },
   {
     "id": 1107,
     "name": "Wedding Dress",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1108,
     "name": "Wedding Veil",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1109,
     "name": "Head Scarf",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 715000
   },
   {
     "id": 1110,
     "name": "Nightgown",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 8699994
   },
   {
     "id": 1111,
     "name": "Pullover",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 283498
   },
   {
     "id": 1112,
     "name": "Elegant Cache",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 3985798
   },
   {
     "id": 1113,
     "name": "Naughty Cache",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 6507441
   },
   {
     "id": 1114,
     "name": "Elderly Cache",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 1699371
   },
   {
     "id": 1115,
     "name": "Denim Cache",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 728667
   },
   {
     "id": 1116,
     "name": "Wannabe Cache",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 4857941
   },
   {
     "id": 1117,
     "name": "Cutesy Cache",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 3188333
   },
   {
     "id": 1118,
     "name": "Armor Cache",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 332511301
   },
   {
     "id": 1119,
     "name": "Melee Cache",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 165688434
   },
   {
     "id": 1120,
     "name": "Small Arms Cache",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 117191804
   },
   {
     "id": 1121,
     "name": "Medium Arms Cache",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 225529775
   },
   {
     "id": 1122,
     "name": "Heavy Arms Cache",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 375625000
   },
   {
     "id": 1123,
     "name": "Spy Camera",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 543
   },
   {
     "id": 1124,
     "name": "Card Programmer",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 248494
   },
   {
     "id": 1125,
     "name": "Card Skimmer",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 2010
   },
   {
     "id": 1126,
     "name": "Tutu",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1127,
     "name": "Knee Socks",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 282497
   },
   {
     "id": 1128,
     "name": "Kitty Shoes",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1129,
     "name": "Cat Ears",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1715097
   },
   {
     "id": 1130,
     "name": "Bunny Ears",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 2372489
   },
   {
     "id": 1131,
     "name": "Puppy Ears",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1099995
   },
   {
     "id": 1132,
     "name": "Heart Sunglasses",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 37000000
   },
   {
     "id": 1133,
     "name": "Hair Bow",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1134,
     "name": "Lolita Dress",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1839992
   },
   {
     "id": 1135,
     "name": "Unicorn Horn",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1136,
     "name": "Check Skirt",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 166000
   },
   {
     "id": 1137,
     "name": "Polka Dot Dress",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1138,
     "name": "Ballet Shoes",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1272000
   },
   {
     "id": 1139,
     "name": "Dungarees",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 216990
   },
   {
     "id": 1140,
     "name": "Tights",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 168179
   },
   {
     "id": 1141,
     "name": "Pennywise Mask '20",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1142,
     "name": "Tiger King Mask '20",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1143,
     "name": "Disposable Mask",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 323
   },
   {
     "id": 1144,
     "name": "Chin Diaper",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1145,
     "name": "Tighty Whities",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 300000
   },
   {
     "id": 1146,
     "name": "Tangerine",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 100000
   },
   {
     "id": 1148,
     "name": "Broken Bauble",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 63296
   },
   {
     "id": 1150,
     "name": "Ski Mask",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1151,
     "name": "Bunny Nose",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1152,
     "name": "SMAW Launcher",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 10625000
   },
   {
     "id": 1153,
     "name": "China Lake",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 8199998
   },
   {
     "id": 1154,
     "name": "Milkor MGL",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 35000000
   },
   {
     "id": 1155,
     "name": "PKM",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 11083333
   },
   {
     "id": 1156,
     "name": "Negev NG-5",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 4000000
   },
   {
     "id": 1157,
     "name": "Stoner 96",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 7618250
   },
   {
     "id": 1158,
     "name": "Meat Hook",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 16750000
   },
   {
     "id": 1159,
     "name": "Cleaver",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 1164,
     "name": "M'aol Visage",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 1165,
     "name": "M'aol Spathe",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 1166,
     "name": "M'aol Britches",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 1167,
     "name": "M'aol Hooves",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 1168,
     "name": "M'aol Clawshields",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 1169,
     "name": "M'aol Wings",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1177,
     "name": "Sandworm Mask '21",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1178,
     "name": "Party Popper",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 140245
   },
   {
     "id": 1179,
     "name": "Eye Bleach",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 0
   },
   {
     "id": 1180,
     "name": "Prince Philip Mask '21",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1181,
     "name": "Krampus Mask '21",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1182,
     "name": "Head Bandage",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 3083333
   },
   {
     "id": 1183,
     "name": "Medical Eye Patch",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 862995
   },
   {
     "id": 1184,
     "name": "Knee Brace",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1185,
     "name": "Band-Aids",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1186,
     "name": "Torso Bandage",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 3350000
   },
   {
     "id": 1187,
     "name": "Prosthetic Arm",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1188,
     "name": "Prosthetic Leg",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1189,
     "name": "Formaldehyde",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 2600
   },
   {
     "id": 1190,
     "name": "Hook Hand",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1191,
     "name": "Plaster Cast Leg",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 698565
   },
   {
     "id": 1192,
     "name": "Plaster Cast Arm",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 839500
   },
   {
     "id": 1193,
     "name": "Neck Brace",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 448308
   },
   {
     "id": 1194,
     "name": "Halo Vest",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 2349999
   },
   {
     "id": 1195,
     "name": "Crutches",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1196,
     "name": "Medical Diaper",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 866243
   },
   {
     "id": 1197,
     "name": "Hospital Gown",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 634559
   },
   {
     "id": 1198,
     "name": "Sticky Notes",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 11301
   },
   {
     "id": 1199,
     "name": "Casket",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 49229
   },
   {
     "id": 1200,
     "name": "Nitrous Tank",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 24131
   },
   {
     "id": 1201,
     "name": "Rope",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 653
   },
   {
     "id": 1202,
     "name": "Window Breaker",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 187226
   },
   {
     "id": 1203,
     "name": "Lockpicks",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 60081
   },
   {
     "id": 1204,
     "name": "Skeleton Key",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 79789
   },
   {
     "id": 1205,
     "name": "Wrench",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 616
   },
   {
     "id": 1206,
     "name": "Truck Nuts",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 1220255
   },
   {
     "id": 1207,
     "name": "Thimble",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 1744995
   },
   {
     "id": 1208,
     "name": "Beach Ball",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 973
   },
   {
     "id": 1209,
     "name": "Hunting Trophy",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 44790
   },
   {
     "id": 1210,
     "name": "Hoe",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 12581
   },
   {
     "id": 1211,
     "name": "Fishing Rod",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 8060
   },
   {
     "id": 1212,
     "name": "Bleach",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 29577
   },
   {
     "id": 1213,
     "name": "Lye",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 12552
   },
   {
     "id": 1214,
     "name": "Towel",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 271
   },
   {
     "id": 1215,
     "name": "Scissors",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 3716
   },
   {
     "id": 1216,
     "name": "Clippers",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 1318
   },
   {
     "id": 1217,
     "name": "Shaving Foam",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 697
   },
   {
     "id": 1219,
     "name": "Oxygen Tank",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 23797
   },
   {
     "id": 1220,
     "name": "Massage Oil",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 1630
   },
   {
     "id": 1221,
     "name": "Jigsaw Puzzle",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 12196
   },
   {
     "id": 1222,
     "name": "Picture Frame",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 1222
   },
   {
     "id": 1223,
     "name": "Cigar Cutter",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 35712
   },
   {
     "id": 1224,
     "name": "Ash Tray",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 0
   },
   {
     "id": 1225,
     "name": "Bowling Trophy",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 465607
   },
   {
     "id": 1226,
     "name": "Fertilizer",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 3528
   },
   {
     "id": 1227,
     "name": "Igniter Cord",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 5001
   },
   {
     "id": 1228,
     "name": "Bond Paper",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 306
   },
   {
     "id": 1230,
     "name": "Remote Detonator",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 4081
   },
   {
     "id": 1231,
     "name": "Golf Club",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 1735
   },
   {
     "id": 1232,
     "name": "Garden Gnome",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 7627
   },
   {
     "id": 1233,
     "name": "Wheelbarrow",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 603
   },
   {
     "id": 1234,
     "name": "Shovel",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 423
   },
   {
     "id": 1235,
     "name": "Blanket",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 13113
   },
   {
     "id": 1236,
     "name": "Crockpot",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 15177
   },
   {
     "id": 1237,
     "name": "Plunger",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 11576
   },
   {
     "id": 1238,
     "name": "Silver Cutlery Set",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 7523
   },
   {
     "id": 1239,
     "name": "Stash Box",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 49716
   },
   {
     "id": 1240,
     "name": "Perfume",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 1741
   },
   {
     "id": 1241,
     "name": "Croquet Set",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 10138
   },
   {
     "id": 1242,
     "name": "Horseshoe",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 1419
   },
   {
     "id": 1243,
     "name": "Persian Rug",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 123977
   },
   {
     "id": 1244,
     "name": "Typewriter",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 13987
   },
   {
     "id": 1245,
     "name": "Chandelier",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 710710
   },
   {
     "id": 1246,
     "name": "Inkwell",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 13106
   },
   {
     "id": 1247,
     "name": "Bull Semen",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 641862
   },
   {
     "id": 1248,
     "name": "Ammonia",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 2683
   },
   {
     "id": 1249,
     "name": "Hydrochloric Acid",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 48574
   },
   {
     "id": 1250,
     "name": "Anchor",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 242121
   },
   {
     "id": 1251,
     "name": "Boat Engine",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 75203
   },
   {
     "id": 1252,
     "name": "Brass Ingot",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 8106
   },
   {
     "id": 1253,
     "name": "Tractor Part",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 6450
   },
   {
     "id": 1254,
     "name": "Tire",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 536
   },
   {
     "id": 1255,
     "name": "Bone Saw",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 835
   },
   {
     "id": 1256,
     "name": "Machine Part",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 3849
   },
   {
     "id": 1257,
     "name": "Cattle Prod",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 88377
   },
   {
     "id": 1258,
     "name": "Binoculars",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 3437
   },
   {
     "id": 1259,
     "name": "Razor Wire",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 44240
   },
   {
     "id": 1260,
     "name": "Stamp Collection",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 71567
   },
   {
     "id": 1261,
     "name": "Bucket",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 8002
   },
   {
     "id": 1262,
     "name": "Urea",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 6057
   },
   {
     "id": 1263,
     "name": "Phosphorus",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 18097
   },
   {
     "id": 1264,
     "name": "Potassium Nitrate",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 58585
   },
   {
     "id": 1265,
     "name": "Grain",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 5054
   },
   {
     "id": 1266,
     "name": "Shampoo",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 288
   },
   {
     "id": 1267,
     "name": "Detergent",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 3586
   },
   {
     "id": 1268,
     "name": "Vitamins",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 238
   },
   {
     "id": 1269,
     "name": "Cough Syrup",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 926
   },
   {
     "id": 1270,
     "name": "Paper Towels",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 6675
   },
   {
     "id": 1271,
     "name": "Pepper Mill",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 0
   },
   {
     "id": 1272,
     "name": "Toothbrush",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 1762
   },
   {
     "id": 1273,
     "name": "Toothpaste",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 1476
   },
   {
     "id": 1274,
     "name": "Mouthwash",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 264
   },
   {
     "id": 1275,
     "name": "Mop",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 3676
   },
   {
     "id": 1276,
     "name": "Broom",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 2816
   },
   {
     "id": 1277,
     "name": "Floor Cleaner",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 4427
   },
   {
     "id": 1278,
     "name": "Model Spine",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 7427
   },
   {
     "id": 1279,
     "name": "Massage Table",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 11875
   },
   {
     "id": 1280,
     "name": "Scalp Massager",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 698
   },
   {
     "id": 1281,
     "name": "Dentures",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 4015
   },
   {
     "id": 1282,
     "name": "Gold Tooth",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 15495
   },
   {
     "id": 1283,
     "name": "Bleaching Tray",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 3542
   },
   {
     "id": 1284,
     "name": "Dental Mirror",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 50578
   },
   {
     "id": 1285,
     "name": "Paperclips",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 12340
   },
   {
     "id": 1286,
     "name": "Stapler",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 6063
   },
   {
     "id": 1287,
     "name": "Hole Punch",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 4449
   },
   {
     "id": 1288,
     "name": "Notepad",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 201
   },
   {
     "id": 1289,
     "name": "Permanent Marker",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 959
   },
   {
     "id": 1290,
     "name": "Toner",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 303
   },
   {
     "id": 1291,
     "name": "Bloody Apron",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 1793333
   },
   {
     "id": 1292,
     "name": "Bone",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 9087
   },
   {
     "id": 1293,
     "name": "Injury Cache",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 6095718
   },
   {
     "id": 1294,
     "name": "Glitter Bomb",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 886462
   },
   {
     "id": 1295,
     "name": "Hell Priest Mask '22",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1296,
     "name": "Ban Hammer",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 1298,
     "name": "Tin of Treats",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 1204840
   },
   {
     "id": 1299,
     "name": "Queen Elizabeth II Mask '22",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1300,
     "name": "eCPU",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 308
   },
   {
     "id": 1301,
     "name": "CPU",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 306
   },
   {
     "id": 1302,
     "name": "HPCPU",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 11132
   },
   {
     "id": 1303,
     "name": "Computer Fan",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 1429
   },
   {
     "id": 1304,
     "name": "Water Block",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 4579
   },
   {
     "id": 1305,
     "name": "Heat Sink",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 50652
   },
   {
     "id": 1306,
     "name": "PSU",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 513
   },
   {
     "id": 1307,
     "name": "Sentinel Helmet",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 1308,
     "name": "Sentinel Apron",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 1309,
     "name": "Sentinel Pants",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 3555555557
   },
   {
     "id": 1310,
     "name": "Sentinel Boots",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 1311,
     "name": "Sentinel Gloves",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 1312,
     "name": "Chocolate Egg",
-    "type": "Candy"
+    "type": "Candy",
+    "market_price": 981629
   },
   {
     "id": 1313,
     "name": "Cassock",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 200952
   },
   {
     "id": 1314,
     "name": "Embosser",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 6636202
   },
   {
     "id": 1315,
     "name": "Hot Foil Stamper",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 12222168
   },
   {
     "id": 1316,
     "name": "Sewing Kit",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 22972
   },
   {
     "id": 1317,
     "name": "Crucible",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 99928
   },
   {
     "id": 1318,
     "name": "Glue",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 413
   },
   {
     "id": 1319,
     "name": "Crushed Enamel",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 11997
   },
   {
     "id": 1320,
     "name": "Blowtorch",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 301021
   },
   {
     "id": 1321,
     "name": "Adhesive Plastic",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 600
   },
   {
     "id": 1322,
     "name": "Cardstock",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 586
   },
   {
     "id": 1327,
     "name": "Printer",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 45627
   },
   {
     "id": 1328,
     "name": "Graver",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 84290
   },
   {
     "id": 1329,
     "name": "Perforator",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 375921
   },
   {
     "id": 1330,
     "name": "Fountain Pen",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 802
   },
   {
     "id": 1331,
     "name": "Hand Drill",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 610
   },
   {
     "id": 1332,
     "name": "Wax Seal Stamp",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 1009784
   },
   {
     "id": 1333,
     "name": "Bonded Latex",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 240507
   },
   {
     "id": 1334,
     "name": "Grinding Stone",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 118659
   },
   {
     "id": 1335,
     "name": "Parking Permit",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 6266
   },
   {
     "id": 1336,
     "name": "Birth Certificate",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 61674
   },
   {
     "id": 1337,
     "name": "Diploma",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 71804
   },
   {
     "id": 1338,
     "name": "Polishing Pad",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 309026
   },
   {
     "id": 1339,
     "name": "Bank Check",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 185774
   },
   {
     "id": 1340,
     "name": "Double Cut File",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 291
   },
   {
     "id": 1341,
     "name": "Concert Ticket",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 3162
   },
   {
     "id": 1342,
     "name": "Travel Visa",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 121653
   },
   {
     "id": 1343,
     "name": "Passport",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 618316
   },
   {
     "id": 1344,
     "name": "Medical Bill",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 13761
   },
   {
     "id": 1345,
     "name": "Prescription",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 74723
   },
   {
     "id": 1346,
     "name": "Magnifying Glass",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 1754415
   },
   {
     "id": 1347,
     "name": "Certificate Seal",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 234956
   },
   {
     "id": 1348,
     "name": "Aluminum Plate",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 7719
   },
   {
     "id": 1349,
     "name": "License Plate",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 94639
   },
   {
     "id": 1350,
     "name": "Police Badge",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 247329
   },
   {
     "id": 1351,
     "name": "Flashlight",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 67903
   },
   {
     "id": 1352,
     "name": "Collectible Cache",
-    "type": "Supply Pack"
+    "type": "Supply Pack",
+    "market_price": 0
   },
   {
     "id": 1353,
     "name": "Megaphone",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 78026
   },
   {
     "id": 1354,
     "name": "Office Chair",
-    "type": "Enhancer"
+    "type": "Enhancer",
+    "market_price": 7074999
   },
   {
     "id": 1355,
     "name": "Vanguard Respirator",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 1356,
     "name": "Vanguard Body",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 0
   },
   {
     "id": 1357,
     "name": "Vanguard Pants",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 2483000001
   },
   {
     "id": 1358,
     "name": "Vanguard Boots",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 1657000001
   },
   {
     "id": 1359,
     "name": "Vanguard Gloves",
-    "type": "Armor"
+    "type": "Armor",
+    "market_price": 1634055557
   },
   {
     "id": 1360,
     "name": "Evil Winnie Mask '23",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1361,
     "name": "Dog Treats",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 1698
   },
   {
     "id": 1362,
     "name": "Net",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 1315461
   },
   {
     "id": 1363,
     "name": "Ipecac Syrup",
-    "type": "Medical"
+    "type": "Medical",
+    "market_price": 45528
   },
   {
     "id": 1367,
     "name": "Turkey Head '23",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1368,
     "name": "Rudolph's Nose",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1369,
     "name": "Reindeer Antlers",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1379,
     "name": "ATM Key",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 264126
   },
   {
     "id": 1380,
     "name": "RF Detector",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 1874047
   },
   {
     "id": 1381,
     "name": "ID Badge",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 114702
   },
   {
     "id": 1382,
     "name": "Lanyard",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 558
   },
   {
     "id": 1383,
     "name": "DSLR Camera",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 199925
   },
   {
     "id": 1429,
     "name": "Zip Ties",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 1387
   },
   {
     "id": 1430,
     "name": "Shaped Charge",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 178212
   },
   {
     "id": 1431,
     "name": "Core Drill",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 191343
   },
   {
     "id": 1449,
     "name": "Hannibal Mask '24",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1450,
     "name": "Devil Horns",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1452,
     "name": "Kevin McCallister Mask '24",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1453,
     "name": "Oversized Christmas Sweater",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 0
   },
   {
     "id": 1456,
     "name": "Bolas",
-    "type": "Weapon"
+    "type": "Weapon",
+    "market_price": 0
   },
   {
     "id": 1457,
     "name": "Kerosene",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 16026
   },
   {
     "id": 1458,
     "name": "Diesel",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 5330
   },
   {
     "id": 1459,
     "name": "Hydrogen Tank",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 17037
   },
   {
     "id": 1460,
     "name": "Methane Tank",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 17519
   },
   {
     "id": 1461,
     "name": "Thermite",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 137824
   },
   {
     "id": 1462,
     "name": "Magnesium Shavings",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 64452
   },
   {
     "id": 1463,
     "name": "Fire Extinguisher",
-    "type": "Material"
+    "type": "Material",
+    "market_price": 95920
   },
   {
     "id": 1465,
     "name": "Cluster Ring",
-    "type": "Jewelry"
+    "type": "Jewelry",
+    "market_price": 3025597
   },
   {
     "id": 1466,
     "name": "Lighter",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 2556
   },
   {
     "id": 1475,
     "name": "Scream Mask '25",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 420502580
   },
   {
     "id": 1482,
     "name": "Bearer Bond",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 90190
   },
   {
     "id": 1483,
     "name": "Insulin",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 9041
   },
   {
     "id": 1484,
     "name": "Bear Gall",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 34587
   },
   {
     "id": 1485,
     "name": "Shark Fin",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 65341
   },
   {
     "id": 1486,
     "name": "Turtle Shell",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 97411
   },
   {
     "id": 1487,
     "name": "Patagonian Fossil",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 666402
   },
   {
     "id": 1488,
     "name": "Meteorite Fragment",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 531807
   },
   {
     "id": 1489,
     "name": "Ephedrine Powder",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 26917
   },
   {
     "id": 1490,
     "name": "Safrole Oil",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 16049
   },
   {
     "id": 1491,
     "name": "Ergotamine Ampoule",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 19978
   },
   {
     "id": 1492,
     "name": "Counterfeit Manga",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 69746
   },
   {
     "id": 1493,
     "name": "Whale Meat",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 39838
   },
   {
     "id": 1494,
     "name": "Pangolin Scales",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 203925
   },
   {
     "id": 1495,
     "name": "Ambergris Lump",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 433472
   },
   {
     "id": 1496,
     "name": "Natural Pearls",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 149315
   },
   {
     "id": 1497,
     "name": "Uncut Diamonds",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 240231
   },
   {
     "id": 1498,
     "name": "Tiger Bone Powder",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 69957
   },
   {
     "id": 1499,
     "name": "Obsidian Point",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 130749
   },
   {
     "id": 1500,
     "name": "Quartzite Point",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 176294
   },
   {
     "id": 1501,
     "name": "Chert Point",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 128014
   },
   {
     "id": 1502,
     "name": "Basalt Point",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 122978
   },
   {
     "id": 1503,
     "name": "Chalcedony Point",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 140855
   },
   {
     "id": 1504,
     "name": "Quartz Point",
-    "type": "Artifact"
+    "type": "Artifact",
+    "market_price": 155227
   },
   {
     "id": 1506,
     "name": "Copium Inhaler",
-    "type": "Special"
+    "type": "Special",
+    "market_price": 0
   },
   {
     "id": 1507,
     "name": "Snowman Mask '25",
-    "type": "Clothing"
+    "type": "Clothing",
+    "market_price": 380000001
   },
   {
     "id": 1508,
     "name": "Priceless Painting",
-    "type": "Other"
+    "type": "Other",
+    "market_price": 94599998
   },
   {
     "id": 1509,
     "name": "Angle Grinder",
-    "type": "Tool"
+    "type": "Tool",
+    "market_price": 1847695
   }
 ]
