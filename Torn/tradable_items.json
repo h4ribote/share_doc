@@ -42,12 +42,6 @@
     "market_price": 406
   },
   {
-    "id": 61,
-    "name": "Personal Computer",
-    "type": "Tool",
-    "market_price": 305
-  },
-  {
     "id": 65,
     "name": "Television",
     "type": "Special",
@@ -72,48 +66,6 @@
     "market_price": 4240
   },
   {
-    "id": 69,
-    "name": "Simple Virus",
-    "type": "Tool",
-    "market_price": 5076
-  },
-  {
-    "id": 70,
-    "name": "Polymorphic Virus",
-    "type": "Tool",
-    "market_price": 951854
-  },
-  {
-    "id": 71,
-    "name": "Tunneling Virus",
-    "type": "Tool",
-    "market_price": 2520207
-  },
-  {
-    "id": 72,
-    "name": "Armored Virus",
-    "type": "Tool",
-    "market_price": 738930
-  },
-  {
-    "id": 73,
-    "name": "Stealth Virus",
-    "type": "Tool",
-    "market_price": 1080125
-  },
-  {
-    "id": 96,
-    "name": "Coat Hanger",
-    "type": "Tool",
-    "market_price": 43574
-  },
-  {
-    "id": 103,
-    "name": "Firewalk Virus",
-    "type": "Tool",
-    "market_price": 13706517
-  },
-  {
     "id": 104,
     "name": "Game Console",
     "type": "Special",
@@ -130,18 +82,6 @@
     "name": "Pixie Sticks",
     "type": "Candy",
     "market_price": 315548
-  },
-  {
-    "id": 154,
-    "name": "Laptop",
-    "type": "Tool",
-    "market_price": 390
-  },
-  {
-    "id": 159,
-    "name": "Bolt Cutters",
-    "type": "Tool",
-    "market_price": 564
   },
   {
     "id": 180,
@@ -600,12 +540,6 @@
     "market_price": 23535
   },
   {
-    "id": 568,
-    "name": "Jemmy",
-    "type": "Tool",
-    "market_price": 9970
-  },
-  {
     "id": 569,
     "name": "Balaclava",
     "type": "Enhancer",
@@ -738,12 +672,6 @@
     "market_price": 133684
   },
   {
-    "id": 707,
-    "name": "Lump of Coal",
-    "type": "Tool",
-    "market_price": 3768
-  },
-  {
     "id": 731,
     "name": "Empty Blood Bag",
     "type": "Medical",
@@ -822,18 +750,6 @@
     "market_price": 2333332
   },
   {
-    "id": 852,
-    "name": "Metal Detector",
-    "type": "Tool",
-    "market_price": 1520082
-  },
-  {
-    "id": 853,
-    "name": "Cemetery Key",
-    "type": "Tool",
-    "market_price": 3019451
-  },
-  {
     "id": 865,
     "name": "Poison Mistletoe",
     "type": "Special",
@@ -852,30 +768,6 @@
     "market_price": 841949
   },
   {
-    "id": 884,
-    "name": "Car Battery",
-    "type": "Tool",
-    "market_price": 351
-  },
-  {
-    "id": 886,
-    "name": "Torn City Times",
-    "type": "Tool",
-    "market_price": 3681
-  },
-  {
-    "id": 893,
-    "name": "Lost and Found Office Key",
-    "type": "Tool",
-    "market_price": 207919
-  },
-  {
-    "id": 906,
-    "name": "Handkerchief",
-    "type": "Tool",
-    "market_price": 184
-  },
-  {
     "id": 924,
     "name": "Bottle of Christmas Spirit",
     "type": "Alcohol",
@@ -886,18 +778,6 @@
     "name": "Paint Mask",
     "type": "Enhancer",
     "market_price": 458522
-  },
-  {
-    "id": 980,
-    "name": "Ladder",
-    "type": "Tool",
-    "market_price": 7225
-  },
-  {
-    "id": 981,
-    "name": "Wire Cutters",
-    "type": "Tool",
-    "market_price": 1893
   },
   {
     "id": 984,
@@ -996,12 +876,6 @@
     "market_price": 5716
   },
   {
-    "id": 1084,
-    "name": "Credit Card",
-    "type": "Tool",
-    "market_price": 324
-  },
-  {
     "id": 1112,
     "name": "Elegant Cache",
     "type": "Supply Pack",
@@ -1068,118 +942,10 @@
     "market_price": 375625000
   },
   {
-    "id": 1123,
-    "name": "Spy Camera",
-    "type": "Tool",
-    "market_price": 543
-  },
-  {
-    "id": 1124,
-    "name": "Card Programmer",
-    "type": "Tool",
-    "market_price": 248494
-  },
-  {
-    "id": 1125,
-    "name": "Card Skimmer",
-    "type": "Tool",
-    "market_price": 2010
-  },
-  {
-    "id": 1202,
-    "name": "Window Breaker",
-    "type": "Tool",
-    "market_price": 187226
-  },
-  {
-    "id": 1203,
-    "name": "Lockpicks",
-    "type": "Tool",
-    "market_price": 60081
-  },
-  {
-    "id": 1204,
-    "name": "Skeleton Key",
-    "type": "Tool",
-    "market_price": 79789
-  },
-  {
-    "id": 1207,
-    "name": "Thimble",
-    "type": "Tool",
-    "market_price": 1744995
-  },
-  {
-    "id": 1215,
-    "name": "Scissors",
-    "type": "Tool",
-    "market_price": 3716
-  },
-  {
-    "id": 1223,
-    "name": "Cigar Cutter",
-    "type": "Tool",
-    "market_price": 35712
-  },
-  {
-    "id": 1230,
-    "name": "Remote Detonator",
-    "type": "Tool",
-    "market_price": 4081
-  },
-  {
-    "id": 1233,
-    "name": "Wheelbarrow",
-    "type": "Tool",
-    "market_price": 603
-  },
-  {
-    "id": 1234,
-    "name": "Shovel",
-    "type": "Tool",
-    "market_price": 423
-  },
-  {
-    "id": 1235,
-    "name": "Blanket",
-    "type": "Tool",
-    "market_price": 13113
-  },
-  {
     "id": 1239,
     "name": "Stash Box",
     "type": "Supply Pack",
     "market_price": 49716
-  },
-  {
-    "id": 1244,
-    "name": "Typewriter",
-    "type": "Tool",
-    "market_price": 13987
-  },
-  {
-    "id": 1258,
-    "name": "Binoculars",
-    "type": "Tool",
-    "market_price": 3437
-  },
-  {
-    "id": 1261,
-    "name": "Bucket",
-    "type": "Tool",
-    "market_price": 8002
-  },
-  {
-    "id": 1284,
-    "name": "Dental Mirror",
-    "type": "Tool",
-    "market_price": 50578
-  },
-  {
-    "id": 1289,
-    "name": "Permanent Marker",
-    "type": "Tool",
-    "market_price": 959
   },
   {
     "id": 1293,
@@ -1194,142 +960,16 @@
     "market_price": 1204840
   },
   {
-    "id": 1300,
-    "name": "eCPU",
-    "type": "Tool",
-    "market_price": 308
-  },
-  {
-    "id": 1301,
-    "name": "CPU",
-    "type": "Tool",
-    "market_price": 306
-  },
-  {
-    "id": 1302,
-    "name": "HPCPU",
-    "type": "Tool",
-    "market_price": 11132
-  },
-  {
-    "id": 1303,
-    "name": "Computer Fan",
-    "type": "Tool",
-    "market_price": 1429
-  },
-  {
-    "id": 1304,
-    "name": "Water Block",
-    "type": "Tool",
-    "market_price": 4579
-  },
-  {
-    "id": 1305,
-    "name": "Heat Sink",
-    "type": "Tool",
-    "market_price": 50652
-  },
-  {
-    "id": 1306,
-    "name": "PSU",
-    "type": "Tool",
-    "market_price": 513
-  },
-  {
     "id": 1312,
     "name": "Chocolate Egg",
     "type": "Candy",
     "market_price": 981629
   },
   {
-    "id": 1314,
-    "name": "Embosser",
-    "type": "Tool",
-    "market_price": 6636202
-  },
-  {
-    "id": 1315,
-    "name": "Hot Foil Stamper",
-    "type": "Tool",
-    "market_price": 12222168
-  },
-  {
-    "id": 1316,
-    "name": "Sewing Kit",
-    "type": "Tool",
-    "market_price": 22972
-  },
-  {
-    "id": 1317,
-    "name": "Crucible",
-    "type": "Tool",
-    "market_price": 99928
-  },
-  {
-    "id": 1327,
-    "name": "Printer",
-    "type": "Tool",
-    "market_price": 45627
-  },
-  {
-    "id": 1328,
-    "name": "Graver",
-    "type": "Tool",
-    "market_price": 84290
-  },
-  {
-    "id": 1329,
-    "name": "Perforator",
-    "type": "Tool",
-    "market_price": 375921
-  },
-  {
-    "id": 1330,
-    "name": "Fountain Pen",
-    "type": "Tool",
-    "market_price": 802
-  },
-  {
-    "id": 1331,
-    "name": "Hand Drill",
-    "type": "Tool",
-    "market_price": 610
-  },
-  {
-    "id": 1332,
-    "name": "Wax Seal Stamp",
-    "type": "Tool",
-    "market_price": 1009784
-  },
-  {
-    "id": 1334,
-    "name": "Grinding Stone",
-    "type": "Tool",
-    "market_price": 118659
-  },
-  {
-    "id": 1338,
-    "name": "Polishing Pad",
-    "type": "Tool",
-    "market_price": 309026
-  },
-  {
-    "id": 1340,
-    "name": "Double Cut File",
-    "type": "Tool",
-    "market_price": 291
-  },
-  {
     "id": 1346,
     "name": "Magnifying Glass",
     "type": "Enhancer",
     "market_price": 1754415
-  },
-  {
-    "id": 1350,
-    "name": "Police Badge",
-    "type": "Tool",
-    "market_price": 247329
   },
   {
     "id": 1351,
@@ -1350,57 +990,9 @@
     "market_price": 7074999
   },
   {
-    "id": 1362,
-    "name": "Net",
-    "type": "Tool",
-    "market_price": 1315461
-  },
-  {
     "id": 1363,
     "name": "Ipecac Syrup",
     "type": "Medical",
     "market_price": 45528
-  },
-  {
-    "id": 1379,
-    "name": "ATM Key",
-    "type": "Tool",
-    "market_price": 264126
-  },
-  {
-    "id": 1380,
-    "name": "RF Detector",
-    "type": "Tool",
-    "market_price": 1874047
-  },
-  {
-    "id": 1381,
-    "name": "ID Badge",
-    "type": "Tool",
-    "market_price": 114702
-  },
-  {
-    "id": 1383,
-    "name": "DSLR Camera",
-    "type": "Tool",
-    "market_price": 199925
-  },
-  {
-    "id": 1431,
-    "name": "Core Drill",
-    "type": "Tool",
-    "market_price": 191343
-  },
-  {
-    "id": 1466,
-    "name": "Lighter",
-    "type": "Tool",
-    "market_price": 2556
-  },
-  {
-    "id": 1509,
-    "name": "Angle Grinder",
-    "type": "Tool",
-    "market_price": 1847695
   }
 ]
