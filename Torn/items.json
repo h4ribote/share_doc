@@ -16765,90 +16765,6 @@
       "details": null
     },
     {
-      "id": 589,
-      "name": "Undefined",
-      "description": "",
-      "effect": null,
-      "requirement": null,
-      "image": "https://www.torn.com/images/items/589/large.png",
-      "type": "Unused",
-      "sub_type": null,
-      "is_masked": false,
-      "is_tradable": true,
-      "is_found_in_city": false,
-      "value": {
-        "vendor": null,
-        "buy_price": null,
-        "sell_price": 500,
-        "market_price": 0
-      },
-      "circulation": 0,
-      "details": null
-    },
-    {
-      "id": 590,
-      "name": "Undefined 2",
-      "description": "",
-      "effect": null,
-      "requirement": null,
-      "image": "https://www.torn.com/images/items/590/large.png",
-      "type": "Unused",
-      "sub_type": null,
-      "is_masked": false,
-      "is_tradable": true,
-      "is_found_in_city": false,
-      "value": {
-        "vendor": null,
-        "buy_price": null,
-        "sell_price": 700,
-        "market_price": 0
-      },
-      "circulation": 0,
-      "details": null
-    },
-    {
-      "id": 591,
-      "name": "Undefined 3",
-      "description": "",
-      "effect": null,
-      "requirement": null,
-      "image": "https://www.torn.com/images/items/591/large.png",
-      "type": "Unused",
-      "sub_type": null,
-      "is_masked": false,
-      "is_tradable": true,
-      "is_found_in_city": false,
-      "value": {
-        "vendor": null,
-        "buy_price": null,
-        "sell_price": 600,
-        "market_price": 0
-      },
-      "circulation": 0,
-      "details": null
-    },
-    {
-      "id": 592,
-      "name": "Undefined 4",
-      "description": "",
-      "effect": null,
-      "requirement": null,
-      "image": "https://www.torn.com/images/items/592/large.png",
-      "type": "Unused",
-      "sub_type": null,
-      "is_masked": false,
-      "is_tradable": true,
-      "is_found_in_city": false,
-      "value": {
-        "vendor": null,
-        "buy_price": null,
-        "sell_price": null,
-        "market_price": 0
-      },
-      "circulation": 0,
-      "details": null
-    },
-    {
       "id": 593,
       "name": "Mr Torn Crown '11",
       "description": "Awarded to Driving [1497275] for winning the Mr Torn City awards 2011!",
@@ -24835,27 +24751,6 @@
         "market_price": 201
       },
       "circulation": 2920243,
-      "details": null
-    },
-    {
-      "id": 891,
-      "name": "Undefined",
-      "description": "",
-      "effect": null,
-      "requirement": null,
-      "image": "https://www.torn.com/images/items/891/large.png",
-      "type": "Unused",
-      "sub_type": null,
-      "is_masked": false,
-      "is_tradable": true,
-      "is_found_in_city": false,
-      "value": {
-        "vendor": null,
-        "buy_price": null,
-        "sell_price": 30,
-        "market_price": 0
-      },
-      "circulation": 0,
       "details": null
     },
     {
