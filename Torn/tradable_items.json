@@ -3,247 +3,247 @@
     "id": 35,
     "name": "Box of Chocolate Bars",
     "type": "Candy",
-    "market_price": 605
+    "market_price": 606
   },
   {
     "id": 36,
     "name": "Big Box of Chocolate Bars",
     "type": "Candy",
-    "market_price": 47582
+    "market_price": 47517
   },
   {
     "id": 37,
     "name": "Bag of Bon Bons",
     "type": "Candy",
-    "market_price": 583
+    "market_price": 582
   },
   {
     "id": 38,
     "name": "Box of Bon Bons",
     "type": "Candy",
-    "market_price": 650
+    "market_price": 658
   },
   {
     "id": 39,
     "name": "Box of Extra Strong Mints",
     "type": "Candy",
-    "market_price": 603
+    "market_price": 602
   },
   {
     "id": 42,
     "name": "MP3 Player",
     "type": "Special",
-    "market_price": 507
+    "market_price": 505
   },
   {
     "id": 43,
     "name": "CD Player",
     "type": "Special",
-    "market_price": 413
+    "market_price": 409
   },
   {
     "id": 65,
     "name": "Television",
     "type": "Special",
-    "market_price": 500
+    "market_price": 496
   },
   {
     "id": 66,
     "name": "Morphine",
     "type": "Medical",
-    "market_price": 14500
+    "market_price": 14466
   },
   {
     "id": 67,
     "name": "First Aid Kit",
     "type": "Medical",
-    "market_price": 9497
+    "market_price": 9475
   },
   {
     "id": 68,
     "name": "Small First Aid Kit",
     "type": "Medical",
-    "market_price": 4231
+    "market_price": 4228
   },
   {
     "id": 104,
     "name": "Game Console",
     "type": "Special",
-    "market_price": 659
+    "market_price": 662
   },
   {
     "id": 106,
     "name": "Parachute",
     "type": "Booster",
-    "market_price": 443000000
+    "market_price": 457714286
   },
   {
     "id": 151,
     "name": "Pixie Sticks",
     "type": "Candy",
-    "market_price": 312993
+    "market_price": 312696
   },
   {
     "id": 180,
     "name": "Bottle of Beer",
     "type": "Alcohol",
-    "market_price": 655
+    "market_price": 658
   },
   {
     "id": 181,
     "name": "Bottle of Champagne",
     "type": "Alcohol",
-    "market_price": 2923
+    "market_price": 2935
   },
   {
     "id": 186,
     "name": "Sheep Plushie",
     "type": "Plushie",
-    "market_price": 560
+    "market_price": 559
   },
   {
     "id": 187,
     "name": "Teddy Bear Plushie",
     "type": "Plushie",
-    "market_price": 558
+    "market_price": 555
   },
   {
     "id": 196,
     "name": "Cannabis",
     "type": "Drug",
-    "market_price": 8415
+    "market_price": 8372
   },
   {
     "id": 197,
     "name": "Ecstasy",
     "type": "Drug",
-    "market_price": 41281
+    "market_price": 41451
   },
   {
     "id": 198,
     "name": "Ketamine",
     "type": "Drug",
-    "market_price": 2472
+    "market_price": 2446
   },
   {
     "id": 199,
     "name": "LSD",
     "type": "Drug",
-    "market_price": 27740
+    "market_price": 27590
   },
   {
     "id": 200,
     "name": "Opium",
     "type": "Drug",
-    "market_price": 29217
+    "market_price": 29136
   },
   {
     "id": 201,
     "name": "PCP",
     "type": "Drug",
-    "market_price": 4014
+    "market_price": 4006
   },
   {
     "id": 203,
     "name": "Shrooms",
     "type": "Drug",
-    "market_price": 5774
+    "market_price": 5753
   },
   {
     "id": 204,
     "name": "Speed",
     "type": "Drug",
-    "market_price": 2995
+    "market_price": 2973
   },
   {
     "id": 205,
     "name": "Vicodin",
     "type": "Drug",
-    "market_price": 1184
+    "market_price": 1168
   },
   {
     "id": 206,
     "name": "Xanax",
     "type": "Drug",
-    "market_price": 875886
+    "market_price": 875882
   },
   {
     "id": 209,
     "name": "Box of Sweet Hearts",
     "type": "Candy",
-    "market_price": 589
+    "market_price": 588
   },
   {
     "id": 210,
     "name": "Bag of Chocolate Kisses",
     "type": "Candy",
-    "market_price": 593
+    "market_price": 594
   },
   {
     "id": 215,
     "name": "Kitten Plushie",
     "type": "Plushie",
-    "market_price": 572
+    "market_price": 570
   },
   {
     "id": 258,
     "name": "Jaguar Plushie",
     "type": "Plushie",
-    "market_price": 14493
+    "market_price": 14458
   },
   {
     "id": 261,
     "name": "Wolverine Plushie",
     "type": "Plushie",
-    "market_price": 6928
+    "market_price": 6922
   },
   {
     "id": 266,
     "name": "Nessie Plushie",
     "type": "Plushie",
-    "market_price": 32999
+    "market_price": 33111
   },
   {
     "id": 268,
     "name": "Red Fox Plushie",
     "type": "Plushie",
-    "market_price": 34182
+    "market_price": 34097
   },
   {
     "id": 269,
     "name": "Monkey Plushie",
     "type": "Plushie",
-    "market_price": 34031
+    "market_price": 34014
   },
   {
     "id": 273,
     "name": "Chamois Plushie",
     "type": "Plushie",
-    "market_price": 9665
+    "market_price": 9655
   },
   {
     "id": 274,
     "name": "Panda Plushie",
     "type": "Plushie",
-    "market_price": 53216
+    "market_price": 53422
   },
   {
     "id": 281,
     "name": "Lion Plushie",
     "type": "Plushie",
-    "market_price": 59408
+    "market_price": 59568
   },
   {
     "id": 283,
     "name": "Donator Pack",
     "type": "Supply Pack",
-    "market_price": 24307072
+    "market_price": 24425329
   },
   {
     "id": 294,
     "name": "Bottle of Sake",
     "type": "Alcohol",
-    "market_price": 1739
+    "market_price": 1745
   },
   {
     "id": 310,
@@ -255,744 +255,744 @@
     "id": 329,
     "name": "Skateboard",
     "type": "Booster",
-    "market_price": 417500000
+    "market_price": 418968745
   },
   {
     "id": 330,
     "name": "Boxing Gloves",
     "type": "Booster",
-    "market_price": 447333332
+    "market_price": 447571428
   },
   {
     "id": 331,
     "name": "Dumbbells",
     "type": "Booster",
-    "market_price": 447328571
+    "market_price": 446782143
   },
   {
     "id": 361,
     "name": "Neumune Tablet",
     "type": "Medical",
-    "market_price": 1842490
+    "market_price": 1801002
   },
   {
     "id": 364,
     "name": "Box of Grenades",
     "type": "Supply Pack",
-    "market_price": 1069374
+    "market_price": 1071141
   },
   {
     "id": 365,
     "name": "Box of Medical Supplies",
     "type": "Supply Pack",
-    "market_price": 272019
+    "market_price": 271908
   },
   {
     "id": 366,
     "name": "Erotic DVD",
     "type": "Booster",
-    "market_price": 4036824
+    "market_price": 4036354
   },
   {
     "id": 367,
     "name": "Feathery Hotel Coupon",
     "type": "Booster",
-    "market_price": 12360628
+    "market_price": 12316793
   },
   {
     "id": 368,
     "name": "Lawyer's Business Card",
     "type": "Booster",
-    "market_price": 197503
+    "market_price": 197111
   },
   {
     "id": 369,
     "name": "Lottery Voucher",
     "type": "Supply Pack",
-    "market_price": 903935
+    "market_price": 900753
   },
   {
     "id": 370,
     "name": "Drug Pack",
     "type": "Supply Pack",
-    "market_price": 4448315
+    "market_price": 4455042
   },
   {
     "id": 372,
     "name": "Empty Box",
     "type": "Special",
-    "market_price": 308
+    "market_price": 306
   },
   {
     "id": 377,
     "name": "Birthday Wrapping Paper",
     "type": "Special",
-    "market_price": 272
+    "market_price": 271
   },
   {
     "id": 378,
     "name": "Generic Wrapping Paper",
     "type": "Special",
-    "market_price": 401
+    "market_price": 399
   },
   {
     "id": 379,
     "name": "Christmas Wrapping Paper",
     "type": "Special",
-    "market_price": 231
+    "market_price": 235
   },
   {
     "id": 380,
     "name": "Small Explosive Device",
     "type": "Special",
-    "market_price": 4562876
+    "market_price": 4528246
   },
   {
     "id": 384,
     "name": "Camel Plushie",
     "type": "Plushie",
-    "market_price": 73381
+    "market_price": 73263
   },
   {
     "id": 396,
     "name": "Business Class Ticket",
     "type": "Special",
-    "market_price": 8244919
+    "market_price": 8556902
   },
   {
     "id": 403,
     "name": "Box of Tissues",
     "type": "Special",
-    "market_price": 312
+    "market_price": 310
   },
   {
     "id": 419,
     "name": "Small Suitcase",
     "type": "Enhancer",
-    "market_price": 1100883
+    "market_price": 1060282
   },
   {
     "id": 420,
     "name": "Medium Suitcase",
     "type": "Enhancer",
-    "market_price": 4019722
+    "market_price": 4095894
   },
   {
     "id": 421,
     "name": "Large Suitcase",
     "type": "Enhancer",
-    "market_price": 10478684
+    "market_price": 10517790
   },
   {
     "id": 422,
     "name": "Vanity Hand Mirror",
     "type": "Special",
-    "market_price": 6849
+    "market_price": 6700
   },
   {
     "id": 426,
     "name": "Bottle of Tequila",
     "type": "Alcohol",
-    "market_price": 727
+    "market_price": 719
   },
   {
     "id": 428,
     "name": "Casino Pass",
     "type": "Special",
-    "market_price": 15072508
+    "market_price": 14812391
   },
   {
     "id": 527,
     "name": "Bag of Candy Kisses",
     "type": "Candy",
-    "market_price": 48276
+    "market_price": 48301
   },
   {
     "id": 528,
     "name": "Bag of Tootsie Rolls",
     "type": "Candy",
-    "market_price": 73099
+    "market_price": 73167
   },
   {
     "id": 529,
     "name": "Bag of Chocolate Truffles",
     "type": "Candy",
-    "market_price": 130473
+    "market_price": 130966
   },
   {
     "id": 530,
     "name": "Can of Munster",
     "type": "Energy Drink",
-    "market_price": 1467507
+    "market_price": 1463814
   },
   {
     "id": 531,
     "name": "Bottle of Pumpkin Brew",
     "type": "Alcohol",
-    "market_price": 51024
+    "market_price": 51005
   },
   {
     "id": 532,
     "name": "Can of Red Cow",
     "type": "Energy Drink",
-    "market_price": 1962772
+    "market_price": 1957251
   },
   {
     "id": 533,
     "name": "Can of Taurine Elite",
     "type": "Energy Drink",
-    "market_price": 3138477
+    "market_price": 3135499
   },
   {
     "id": 541,
     "name": "Bottle of Stinky Swamp Punch",
     "type": "Alcohol",
-    "market_price": 268422
+    "market_price": 269292
   },
   {
     "id": 542,
     "name": "Bottle of Wicked Witch",
     "type": "Alcohol",
-    "market_price": 130193
+    "market_price": 129885
   },
   {
     "id": 544,
     "name": "Windproof Lighter",
     "type": "Enhancer",
-    "market_price": 7017271
+    "market_price": 7016639
   },
   {
     "id": 550,
     "name": "Bottle of Kandy Kane",
     "type": "Alcohol",
-    "market_price": 51003
+    "market_price": 50949
   },
   {
     "id": 551,
     "name": "Bottle of Minty Mayhem",
     "type": "Alcohol",
-    "market_price": 127756
+    "market_price": 127479
   },
   {
     "id": 552,
     "name": "Bottle of Mistletoe Madness",
     "type": "Alcohol",
-    "market_price": 267086
+    "market_price": 266665
   },
   {
     "id": 553,
     "name": "Can of Santa Shooters",
     "type": "Energy Drink",
-    "market_price": 1457726
+    "market_price": 1459266
   },
   {
     "id": 554,
     "name": "Can of Rockstar Rudolph",
     "type": "Energy Drink",
-    "market_price": 1962401
+    "market_price": 1955239
   },
   {
     "id": 555,
     "name": "Can of X-MASS",
     "type": "Energy Drink",
-    "market_price": 3142320
+    "market_price": 3142105
   },
   {
     "id": 556,
     "name": "Bag of Reindeer Droppings",
     "type": "Candy",
-    "market_price": 133045
+    "market_price": 135216
   },
   {
     "id": 561,
     "name": "Book of Carols",
     "type": "Booster",
-    "market_price": 11518551
+    "market_price": 11678356
   },
   {
     "id": 563,
     "name": "Gift Card",
     "type": "Booster",
-    "market_price": 2959088
+    "market_price": 2944871
   },
   {
     "id": 564,
     "name": "Glasses",
     "type": "Enhancer",
-    "market_price": 7832
+    "market_price": 7710
   },
   {
     "id": 565,
     "name": "High-Speed Drive",
     "type": "Enhancer",
-    "market_price": 252388
+    "market_price": 251201
   },
   {
     "id": 566,
     "name": "Mountain Bike",
     "type": "Enhancer",
-    "market_price": 95370
+    "market_price": 99206
   },
   {
     "id": 567,
     "name": "Cut-Throat Razor",
     "type": "Enhancer",
-    "market_price": 22676
+    "market_price": 22614
   },
   {
     "id": 569,
     "name": "Balaclava",
     "type": "Enhancer",
-    "market_price": 6506987
+    "market_price": 6472683
   },
   {
     "id": 570,
     "name": "Advanced Driving Manual",
     "type": "Enhancer",
-    "market_price": 187729
+    "market_price": 186565
   },
   {
     "id": 571,
     "name": "Ergonomic Keyboard",
     "type": "Enhancer",
-    "market_price": 468741
+    "market_price": 463165
   },
   {
     "id": 572,
     "name": "Tracking Device",
     "type": "Enhancer",
-    "market_price": 146495
+    "market_price": 152295
   },
   {
     "id": 573,
     "name": "Screwdriver",
     "type": "Enhancer",
-    "market_price": 1923216
+    "market_price": 1949328
   },
   {
     "id": 574,
     "name": "Fanny Pack",
     "type": "Enhancer",
-    "market_price": 135030
+    "market_price": 125890
   },
   {
     "id": 575,
     "name": "Tumble Dryer",
     "type": "Enhancer",
-    "market_price": 166699
+    "market_price": 164131
   },
   {
     "id": 576,
     "name": "Chloroform",
     "type": "Enhancer",
-    "market_price": 636220
+    "market_price": 613585
   },
   {
     "id": 577,
     "name": "Heavy Duty Padlock",
     "type": "Enhancer",
-    "market_price": 1366666
+    "market_price": 1443746
   },
   {
     "id": 578,
     "name": "Duct Tape",
     "type": "Enhancer",
-    "market_price": 741484
+    "market_price": 755218
   },
   {
     "id": 579,
     "name": "Wireless Dongle",
     "type": "Enhancer",
-    "market_price": 396097
+    "market_price": 381868
   },
   {
     "id": 580,
     "name": "Horse's Head",
     "type": "Special",
-    "market_price": 1719999
+    "market_price": 1860369
   },
   {
     "id": 586,
     "name": "Jawbreaker",
     "type": "Candy",
-    "market_price": 315323
+    "market_price": 315425
   },
   {
     "id": 587,
     "name": "Bag of Sherbet",
     "type": "Candy",
-    "market_price": 314944
+    "market_price": 314719
   },
   {
     "id": 588,
     "name": "Goodie Bag",
     "type": "Supply Pack",
-    "market_price": 28418451
+    "market_price": 28092800
   },
   {
     "id": 618,
     "name": "Stingray Plushie",
     "type": "Plushie",
-    "market_price": 6907
+    "market_price": 6879
   },
   {
     "id": 627,
     "name": "Dog Poop",
     "type": "Special",
-    "market_price": 892392
+    "market_price": 876829
   },
   {
     "id": 628,
     "name": "Stink Bombs",
     "type": "Special",
-    "market_price": 886309
+    "market_price": 860157
   },
   {
     "id": 629,
     "name": "Toilet Paper",
     "type": "Special",
-    "market_price": 879391
+    "market_price": 861948
   },
   {
     "id": 633,
     "name": "Latex Gloves",
     "type": "Enhancer",
-    "market_price": 421407
+    "market_price": 416189
   },
   {
     "id": 634,
     "name": "Bag of Bloody Eyeballs",
     "type": "Candy",
-    "market_price": 76978
+    "market_price": 76943
   },
   {
     "id": 638,
     "name": "Bottle of Christmas Cocktail",
     "type": "Alcohol",
-    "market_price": 138364
+    "market_price": 135275
   },
   {
     "id": 731,
     "name": "Empty Blood Bag",
     "type": "Medical",
-    "market_price": 16334
+    "market_price": 16298
   },
   {
     "id": 732,
     "name": "Blood Bag : A+",
     "type": "Medical",
-    "market_price": 17444
+    "market_price": 17683
   },
   {
     "id": 733,
     "name": "Blood Bag : A-",
     "type": "Medical",
-    "market_price": 17776
+    "market_price": 17730
   },
   {
     "id": 734,
     "name": "Blood Bag : B+",
     "type": "Medical",
-    "market_price": 17646
+    "market_price": 17787
   },
   {
     "id": 735,
     "name": "Blood Bag : B-",
     "type": "Medical",
-    "market_price": 24668
+    "market_price": 24295
   },
   {
     "id": 736,
     "name": "Blood Bag : AB+",
     "type": "Medical",
-    "market_price": 18039
+    "market_price": 18311
   },
   {
     "id": 737,
     "name": "Blood Bag : AB-",
     "type": "Medical",
-    "market_price": 26298
+    "market_price": 26198
   },
   {
     "id": 738,
     "name": "Blood Bag : O+",
     "type": "Medical",
-    "market_price": 17307
+    "market_price": 18009
   },
   {
     "id": 739,
     "name": "Blood Bag : O-",
     "type": "Medical",
-    "market_price": 20644
+    "market_price": 20144
   },
   {
     "id": 815,
     "name": "Keg of Beer",
     "type": "Supply Pack",
-    "market_price": 6133787
+    "market_price": 6071410
   },
   {
     "id": 817,
     "name": "Six-Pack of Alcohol",
     "type": "Supply Pack",
-    "market_price": 867047
+    "market_price": 865926
   },
   {
     "id": 818,
     "name": "Six-Pack of Energy Drink",
     "type": "Supply Pack",
-    "market_price": 13007324
+    "market_price": 13000107
   },
   {
     "id": 819,
     "name": "Rosary Beads",
     "type": "Enhancer",
-    "market_price": 2065030
+    "market_price": 2061369
   },
   {
     "id": 865,
     "name": "Poison Mistletoe",
     "type": "Special",
-    "market_price": 62571554
+    "market_price": 62200312
   },
   {
     "id": 870,
     "name": "Love Juice",
     "type": "Drug",
-    "market_price": 2811934
+    "market_price": 2793559
   },
   {
     "id": 873,
     "name": "Bottle of Green Stout",
     "type": "Alcohol",
-    "market_price": 832079
+    "market_price": 831508
   },
   {
     "id": 924,
     "name": "Bottle of Christmas Spirit",
     "type": "Alcohol",
-    "market_price": 1269328
+    "market_price": 1208403
   },
   {
     "id": 979,
     "name": "Paint Mask",
     "type": "Enhancer",
-    "market_price": 465132
+    "market_price": 455668
   },
   {
     "id": 984,
     "name": "Bottle of Moonshine",
     "type": "Alcohol",
-    "market_price": 912687
+    "market_price": 906548
   },
   {
     "id": 985,
     "name": "Can of Goose Juice",
     "type": "Energy Drink",
-    "market_price": 293576
+    "market_price": 294286
   },
   {
     "id": 986,
     "name": "Can of Damp Valley",
     "type": "Energy Drink",
-    "market_price": 644864
+    "market_price": 643272
   },
   {
     "id": 987,
     "name": "Can of Crocozade",
     "type": "Energy Drink",
-    "market_price": 1000385
+    "market_price": 1001722
   },
   {
     "id": 1012,
     "name": "Blood Bag : Irradiated",
     "type": "Medical",
-    "market_price": 30978
+    "market_price": 30192
   },
   {
     "id": 1028,
     "name": "Birthday Cupcake",
     "type": "Candy",
-    "market_price": 3433998
+    "market_price": 3438941
   },
   {
     "id": 1029,
     "name": "Strippogram Voucher",
     "type": "Special",
-    "market_price": 20564795
+    "market_price": 19066667
   },
   {
     "id": 1039,
     "name": "Bag of Humbugs",
     "type": "Candy",
-    "market_price": 457397
+    "market_price": 471467
   },
   {
     "id": 1040,
     "name": "Christmas Cracker",
     "type": "Special",
-    "market_price": 602397
+    "market_price": 560606
   },
   {
     "id": 1057,
     "name": "Gentleman Cache",
     "type": "Supply Pack",
-    "market_price": 3184391
+    "market_price": 3221600
   },
   {
     "id": 1078,
     "name": "Old Wallet",
     "type": "Supply Pack",
-    "market_price": 4316
+    "market_price": 4310
   },
   {
     "id": 1079,
     "name": "Cardholder",
     "type": "Supply Pack",
-    "market_price": 7261
+    "market_price": 7250
   },
   {
     "id": 1080,
     "name": "Billfold",
     "type": "Supply Pack",
-    "market_price": 35504
+    "market_price": 35418
   },
   {
     "id": 1081,
     "name": "Coin Purse",
     "type": "Supply Pack",
-    "market_price": 3126
+    "market_price": 3113
   },
   {
     "id": 1082,
     "name": "Zip Wallet",
     "type": "Supply Pack",
-    "market_price": 6057
+    "market_price": 6042
   },
   {
     "id": 1083,
     "name": "Clutch",
     "type": "Supply Pack",
-    "market_price": 5654
+    "market_price": 5634
   },
   {
     "id": 1112,
     "name": "Elegant Cache",
     "type": "Supply Pack",
-    "market_price": 3601433
+    "market_price": 3473000
   },
   {
     "id": 1113,
     "name": "Naughty Cache",
     "type": "Supply Pack",
-    "market_price": 5735418
+    "market_price": 5489506
   },
   {
     "id": 1114,
     "name": "Elderly Cache",
     "type": "Supply Pack",
-    "market_price": 1490627
+    "market_price": 1529606
   },
   {
     "id": 1115,
     "name": "Denim Cache",
     "type": "Supply Pack",
-    "market_price": 696545
+    "market_price": 737731
   },
   {
     "id": 1116,
     "name": "Wannabe Cache",
     "type": "Supply Pack",
-    "market_price": 3727145
+    "market_price": 3672421
   },
   {
     "id": 1117,
     "name": "Cutesy Cache",
     "type": "Supply Pack",
-    "market_price": 2731825
+    "market_price": 2728903
   },
   {
     "id": 1118,
     "name": "Armor Cache",
     "type": "Supply Pack",
-    "market_price": 329299279
+    "market_price": 328574227
   },
   {
     "id": 1119,
     "name": "Melee Cache",
     "type": "Supply Pack",
-    "market_price": 168980465
+    "market_price": 169349321
   },
   {
     "id": 1120,
     "name": "Small Arms Cache",
     "type": "Supply Pack",
-    "market_price": 118535574
+    "market_price": 117906956
   },
   {
     "id": 1121,
     "name": "Medium Arms Cache",
     "type": "Supply Pack",
-    "market_price": 227769756
+    "market_price": 224299431
   },
   {
     "id": 1122,
     "name": "Heavy Arms Cache",
     "type": "Supply Pack",
-    "market_price": 401000000
+    "market_price": 403997999
   },
   {
     "id": 1239,
     "name": "Stash Box",
     "type": "Supply Pack",
-    "market_price": 49621
+    "market_price": 49551
   },
   {
     "id": 1293,
     "name": "Injury Cache",
     "type": "Supply Pack",
-    "market_price": 4977778
+    "market_price": 4943819
   },
   {
     "id": 1298,
     "name": "Tin of Treats",
     "type": "Supply Pack",
-    "market_price": 1192666
+    "market_price": 1179086
   },
   {
     "id": 1312,
     "name": "Chocolate Egg",
     "type": "Candy",
-    "market_price": 1082867
+    "market_price": 1035789
   },
   {
     "id": 1346,
     "name": "Magnifying Glass",
     "type": "Enhancer",
-    "market_price": 1782563
+    "market_price": 1763743
   },
   {
     "id": 1351,
     "name": "Flashlight",
     "type": "Enhancer",
-    "market_price": 69077
+    "market_price": 69037
   },
   {
     "id": 1353,
     "name": "Megaphone",
     "type": "Enhancer",
-    "market_price": 74842
+    "market_price": 69902
   },
   {
     "id": 1354,
     "name": "Office Chair",
     "type": "Enhancer",
-    "market_price": 7087862
+    "market_price": 7260871
   },
   {
     "id": 1363,
     "name": "Ipecac Syrup",
     "type": "Medical",
-    "market_price": 44123
+    "market_price": 44125
   }
 ]
