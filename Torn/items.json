@@ -35687,7 +35687,7 @@
       "effect": "Used by the Thief role during the Cash Me if You Can scenario.\nUsed by the Imitator role during the Stacking the Deck scenario.\nUsed by the Imitator role during the Ace in the Hole scenario.\nUsed by the Imitator roles during the Gaslight the Way scenario.",
       "requirement": null,
       "image": "https://www.torn.com/images/items/1381/large.png",
-      "type": "Tool",
+      "type": "Material",
       "sub_type": null,
       "is_masked": false,
       "is_tradable": true,
