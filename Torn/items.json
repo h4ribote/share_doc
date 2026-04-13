@@ -29055,7 +29055,7 @@
       "effect": "Used by the Pickpocket role during the Thou Shalt Not Steal scenario.",
       "requirement": null,
       "image": "https://www.torn.com/images/items/1096/large.png",
-      "type": "Other",
+      "type": "Material",
       "sub_type": null,
       "is_masked": false,
       "is_tradable": true,
