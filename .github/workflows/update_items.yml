@@ -2,7 +2,7 @@ name: Update Torn Items
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 0 */1 * *'
   workflow_dispatch:
 
 jobs:
@@ -26,7 +26,7 @@ jobs:
       - name: Fetch Torn API
         env:
           TORN_API_KEY: ${{ secrets.TORN_API_KEY }}
-        run: python fetch_items.py
+        run: python Torn/script.py
 
       - name: Commit and Push changes
         run: |
