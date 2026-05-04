@@ -1,6 +1,6 @@
 import os
 import json
-import urllib.request
+import requests
 
 API_KEY = os.environ.get("TORN_API_KEY")
 
