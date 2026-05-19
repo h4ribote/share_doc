@@ -11,7 +11,7 @@ def main():
     }
     response = requests.get("https://api.torn.com/v2/torn/items?sort=ASC", headers=headers).json()['items']
 
-    with open("items.json", "w", encoding="utf-8") as f:
+    with open("Torn/items.json", "w", encoding="utf-8") as f:
         f.write(json.dumps(response, indent=2) + "\n")
     items = []
 
@@ -32,7 +32,7 @@ def main():
             }
             items.append(new_item)
 
-    with open("tradable_items.json", "w", encoding="utf-8") as f:
+    with open("Torn/tradable_items.json", "w", encoding="utf-8") as f:
         f.write(json.dumps(items, indent=2) + "\n")
 
 if __name__ == "__main__":
