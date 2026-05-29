@@ -16,8 +16,8 @@ def main():
     items = []
 
     target_types = [
-        "Alcohol", "Booster", "Candy", "Drug", "Energy Drink", 
-        "Enhancer", "Medical", "Plushie", "Special", "Supply Pack"
+        "Alcohol", "Booster", "Candy", "Drug", "Energy Drink",
+        "Enhancer", "Flower", "Medical", "Plushie", "Special", "Supply Pack"
     ]
 
     for item in response:
