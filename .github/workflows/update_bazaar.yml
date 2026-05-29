@@ -1,0 +1,41 @@
+name: Update TornW3B Bazaar Prices
+
+# Mirrors weav3r.dev /marketplace into Torn/bazaar_prices.json.
+# Public endpoint, so no API key/secret is required.
+# Separate from update_items.yml so it can run on its own schedule.
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch TornW3B marketplace
+        run: python Torn/tornw3b.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add Torn/bazaar_prices.json
+
+          git diff --quiet && git diff --staged --quiet || (git commit -m "update TornW3B bazaar prices" && git push)
