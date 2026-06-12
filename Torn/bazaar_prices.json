@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "https://weav3r.dev/api/marketplace",
-    "generated_utc": "2026-06-12T14:53:50.916533+00:00",
+    "generated_utc": "2026-06-12T20:07:27.889283+00:00",
     "count": 1487
   },
   "items": {
@@ -18,303 +18,303 @@
     "1": {
       "name": "Hammer",
       "market": 26,
-      "sellers": 503,
-      "bazaar": 89,
-      "lowest": 25
+      "sellers": 512,
+      "bazaar": 87,
+      "lowest": 10
     },
     "2": {
       "name": "Baseball Bat",
       "market": 124,
-      "sellers": 472,
-      "bazaar": 91,
+      "sellers": 479,
+      "bazaar": 100,
       "lowest": 50
     },
     "3": {
       "name": "Crowbar",
       "market": 109,
       "sellers": 360,
-      "bazaar": 212,
-      "lowest": 90
+      "bazaar": 206,
+      "lowest": 75
     },
     "4": {
       "name": "Knuckle Dusters",
       "market": 219,
-      "sellers": 536,
-      "bazaar": 475,
-      "lowest": 150
+      "sellers": 534,
+      "bazaar": 495,
+      "lowest": 224
     },
     "5": {
       "name": "Pen Knife",
       "market": 366,
-      "sellers": 388,
-      "bazaar": 720,
-      "lowest": 350
+      "sellers": 390,
+      "bazaar": 744,
+      "lowest": 360
     },
     "6": {
       "name": "Kitchen Knife",
       "market": 919,
-      "sellers": 415,
-      "bazaar": 1070,
-      "lowest": 900
+      "sellers": 416,
+      "bazaar": 1093,
+      "lowest": 919
     },
     "7": {
       "name": "Dagger",
       "market": 1339,
-      "sellers": 362,
-      "bazaar": 1467,
-      "lowest": 1200
+      "sellers": 360,
+      "bazaar": 1476,
+      "lowest": 1340
     },
     "8": {
       "name": "Axe",
       "market": 2003,
-      "sellers": 608,
-      "bazaar": 2954,
-      "lowest": 2002
+      "sellers": 611,
+      "bazaar": 2985,
+      "lowest": 2500
     },
     "9": {
       "name": "Scimitar",
       "market": 5036,
-      "sellers": 315,
-      "bazaar": 5362,
-      "lowest": 5036
+      "sellers": 311,
+      "bazaar": 5375,
+      "lowest": 5000
     },
     "10": {
       "name": "Chainsaw",
       "market": 11077,
-      "sellers": 658,
+      "sellers": 660,
       "bazaar": 11542,
-      "lowest": 11080
+      "lowest": 11079
     },
     "11": {
       "name": "Samurai Sword",
       "market": 53180,
-      "sellers": 568,
-      "bazaar": 53022,
-      "lowest": 52850
+      "sellers": 573,
+      "bazaar": 53011,
+      "lowest": 52845
     },
     "12": {
       "name": "Glock 17",
       "market": 259,
-      "sellers": 458,
+      "sellers": 460,
       "bazaar": 249,
-      "lowest": 200
+      "lowest": 150
     },
     "13": {
       "name": "Raven MP25",
       "market": 289,
-      "sellers": 275,
-      "bazaar": 355,
-      "lowest": 289
+      "sellers": 279,
+      "bazaar": 351,
+      "lowest": 278
     },
     "14": {
       "name": "Ruger 57",
       "market": 502,
-      "sellers": 327,
-      "bazaar": 608,
+      "sellers": 329,
+      "bazaar": 612,
       "lowest": 199
     },
     "15": {
       "name": "Beretta M9",
       "market": 1020,
-      "sellers": 610,
-      "bazaar": 1285,
-      "lowest": 950
+      "sellers": 614,
+      "bazaar": 1283,
+      "lowest": 1010
     },
     "16": {
       "name": "USP",
       "market": 1514,
-      "sellers": 461,
-      "bazaar": 1760,
-      "lowest": 1000
+      "sellers": 450,
+      "bazaar": 1810,
+      "lowest": 1521
     },
     "17": {
       "name": "Beretta 92FS",
       "market": 304738,
-      "sellers": 55,
-      "bazaar": 386438,
+      "sellers": 57,
+      "bazaar": 346623,
       "lowest": 304738
     },
     "18": {
       "name": "Fiveseven",
       "market": 6824,
-      "sellers": 648,
-      "bazaar": 7489,
-      "lowest": 7100
+      "sellers": 654,
+      "bazaar": 7491,
+      "lowest": 6824
     },
     "19": {
       "name": "Magnum",
       "market": 14260,
-      "sellers": 638,
-      "bazaar": 15997,
-      "lowest": 15904
+      "sellers": 644,
+      "bazaar": 15967,
+      "lowest": 13830
     },
     "20": {
       "name": "Desert Eagle",
       "market": 35145,
-      "sellers": 580,
-      "bazaar": 36994,
+      "sellers": 583,
+      "bazaar": 36996,
       "lowest": 36900
     },
     "21": {
       "name": "Dual 92G Berettas",
       "market": 3270000,
-      "sellers": 71,
-      "bazaar": 3662609,
+      "sellers": 72,
+      "bazaar": 3322011,
       "lowest": 3100000
     },
     "22": {
       "name": "Sawed-Off Shotgun",
       "market": 1303,
-      "sellers": 478,
-      "bazaar": 1387,
-      "lowest": 1300
+      "sellers": 480,
+      "bazaar": 1388,
+      "lowest": 1264
     },
     "23": {
       "name": "Benelli M1 Tactical",
       "market": 3106,
-      "sellers": 666,
+      "sellers": 669,
       "bazaar": 3287,
-      "lowest": 2900
+      "lowest": 2999
     },
     "24": {
       "name": "MP5 Navy",
       "market": 3537,
-      "sellers": 459,
-      "bazaar": 3776,
-      "lowest": 3400
+      "sellers": 458,
+      "bazaar": 3787,
+      "lowest": 3490
     },
     "25": {
       "name": "P90",
       "market": 6517,
-      "sellers": 571,
-      "bazaar": 6579,
-      "lowest": 6500
+      "sellers": 570,
+      "bazaar": 6584,
+      "lowest": 6387
     },
     "26": {
       "name": "AK-47",
       "market": 9596,
-      "sellers": 882,
-      "bazaar": 9976,
-      "lowest": 9499
+      "sellers": 883,
+      "bazaar": 9996,
+      "lowest": 9300
     },
     "27": {
       "name": "M4A1 Colt Carbine",
       "market": 11330,
-      "sellers": 573,
-      "bazaar": 12471,
-      "lowest": 10969
+      "sellers": 574,
+      "bazaar": 12486,
+      "lowest": 12000
     },
     "28": {
       "name": "Benelli M4 Super",
       "market": 20263,
-      "sellers": 687,
+      "sellers": 689,
       "bazaar": 21402,
       "lowest": 21398
     },
     "29": {
       "name": "M16 A2 Rifle",
       "market": 35497,
-      "sellers": 433,
-      "bazaar": 36000,
-      "lowest": 35400
+      "sellers": 436,
+      "bazaar": 36001,
+      "lowest": 35600
     },
     "30": {
       "name": "Steyr AUG",
       "market": 75255,
-      "sellers": 481,
-      "bazaar": 75056,
-      "lowest": 75000
+      "sellers": 483,
+      "bazaar": 75054,
+      "lowest": 74987
     },
     "31": {
       "name": "M249 SAW",
       "market": 663167,
-      "sellers": 441,
-      "bazaar": 673862,
-      "lowest": 670200
+      "sellers": 439,
+      "bazaar": 673977,
+      "lowest": 670220
     },
     "32": {
       "name": "Leather Vest",
       "market": 1013,
-      "sellers": 462,
-      "bazaar": 1692,
-      "lowest": 1300
+      "sellers": 466,
+      "bazaar": 1680,
+      "lowest": 1012
     },
     "33": {
       "name": "Police Vest",
       "market": 7357,
-      "sellers": 452,
-      "bazaar": 7441,
-      "lowest": 6995
+      "sellers": 448,
+      "bazaar": 7433,
+      "lowest": 6499
     },
     "34": {
       "name": "Bulletproof Vest",
       "market": 31185,
-      "sellers": 832,
-      "bazaar": 32948,
-      "lowest": 32664
+      "sellers": 830,
+      "bazaar": 32972,
+      "lowest": 32750
     },
     "35": {
       "name": "Box of Chocolate Bars",
       "market": 652,
-      "sellers": 432,
-      "bazaar": 662,
-      "lowest": 640
+      "sellers": 445,
+      "bazaar": 648,
+      "lowest": 350
     },
     "36": {
       "name": "Big Box of Chocolate Bars",
       "market": 50945,
-      "sellers": 261,
-      "bazaar": 51659,
-      "lowest": 49367
+      "sellers": 250,
+      "bazaar": 54481,
+      "lowest": 52398
     },
     "37": {
       "name": "Bag of Bon Bons",
       "market": 628,
-      "sellers": 624,
-      "bazaar": 616,
-      "lowest": 598
+      "sellers": 648,
+      "bazaar": 623,
+      "lowest": 350
     },
     "38": {
       "name": "Box of Bon Bons",
       "market": 779,
-      "sellers": 408,
-      "bazaar": 796,
-      "lowest": 775
+      "sellers": 414,
+      "bazaar": 798,
+      "lowest": 767
     },
     "39": {
       "name": "Box of Extra Strong Mints",
       "market": 642,
-      "sellers": 365,
-      "bazaar": 648,
-      "lowest": 610
+      "sellers": 380,
+      "bazaar": 610,
+      "lowest": 400
     },
     "40": {
       "name": "Pack of Music CDs",
       "market": 744,
-      "sellers": 184,
+      "sellers": 187,
       "bazaar": 730,
-      "lowest": 724
+      "lowest": 700
     },
     "41": {
       "name": "DVD Player",
       "market": 225,
-      "sellers": 306,
-      "bazaar": 320,
+      "sellers": 310,
+      "bazaar": 273,
       "lowest": 200
     },
     "42": {
       "name": "MP3 Player",
       "market": 490,
-      "sellers": 268,
-      "bazaar": 468,
-      "lowest": 375
+      "sellers": 285,
+      "bazaar": 471,
+      "lowest": 410
     },
     "43": {
       "name": "CD Player",
       "market": 475,
-      "sellers": 271,
-      "bazaar": 500,
-      "lowest": 420
+      "sellers": 279,
+      "bazaar": 477,
+      "lowest": 435
     },
     "44": {
       "name": "Blank DVDs : 100",
@@ -324,205 +324,205 @@
     "45": {
       "name": "Hard Drive",
       "market": 253,
-      "sellers": 287,
-      "bazaar": 248,
-      "lowest": 250
+      "sellers": 290,
+      "bazaar": 242,
+      "lowest": 210
     },
     "46": {
       "name": "Tank Top",
       "market": 211,
-      "sellers": 314,
-      "bazaar": 208,
-      "lowest": 200
+      "sellers": 319,
+      "bazaar": 203,
+      "lowest": 190
     },
     "47": {
       "name": "Trainers",
       "market": 291,
       "sellers": 279,
-      "bazaar": 283,
+      "bazaar": 276,
       "lowest": 150
     },
     "48": {
       "name": "Jacket",
       "market": 283,
       "sellers": 402,
-      "bazaar": 256,
-      "lowest": 148
+      "bazaar": 331,
+      "lowest": 230
     },
     "49": {
       "name": "Full Body Armor",
       "market": 60074,
-      "sellers": 689,
-      "bazaar": 59993,
-      "lowest": 59888
+      "sellers": 697,
+      "bazaar": 60011,
+      "lowest": 58999
     },
     "50": {
       "name": "Outer Tactical Vest",
       "market": 749443,
-      "sellers": 386,
-      "bazaar": 753400,
-      "lowest": 750599
+      "sellers": 384,
+      "bazaar": 753598,
+      "lowest": 749000
     },
     "51": {
       "name": "Plain Silver Ring",
       "market": 276,
       "sellers": 349,
-      "bazaar": 295,
+      "bazaar": 445,
       "lowest": 260
     },
     "52": {
       "name": "Sapphire Ring",
       "market": 633,
-      "sellers": 279,
-      "bazaar": 841,
-      "lowest": 699
+      "sellers": 287,
+      "bazaar": 777,
+      "lowest": 607
     },
     "53": {
       "name": "Gold Ring",
       "market": 439,
-      "sellers": 447,
-      "bazaar": 434,
-      "lowest": 398
+      "sellers": 445,
+      "bazaar": 578,
+      "lowest": 417
     },
     "54": {
       "name": "Diamond Ring",
       "market": 2615,
-      "sellers": 584,
-      "bazaar": 2787,
-      "lowest": 2600
+      "sellers": 558,
+      "bazaar": 3053,
+      "lowest": 2500
     },
     "55": {
       "name": "Pearl Necklace",
       "market": 382,
-      "sellers": 467,
-      "bazaar": 294,
-      "lowest": 298
+      "sellers": 456,
+      "bazaar": 470,
+      "lowest": 350
     },
     "56": {
       "name": "Silver Necklace",
       "market": 288,
-      "sellers": 352,
-      "bazaar": 318,
-      "lowest": 200
+      "sellers": 356,
+      "bazaar": 437,
+      "lowest": 250
     },
     "57": {
       "name": "Gold Necklace",
       "market": 404,
-      "sellers": 393,
-      "bazaar": 431,
-      "lowest": 394
+      "sellers": 390,
+      "bazaar": 496,
+      "lowest": 387
     },
     "58": {
       "name": "Plastic Watch",
       "market": 406,
       "sellers": 262,
-      "bazaar": 399,
-      "lowest": 375
+      "bazaar": 390,
+      "lowest": 200
     },
     "59": {
       "name": "Stainless Steel Watch",
       "market": 294,
-      "sellers": 323,
-      "bazaar": 418,
-      "lowest": 284
+      "sellers": 329,
+      "bazaar": 365,
+      "lowest": 237
     },
     "60": {
       "name": "Gold Watch",
       "market": 1020,
-      "sellers": 314,
-      "bazaar": 1668,
-      "lowest": 899
+      "sellers": 317,
+      "bazaar": 1770,
+      "lowest": 1000
     },
     "61": {
       "name": "Personal Computer",
       "market": 310,
-      "sellers": 453,
-      "bazaar": 302,
-      "lowest": 200
+      "sellers": 443,
+      "bazaar": 316,
+      "lowest": 250
     },
     "62": {
       "name": "Microwave",
       "market": 1079,
-      "sellers": 132,
-      "bazaar": 2353,
-      "lowest": 2000
+      "sellers": 127,
+      "bazaar": 2744,
+      "lowest": 1068
     },
     "63": {
       "name": "Minigun",
       "market": 1356057,
-      "sellers": 630,
-      "bazaar": 1321982,
+      "sellers": 632,
+      "bazaar": 1323746,
       "lowest": 1300000
     },
     "64": {
       "name": "Pack of Cuban Cigars",
       "market": 718,
-      "sellers": 286,
-      "bazaar": 697,
-      "lowest": 600
+      "sellers": 280,
+      "bazaar": 708,
+      "lowest": 695
     },
     "65": {
       "name": "Television",
       "market": 516,
-      "sellers": 263,
-      "bazaar": 507,
-      "lowest": 499
+      "sellers": 271,
+      "bazaar": 514,
+      "lowest": 479
     },
     "66": {
       "name": "Morphine",
       "market": 14219,
-      "sellers": 930,
-      "bazaar": 14146,
-      "lowest": 13899
+      "sellers": 922,
+      "bazaar": 14255,
+      "lowest": 14076
     },
     "67": {
       "name": "First Aid Kit",
       "market": 9626,
-      "sellers": 682,
-      "bazaar": 9965,
-      "lowest": 9349
+      "sellers": 695,
+      "bazaar": 9838,
+      "lowest": 9500
     },
     "68": {
       "name": "Small First Aid Kit",
       "market": 4276,
-      "sellers": 457,
-      "bazaar": 4874,
-      "lowest": 3000
+      "sellers": 452,
+      "bazaar": 4846,
+      "lowest": 4000
     },
     "69": {
       "name": "Simple Virus",
       "market": 5205,
-      "sellers": 209,
-      "bazaar": 4982,
-      "lowest": 4798
+      "sellers": 201,
+      "bazaar": 4692,
+      "lowest": 4197
     },
     "70": {
       "name": "Polymorphic Virus",
       "market": 1076369,
-      "sellers": 66,
-      "bazaar": 1081957,
-      "lowest": 1000000
+      "sellers": 65,
+      "bazaar": 1090477,
+      "lowest": 1075999
     },
     "71": {
       "name": "Tunneling Virus",
       "market": 2218950,
-      "sellers": 188,
-      "bazaar": 2101213,
-      "lowest": 2000000
+      "sellers": 191,
+      "bazaar": 2115617,
+      "lowest": 1999990
     },
     "72": {
       "name": "Armored Virus",
       "market": 783333,
       "sellers": 65,
-      "bazaar": 781237,
-      "lowest": 755555
+      "bazaar": 777741,
+      "lowest": 770000
     },
     "73": {
       "name": "Stealth Virus",
       "market": 978760,
-      "sellers": 94,
-      "bazaar": 1030681,
-      "lowest": 958760
+      "sellers": 95,
+      "bazaar": 1048765,
+      "lowest": 950000
     },
     "74": {
       "name": "Santa Hat '04",
@@ -552,70 +552,70 @@
       "name": "Edomondo NSX",
       "market": 40301,
       "sellers": 222,
-      "bazaar": 41578,
-      "lowest": 40300
+      "bazaar": 41596,
+      "lowest": 40600
     },
     "79": {
       "name": "Echo Quadrato",
       "market": 55796,
-      "sellers": 210,
-      "bazaar": 55035,
+      "sellers": 212,
+      "bazaar": 55000,
       "lowest": 54996
     },
     "80": {
       "name": "Bavaria M5",
       "market": 41249,
-      "sellers": 152,
+      "sellers": 153,
       "bazaar": 43005,
       "lowest": 42995
     },
     "81": {
       "name": "Bavaria Z8",
       "market": 80967,
-      "sellers": 245,
-      "bazaar": 80368,
+      "sellers": 243,
+      "bazaar": 80419,
       "lowest": 79997
     },
     "82": {
       "name": "Chevalier CZ06",
       "market": 60670,
-      "sellers": 230,
-      "bazaar": 52545,
-      "lowest": 51000
+      "sellers": 221,
+      "bazaar": 54870,
+      "lowest": 54420
     },
     "83": {
       "name": "Dart Rampager",
       "market": 67714,
-      "sellers": 242,
-      "bazaar": 69159,
+      "sellers": 241,
+      "bazaar": 69150,
       "lowest": 68986
     },
     "84": {
       "name": "Knight Firebrand",
       "market": 72007,
-      "sellers": 117,
-      "bazaar": 60395,
-      "lowest": 60000
+      "sellers": 115,
+      "bazaar": 60593,
+      "lowest": 60419
     },
     "85": {
       "name": "Volt GT",
       "market": 156019,
-      "sellers": 176,
+      "sellers": 177,
       "bazaar": 152361,
       "lowest": 150990
     },
     "86": {
       "name": "Invader H3",
       "market": 29983,
-      "sellers": 71,
-      "bazaar": 28940,
-      "lowest": 26724
+      "sellers": 69,
+      "bazaar": 29570,
+      "lowest": 28500
     },
     "87": {
       "name": "Echo S4",
       "market": 20465,
       "sellers": 78,
-      "bazaar": 20103,
+      "bazaar": 20187,
       "lowest": 20000
     },
     "88": {
@@ -628,65 +628,65 @@
     "89": {
       "name": "Edomondo ACD",
       "market": 21052,
-      "sellers": 195,
+      "sellers": 196,
       "bazaar": 23000,
       "lowest": 22998
     },
     "90": {
       "name": "Edomondo Localé",
       "market": 247820,
-      "sellers": 188,
-      "bazaar": 223913,
-      "lowest": 220000
+      "sellers": 190,
+      "bazaar": 223350,
+      "lowest": 217999
     },
     "91": {
       "name": "Verpestung Insecta",
       "market": 18338,
-      "sellers": 202,
-      "bazaar": 17595,
-      "lowest": 17499
+      "sellers": 199,
+      "bazaar": 17565,
+      "lowest": 15999
     },
     "92": {
       "name": "Chevalier CVR",
       "market": 15216,
       "sellers": 97,
-      "bazaar": 14081,
-      "lowest": 13000
+      "bazaar": 14211,
+      "lowest": 14000
     },
     "93": {
       "name": "Volt MNG",
       "market": 21949,
       "sellers": 115,
-      "bazaar": 23164,
-      "lowest": 22958
+      "bazaar": 23340,
+      "lowest": 23000
     },
     "94": {
       "name": "Trident",
       "market": 63080,
-      "sellers": 191,
-      "bazaar": 57844,
-      "lowest": 54000
+      "sellers": 185,
+      "bazaar": 59881,
+      "lowest": 58900
     },
     "95": {
       "name": "Oceania SS",
       "market": 22945,
-      "sellers": 177,
+      "sellers": 178,
       "bazaar": 25002,
       "lowest": 24999
     },
     "96": {
       "name": "Coat Hanger",
       "market": 30328,
-      "sellers": 321,
-      "bazaar": 29711,
-      "lowest": 28000
+      "sellers": 320,
+      "bazaar": 28994,
+      "lowest": 25000
     },
     "97": {
       "name": "Bunch of Flowers",
       "market": 242,
-      "sellers": 505,
-      "bazaar": 251,
-      "lowest": 233
+      "sellers": 502,
+      "bazaar": 252,
+      "lowest": 200
     },
     "98": {
       "name": "Neutrilux 2000",
@@ -696,8 +696,8 @@
     "99": {
       "name": "Springfield 1911",
       "market": 594,
-      "sellers": 146,
-      "bazaar": 546,
+      "sellers": 150,
+      "bazaar": 534,
       "lowest": 200
     },
     "100": {
@@ -720,16 +720,16 @@
     "103": {
       "name": "Firewalk Virus",
       "market": 4230126,
-      "sellers": 279,
-      "bazaar": 4217492,
-      "lowest": 4180000
+      "sellers": 280,
+      "bazaar": 4186245,
+      "lowest": 4000000
     },
     "104": {
       "name": "Game Console",
       "market": 729,
-      "sellers": 227,
-      "bazaar": 742,
-      "lowest": 699
+      "sellers": 243,
+      "bazaar": 717,
+      "lowest": 697
     },
     "105": {
       "name": "Xbox",
@@ -739,44 +739,44 @@
     "106": {
       "name": "Parachute",
       "market": 447000000,
-      "sellers": 20,
-      "bazaar": 447400000,
-      "lowest": 447000000
+      "sellers": 18,
+      "bazaar": 463666666,
+      "lowest": 449000000
     },
     "107": {
       "name": "Trench Coat",
       "market": 330451,
-      "sellers": 710,
-      "bazaar": 326443,
+      "sellers": 709,
+      "bazaar": 326666,
       "lowest": 325000
     },
     "108": {
       "name": "9mm Uzi",
       "market": 599958,
-      "sellers": 380,
-      "bazaar": 603480,
-      "lowest": 599900
+      "sellers": 378,
+      "bazaar": 604131,
+      "lowest": 600000
     },
     "109": {
       "name": "RPG Launcher",
       "market": 60000000,
-      "sellers": 8,
-      "bazaar": 76132666,
+      "sellers": 7,
+      "bazaar": 91132665,
       "lowest": 59400000
     },
     "110": {
       "name": "Leather Bullwhip",
       "market": 648,
-      "sellers": 248,
-      "bazaar": 744,
-      "lowest": 639
+      "sellers": 251,
+      "bazaar": 727,
+      "lowest": 300
     },
     "111": {
       "name": "Ninja Claws",
       "market": 4807,
       "sellers": 215,
-      "bazaar": 4998,
-      "lowest": 4913
+      "bazaar": 4988,
+      "lowest": 4800
     },
     "112": {
       "name": "Test Trophy",
@@ -870,9 +870,9 @@
     "129": {
       "name": "Dozen Roses",
       "market": 301,
-      "sellers": 373,
-      "bazaar": 313,
-      "lowest": 299
+      "sellers": 379,
+      "bazaar": 297,
+      "lowest": 278
     },
     "130": {
       "name": "Skanky Doll",
@@ -959,16 +959,16 @@
     "146": {
       "name": "Yasukuni Sword",
       "market": 146356,
-      "sellers": 238,
-      "bazaar": 141876,
+      "sellers": 237,
+      "bazaar": 142018,
       "lowest": 135000
     },
     "147": {
       "name": "Rusty Sword",
       "market": 146,
-      "sellers": 337,
-      "bazaar": 238,
-      "lowest": 99
+      "sellers": 341,
+      "bazaar": 246,
+      "lowest": 120
     },
     "148": {
       "name": "Dance Toy",
@@ -988,9 +988,9 @@
     "151": {
       "name": "Pixie Sticks",
       "market": 321625,
-      "sellers": 291,
-      "bazaar": 325172,
-      "lowest": 320000
+      "sellers": 288,
+      "bazaar": 329230,
+      "lowest": 321625
     },
     "152": {
       "name": "Ice Sculpture",
@@ -1005,9 +1005,9 @@
     "154": {
       "name": "Laptop",
       "market": 3230,
-      "sellers": 289,
-      "bazaar": 23844,
-      "lowest": 3230
+      "sellers": 293,
+      "bazaar": 23828,
+      "lowest": 2999
     },
     "155": {
       "name": "Purple Frog",
@@ -1034,14 +1034,14 @@
     "159": {
       "name": "Bolt Cutters",
       "market": 445,
-      "sellers": 346,
-      "bazaar": 438,
+      "sellers": 341,
+      "bazaar": 439,
       "lowest": 398
     },
     "160": {
       "name": "Photographs",
       "market": 0,
-      "sellers": 12,
+      "sellers": 13,
       "bazaar": 19350000,
       "lowest": 18000000
     },
@@ -1106,51 +1106,51 @@
     "172": {
       "name": "Gasoline",
       "market": 545,
-      "sellers": 1063,
-      "bazaar": 542,
-      "lowest": 522
+      "sellers": 1047,
+      "bazaar": 556,
+      "lowest": 499
     },
     "173": {
       "name": "Butterfly Knife",
       "market": 878,
-      "sellers": 560,
-      "bazaar": 1178,
-      "lowest": 600
+      "sellers": 563,
+      "bazaar": 1194,
+      "lowest": 800
     },
     "174": {
       "name": "XM8 Rifle",
       "market": 8516,
-      "sellers": 641,
-      "bazaar": 8990,
-      "lowest": 8500
+      "sellers": 643,
+      "bazaar": 8973,
+      "lowest": 8000
     },
     "175": {
       "name": "Taser",
       "market": 3260,
-      "sellers": 571,
-      "bazaar": 4225,
-      "lowest": 3333
+      "sellers": 575,
+      "bazaar": 4236,
+      "lowest": 3000
     },
     "176": {
       "name": "Chain Mail",
       "market": 3007,
-      "sellers": 183,
-      "bazaar": 3112,
-      "lowest": 2898
+      "sellers": 180,
+      "bazaar": 3134,
+      "lowest": 3000
     },
     "177": {
       "name": "Cobra Derringer",
       "market": 54439,
-      "sellers": 397,
-      "bazaar": 54928,
-      "lowest": 54442
+      "sellers": 401,
+      "bazaar": 55016,
+      "lowest": 54995
     },
     "178": {
       "name": "Flak Jacket",
       "market": 4505,
-      "sellers": 666,
-      "bazaar": 4705,
-      "lowest": 4000
+      "sellers": 669,
+      "bazaar": 4722,
+      "lowest": 4399
     },
     "179": {
       "name": "Birthday Cake '05",
@@ -1162,37 +1162,37 @@
     "180": {
       "name": "Bottle of Beer",
       "market": 787,
-      "sellers": 908,
-      "bazaar": 773,
-      "lowest": 600
+      "sellers": 900,
+      "bazaar": 778,
+      "lowest": 750
     },
     "181": {
       "name": "Bottle of Champagne",
       "market": 2947,
-      "sellers": 488,
-      "bazaar": 3094,
-      "lowest": 2786
+      "sellers": 485,
+      "bazaar": 2978,
+      "lowest": 1500
     },
     "182": {
       "name": "Soap on a Rope",
       "market": 460,
       "sellers": 221,
-      "bazaar": 464,
-      "lowest": 459
+      "bazaar": 462,
+      "lowest": 450
     },
     "183": {
       "name": "Single Red Rose",
       "market": 345,
-      "sellers": 407,
-      "bazaar": 328,
-      "lowest": 200
+      "sellers": 403,
+      "bazaar": 341,
+      "lowest": 307
     },
     "184": {
       "name": "Bunch of Black Roses",
       "market": 443,
-      "sellers": 434,
-      "bazaar": 444,
-      "lowest": 437
+      "sellers": 441,
+      "bazaar": 439,
+      "lowest": 400
     },
     "185": {
       "name": "Bunch of Balloons '05",
@@ -1204,16 +1204,16 @@
     "186": {
       "name": "Sheep Plushie",
       "market": 482,
-      "sellers": 1242,
-      "bazaar": 490,
-      "lowest": 450
+      "sellers": 1196,
+      "bazaar": 493,
+      "lowest": 400
     },
     "187": {
       "name": "Teddy Bear Plushie",
       "market": 482,
-      "sellers": 1342,
-      "bazaar": 496,
-      "lowest": 460
+      "sellers": 1321,
+      "bazaar": 484,
+      "lowest": 400
     },
     "188": {
       "name": "Cracked Crystal Ball",
@@ -1223,21 +1223,21 @@
     "189": {
       "name": "S&W Revolver",
       "market": 867,
-      "sellers": 190,
-      "bazaar": 940,
+      "sellers": 192,
+      "bazaar": 942,
       "lowest": 848
     },
     "190": {
       "name": "C4 Explosive",
       "market": 74590,
-      "sellers": 147,
-      "bazaar": 75017,
-      "lowest": 73215
+      "sellers": 153,
+      "bazaar": 72903,
+      "lowest": 69000
     },
     "191": {
       "name": "Memory Locket",
       "market": 4999999,
-      "sellers": 58,
+      "sellers": 59,
       "bazaar": 5459799,
       "lowest": 5000000
     },
@@ -1266,44 +1266,44 @@
     "196": {
       "name": "Cannabis",
       "market": 6011,
-      "sellers": 1471,
-      "bazaar": 5966,
-      "lowest": 5000
+      "sellers": 1477,
+      "bazaar": 5998,
+      "lowest": 5891
     },
     "197": {
       "name": "Ecstasy",
       "market": 39141,
-      "sellers": 968,
-      "bazaar": 38089,
-      "lowest": 37750
+      "sellers": 986,
+      "bazaar": 38046,
+      "lowest": 37895
     },
     "198": {
       "name": "Ketamine",
       "market": 2002,
-      "sellers": 902,
-      "bazaar": 1987,
-      "lowest": 1000
+      "sellers": 919,
+      "bazaar": 1995,
+      "lowest": 1925
     },
     "199": {
       "name": "LSD",
       "market": 24222,
-      "sellers": 1154,
-      "bazaar": 23422,
-      "lowest": 22998
+      "sellers": 1164,
+      "bazaar": 24119,
+      "lowest": 23450
     },
     "200": {
       "name": "Opium",
       "market": 26648,
-      "sellers": 554,
-      "bazaar": 26600,
-      "lowest": 25400
+      "sellers": 558,
+      "bazaar": 26566,
+      "lowest": 24000
     },
     "201": {
       "name": "PCP",
       "market": 3007,
-      "sellers": 902,
-      "bazaar": 2950,
-      "lowest": 2896
+      "sellers": 900,
+      "bazaar": 2991,
+      "lowest": 2750
     },
     "202": {
       "name": "Mr Torn Crown '07",
@@ -1313,30 +1313,30 @@
     "203": {
       "name": "Shrooms",
       "market": 3749,
-      "sellers": 762,
-      "bazaar": 3687,
-      "lowest": 3499
+      "sellers": 773,
+      "bazaar": 3685,
+      "lowest": 3000
     },
     "204": {
       "name": "Speed",
       "market": 2344,
-      "sellers": 822,
-      "bazaar": 2325,
-      "lowest": 2000
+      "sellers": 780,
+      "bazaar": 2363,
+      "lowest": 2297
     },
     "205": {
       "name": "Vicodin",
       "market": 1003,
-      "sellers": 1679,
-      "bazaar": 1083,
-      "lowest": 992
+      "sellers": 1669,
+      "bazaar": 1094,
+      "lowest": 1000
     },
     "206": {
       "name": "Xanax",
       "market": 849294,
-      "sellers": 862,
-      "bazaar": 835616,
-      "lowest": 832000
+      "sellers": 867,
+      "bazaar": 836072,
+      "lowest": 834000
     },
     "207": {
       "name": "Ms Torn Crown '07",
@@ -1351,16 +1351,16 @@
     "209": {
       "name": "Box of Sweet Hearts",
       "market": 666,
-      "sellers": 449,
-      "bazaar": 668,
-      "lowest": 600
+      "sellers": 465,
+      "bazaar": 665,
+      "lowest": 400
     },
     "210": {
       "name": "Bag of Chocolate Kisses",
       "market": 696,
-      "sellers": 583,
-      "bazaar": 690,
-      "lowest": 582
+      "sellers": 608,
+      "bazaar": 687,
+      "lowest": 350
     },
     "211": {
       "name": "Crazy Cow",
@@ -1385,9 +1385,9 @@
     "215": {
       "name": "Kitten Plushie",
       "market": 511,
-      "sellers": 945,
-      "bazaar": 531,
-      "lowest": 494
+      "sellers": 941,
+      "bazaar": 547,
+      "lowest": 500
     },
     "216": {
       "name": "Single White Rose",
@@ -1397,471 +1397,471 @@
     "217": {
       "name": "Claymore Sword",
       "market": 73799,
-      "sellers": 309,
-      "bazaar": 75061,
+      "sellers": 318,
+      "bazaar": 75059,
       "lowest": 74987
     },
     "218": {
       "name": "Crossbow",
       "market": 687,
-      "sellers": 240,
-      "bazaar": 728,
+      "sellers": 242,
+      "bazaar": 727,
       "lowest": 600
     },
     "219": {
       "name": "Enfield SA-80",
       "market": 240320,
-      "sellers": 504,
-      "bazaar": 238102,
-      "lowest": 229999
+      "sellers": 513,
+      "bazaar": 237643,
+      "lowest": 229997
     },
     "220": {
       "name": "Grenade",
       "market": 6956,
-      "sellers": 650,
-      "bazaar": 7098,
-      "lowest": 6816
+      "sellers": 648,
+      "bazaar": 7117,
+      "lowest": 6700
     },
     "221": {
       "name": "Stick Grenade",
       "market": 13539,
-      "sellers": 262,
-      "bazaar": 13069,
-      "lowest": 12850
+      "sellers": 265,
+      "bazaar": 13047,
+      "lowest": 12849
     },
     "222": {
       "name": "Flash Grenade",
       "market": 23298,
-      "sellers": 221,
-      "bazaar": 22965,
-      "lowest": 22000
+      "sellers": 217,
+      "bazaar": 24023,
+      "lowest": 23100
     },
     "223": {
       "name": "Jackhammer",
       "market": 4156598,
-      "sellers": 414,
-      "bazaar": 4073858,
-      "lowest": 4014264
+      "sellers": 418,
+      "bazaar": 4066185,
+      "lowest": 4000000
     },
     "224": {
       "name": "Swiss Army Knife",
       "market": 1702,
-      "sellers": 431,
-      "bazaar": 1991,
-      "lowest": 1702
+      "sellers": 433,
+      "bazaar": 1993,
+      "lowest": 1753
     },
     "225": {
       "name": "Mag 7",
       "market": 64626,
-      "sellers": 488,
-      "bazaar": 53873,
-      "lowest": 53000
+      "sellers": 489,
+      "bazaar": 53939,
+      "lowest": 53214
     },
     "226": {
       "name": "Smoke Grenade",
       "market": 81386,
-      "sellers": 233,
-      "bazaar": 81313,
-      "lowest": 80999
+      "sellers": 241,
+      "bazaar": 80880,
+      "lowest": 79758
     },
     "227": {
       "name": "Spear",
       "market": 292,
-      "sellers": 284,
+      "sellers": 290,
       "bazaar": 360,
       "lowest": 250
     },
     "228": {
       "name": "Vektor CR-21",
       "market": 7628,
-      "sellers": 445,
-      "bazaar": 6746,
+      "sellers": 448,
+      "bazaar": 6754,
       "lowest": 6551
     },
     "229": {
       "name": "Claymore Mine",
       "market": 14195,
-      "sellers": 138,
-      "bazaar": 13968,
-      "lowest": 13900
+      "sellers": 137,
+      "bazaar": 13857,
+      "lowest": 13000
     },
     "230": {
       "name": "Flare Gun",
       "market": 158,
-      "sellers": 283,
-      "bazaar": 169,
+      "sellers": 286,
+      "bazaar": 166,
       "lowest": 100
     },
     "231": {
       "name": "Heckler & Koch SL8",
       "market": 34212,
-      "sellers": 384,
+      "sellers": 388,
       "bazaar": 35005,
-      "lowest": 34994
+      "lowest": 34993
     },
     "232": {
       "name": "SIG 550",
       "market": 55109,
-      "sellers": 305,
-      "bazaar": 55142,
-      "lowest": 54998
+      "sellers": 302,
+      "bazaar": 55159,
+      "lowest": 55000
     },
     "233": {
       "name": "BT MP9",
       "market": 48352,
-      "sellers": 660,
-      "bazaar": 45554,
+      "sellers": 670,
+      "bazaar": 45559,
       "lowest": 44000
     },
     "234": {
       "name": "Chain Whip",
       "market": 3210,
-      "sellers": 66,
-      "bazaar": 3519,
+      "sellers": 67,
+      "bazaar": 3199,
       "lowest": 3100
     },
     "235": {
       "name": "Wooden Nunchaku",
       "market": 6224,
       "sellers": 76,
-      "bazaar": 6101,
-      "lowest": 6000
+      "bazaar": 6050,
+      "lowest": 5999
     },
     "236": {
       "name": "Kama",
       "market": 38832,
-      "sellers": 247,
-      "bazaar": 40005,
-      "lowest": 38831
+      "sellers": 248,
+      "bazaar": 40007,
+      "lowest": 39895
     },
     "237": {
       "name": "Kodachi",
       "market": 108675,
-      "sellers": 375,
-      "bazaar": 98780,
-      "lowest": 94000
+      "sellers": 373,
+      "bazaar": 99530,
+      "lowest": 90000
     },
     "238": {
       "name": "Sai",
       "market": 1000,
-      "sellers": 74,
+      "sellers": 76,
       "bazaar": 994,
       "lowest": 950
     },
     "239": {
       "name": "Ninja Star",
       "market": 1059,
-      "sellers": 276,
-      "bazaar": 1002,
-      "lowest": 998
+      "sellers": 253,
+      "bazaar": 1000,
+      "lowest": 999
     },
     "240": {
       "name": "Type 98 Anti Tank",
       "market": 16587456,
-      "sellers": 158,
-      "bazaar": 17132768,
-      "lowest": 17002142
+      "sellers": 161,
+      "bazaar": 17107576,
+      "lowest": 17002138
     },
     "241": {
       "name": "Bushmaster Carbon 15",
       "market": 9942,
-      "sellers": 561,
-      "bazaar": 9974,
+      "sellers": 564,
+      "bazaar": 9983,
       "lowest": 9749
     },
     "242": {
       "name": "HEG",
       "market": 15024,
-      "sellers": 530,
-      "bazaar": 15137,
-      "lowest": 15000
+      "sellers": 515,
+      "bazaar": 15154,
+      "lowest": 15024
     },
     "243": {
       "name": "Taurus",
       "market": 379,
-      "sellers": 296,
-      "bazaar": 394,
-      "lowest": 300
+      "sellers": 299,
+      "bazaar": 392,
+      "lowest": 299
     },
     "244": {
       "name": "Blowgun",
       "market": 1999,
-      "sellers": 358,
-      "bazaar": 4017,
-      "lowest": 2003
+      "sellers": 361,
+      "bazaar": 3618,
+      "lowest": 2000
     },
     "245": {
       "name": "Bo Staff",
       "market": 469,
-      "sellers": 139,
-      "bazaar": 587,
-      "lowest": 350
+      "sellers": 138,
+      "bazaar": 603,
+      "lowest": 399
     },
     "246": {
       "name": "Fireworks",
       "market": 353,
-      "sellers": 344,
-      "bazaar": 350,
-      "lowest": 330
+      "sellers": 355,
+      "bazaar": 349,
+      "lowest": 329
     },
     "247": {
       "name": "Katana",
       "market": 12895,
-      "sellers": 349,
-      "bazaar": 12991,
-      "lowest": 12890
+      "sellers": 348,
+      "bazaar": 12989,
+      "lowest": 12884
     },
     "248": {
       "name": "Qsz-92",
       "market": 70871,
-      "sellers": 465,
-      "bazaar": 70291,
-      "lowest": 69998
+      "sellers": 471,
+      "bazaar": 70283,
+      "lowest": 69999
     },
     "249": {
       "name": "SKS Carbine",
       "market": 4933,
-      "sellers": 305,
-      "bazaar": 4989,
+      "sellers": 310,
+      "bazaar": 4990,
       "lowest": 4930
     },
     "250": {
       "name": "Twin Tiger Hooks",
       "market": 43708,
-      "sellers": 59,
+      "sellers": 60,
       "bazaar": 43575,
       "lowest": 42000
     },
     "251": {
       "name": "Wushu Double Axes",
       "market": 72171,
-      "sellers": 69,
-      "bazaar": 76356,
-      "lowest": 65000
+      "sellers": 71,
+      "bazaar": 71965,
+      "lowest": 69999
     },
     "252": {
       "name": "Ithaca 37",
       "market": 7003,
-      "sellers": 447,
-      "bazaar": 6982,
-      "lowest": 6700
+      "sellers": 445,
+      "bazaar": 6992,
+      "lowest": 6868
     },
     "253": {
       "name": "Lorcin 380",
       "market": 333,
-      "sellers": 174,
-      "bazaar": 225,
+      "sellers": 177,
+      "bazaar": 222,
       "lowest": 200
     },
     "254": {
       "name": "S&W M29",
       "market": 138000,
-      "sellers": 32,
-      "bazaar": 134090,
+      "sellers": 34,
+      "bazaar": 134649,
       "lowest": 133860
     },
     "255": {
       "name": "Flamethrower",
       "market": 2601672,
-      "sellers": 347,
-      "bazaar": 2518607,
-      "lowest": 2500000
+      "sellers": 348,
+      "bazaar": 2524032,
+      "lowest": 2502000
     },
     "256": {
       "name": "Tear Gas",
       "market": 50530,
-      "sellers": 284,
-      "bazaar": 50103,
-      "lowest": 47997
+      "sellers": 286,
+      "bazaar": 50072,
+      "lowest": 49519
     },
     "257": {
       "name": "Throwing Knife",
       "market": 29681,
       "sellers": 226,
-      "bazaar": 30098,
-      "lowest": 29777
+      "bazaar": 29381,
+      "lowest": 27598
     },
     "258": {
       "name": "Jaguar Plushie",
       "market": 13449,
-      "sellers": 533,
-      "bazaar": 13434,
-      "lowest": 13222
+      "sellers": 517,
+      "bazaar": 13669,
+      "lowest": 13000
     },
     "259": {
       "name": "Mayan Statue",
       "market": 2258,
-      "sellers": 184,
-      "bazaar": 2118,
-      "lowest": 2000
+      "sellers": 186,
+      "bazaar": 2254,
+      "lowest": 2200
     },
     "260": {
       "name": "Dahlia",
       "market": 2041,
-      "sellers": 406,
-      "bazaar": 2068,
-      "lowest": 1980
+      "sellers": 404,
+      "bazaar": 2058,
+      "lowest": 1710
     },
     "261": {
       "name": "Wolverine Plushie",
       "market": 5015,
-      "sellers": 871,
-      "bazaar": 5021,
+      "sellers": 840,
+      "bazaar": 5172,
       "lowest": 4900
     },
     "262": {
       "name": "Hockey Stick",
       "market": 3370,
-      "sellers": 159,
-      "bazaar": 3354,
-      "lowest": 3033
+      "sellers": 156,
+      "bazaar": 3342,
+      "lowest": 2999
     },
     "263": {
       "name": "Crocus",
       "market": 5004,
-      "sellers": 570,
-      "bazaar": 5062,
-      "lowest": 4999
+      "sellers": 568,
+      "bazaar": 5091,
+      "lowest": 4950
     },
     "264": {
       "name": "Orchid",
       "market": 4986,
-      "sellers": 933,
-      "bazaar": 5000,
-      "lowest": 4993
+      "sellers": 960,
+      "bazaar": 4980,
+      "lowest": 4894
     },
     "265": {
       "name": "Pele Charm",
       "market": 3217,
-      "sellers": 205,
-      "bazaar": 3193,
-      "lowest": 2999
+      "sellers": 200,
+      "bazaar": 3155,
+      "lowest": 2949
     },
     "266": {
       "name": "Nessie Plushie",
       "market": 24001,
-      "sellers": 922,
-      "bazaar": 24084,
-      "lowest": 23449
+      "sellers": 937,
+      "bazaar": 24008,
+      "lowest": 23500
     },
     "267": {
       "name": "Heather",
       "market": 28234,
-      "sellers": 569,
-      "bazaar": 28501,
-      "lowest": 28100
+      "sellers": 583,
+      "bazaar": 28474,
+      "lowest": 27777
     },
     "268": {
       "name": "Red Fox Plushie",
       "market": 25007,
-      "sellers": 991,
-      "bazaar": 25087,
-      "lowest": 24900
+      "sellers": 996,
+      "bazaar": 25093,
+      "lowest": 24798
     },
     "269": {
       "name": "Monkey Plushie",
       "market": 31628,
-      "sellers": 615,
-      "bazaar": 32195,
-      "lowest": 31099
+      "sellers": 598,
+      "bazaar": 32615,
+      "lowest": 31000
     },
     "270": {
       "name": "Soccer Ball",
       "market": 1602,
-      "sellers": 177,
-      "bazaar": 1533,
-      "lowest": 1500
+      "sellers": 187,
+      "bazaar": 1579,
+      "lowest": 1528
     },
     "271": {
       "name": "Ceibo Flower",
       "market": 29332,
-      "sellers": 451,
-      "bazaar": 29676,
-      "lowest": 28900
+      "sellers": 475,
+      "bazaar": 29420,
+      "lowest": 29200
     },
     "272": {
       "name": "Edelweiss",
       "market": 8428,
-      "sellers": 702,
-      "bazaar": 8584,
-      "lowest": 8400
+      "sellers": 698,
+      "bazaar": 8491,
+      "lowest": 8250
     },
     "273": {
       "name": "Chamois Plushie",
       "market": 9853,
-      "sellers": 659,
-      "bazaar": 11034,
-      "lowest": 9800
+      "sellers": 648,
+      "bazaar": 11258,
+      "lowest": 9777
     },
     "274": {
       "name": "Panda Plushie",
       "market": 54216,
-      "sellers": 307,
-      "bazaar": 55663,
-      "lowest": 53999
+      "sellers": 308,
+      "bazaar": 54595,
+      "lowest": 51000
     },
     "275": {
       "name": "Jade Buddha",
       "market": 10116,
-      "sellers": 149,
-      "bazaar": 10126,
+      "sellers": 150,
+      "bazaar": 10619,
       "lowest": 10000
     },
     "276": {
       "name": "Peony",
       "market": 58021,
-      "sellers": 254,
-      "bazaar": 58470,
-      "lowest": 57764
+      "sellers": 284,
+      "bazaar": 57850,
+      "lowest": 55000
     },
     "277": {
       "name": "Cherry Blossom",
       "market": 41161,
-      "sellers": 207,
-      "bazaar": 43377,
-      "lowest": 40648
+      "sellers": 189,
+      "bazaar": 44793,
+      "lowest": 41199
     },
     "278": {
       "name": "Kabuki Mask",
       "market": 18522,
       "sellers": 150,
-      "bazaar": 17761,
-      "lowest": 17000
+      "bazaar": 17704,
+      "lowest": 16999
     },
     "279": {
       "name": "Maneki Neko",
       "market": 34662,
-      "sellers": 264,
-      "bazaar": 35346,
+      "sellers": 266,
+      "bazaar": 35141,
       "lowest": 35000
     },
     "280": {
       "name": "Elephant Statue",
       "market": 4638,
-      "sellers": 234,
-      "bazaar": 4476,
-      "lowest": 4300
+      "sellers": 236,
+      "bazaar": 4475,
+      "lowest": 4250
     },
     "281": {
       "name": "Lion Plushie",
       "market": 60705,
-      "sellers": 454,
-      "bazaar": 61830,
-      "lowest": 60000
+      "sellers": 457,
+      "bazaar": 61855,
+      "lowest": 59500
     },
     "282": {
       "name": "African Violet",
       "market": 59858,
-      "sellers": 323,
-      "bazaar": 60524,
-      "lowest": 59857
+      "sellers": 318,
+      "bazaar": 61052,
+      "lowest": 59000
     },
     "283": {
       "name": "Donator Pack",
       "market": 24147797,
-      "sellers": 72,
-      "bazaar": 23635513,
-      "lowest": 23620409
+      "sellers": 69,
+      "bazaar": 23941313,
+      "lowest": 23610000
     },
     "284": {
       "name": "Bronze Paint Brush",
@@ -1902,8 +1902,8 @@
     "290": {
       "name": "Dual Hammers",
       "market": 0,
-      "sellers": 9,
-      "bazaar": 350000000,
+      "sellers": 10,
+      "bazaar": 300000000,
       "lowest": 300000000
     },
     "291": {
@@ -1923,28 +1923,28 @@
     "293": {
       "name": "Japanese/English Dictionary",
       "market": 11225000,
-      "sellers": 12,
+      "sellers": 13,
       "bazaar": 13825000,
       "lowest": 13150000
     },
     "294": {
       "name": "Bottle of Sake",
       "market": 1303,
-      "sellers": 424,
-      "bazaar": 1286,
-      "lowest": 1250
+      "sellers": 419,
+      "bazaar": 1294,
+      "lowest": 1274
     },
     "295": {
       "name": "Oriental Log",
       "market": 0,
-      "sellers": 9,
+      "sellers": 10,
       "bazaar": 43333333,
       "lowest": 30000000
     },
     "296": {
       "name": "Oriental Log Translation",
       "market": 0,
-      "sellers": 9,
+      "sellers": 10,
       "bazaar": 46500000,
       "lowest": 38000000
     },
@@ -1992,43 +1992,43 @@
       "name": "Mistletoe",
       "market": 1273631,
       "sellers": 259,
-      "bazaar": 1588631,
+      "bazaar": 1528942,
       "lowest": 1200000
     },
     "306": {
       "name": "Mini Sleigh",
       "market": 109008,
-      "sellers": 91,
-      "bazaar": 142260,
+      "sellers": 92,
+      "bazaar": 135613,
       "lowest": 132000
     },
     "307": {
       "name": "Snowman",
       "market": 228512,
       "sellers": 83,
-      "bazaar": 280049,
+      "bazaar": 306357,
       "lowest": 250000
     },
     "308": {
       "name": "Christmas Gnome",
       "market": 1258333,
-      "sellers": 42,
-      "bazaar": 1582798,
-      "lowest": 1286761
+      "sellers": 41,
+      "bazaar": 1689284,
+      "lowest": 1500000
     },
     "309": {
       "name": "Gingerbread House",
       "market": 176831,
-      "sellers": 75,
-      "bazaar": 233759,
+      "sellers": 76,
+      "bazaar": 227712,
       "lowest": 176831
     },
     "310": {
       "name": "Lollipop",
       "market": 793,
-      "sellers": 401,
-      "bazaar": 790,
-      "lowest": 750
+      "sellers": 400,
+      "bazaar": 791,
+      "lowest": 790
     },
     "311": {
       "name": "Mardi Gras Beads",
@@ -2112,51 +2112,51 @@
     "326": {
       "name": "Printing Paper",
       "market": 46490,
-      "sellers": 79,
-      "bazaar": 45776,
-      "lowest": 45000
+      "sellers": 78,
+      "bazaar": 45283,
+      "lowest": 44165
     },
     "327": {
       "name": "Blank Casino Chips",
       "market": 49622,
-      "sellers": 237,
-      "bazaar": 49022,
-      "lowest": 47784
+      "sellers": 233,
+      "bazaar": 49146,
+      "lowest": 49000
     },
     "328": {
       "name": "PVC Cards",
       "market": 14034,
-      "sellers": 363,
-      "bazaar": 13852,
+      "sellers": 368,
+      "bazaar": 13855,
       "lowest": 12999
     },
     "329": {
       "name": "Skateboard",
       "market": 416071109,
-      "sellers": 29,
-      "bazaar": 421120000,
-      "lowest": 416900000
+      "sellers": 26,
+      "bazaar": 430170000,
+      "lowest": 423900000
     },
     "330": {
       "name": "Boxing Gloves",
       "market": 448111743,
-      "sellers": 21,
-      "bazaar": 469339623,
-      "lowest": 450000000
+      "sellers": 20,
+      "bazaar": 470673077,
+      "lowest": 459000000
     },
     "331": {
       "name": "Dumbbells",
       "market": 445548974,
-      "sellers": 10,
-      "bazaar": 554502105,
-      "lowest": 449000000
+      "sellers": 11,
+      "bazaar": 491750000,
+      "lowest": 447000000
     },
     "332": {
       "name": "Combat Vest",
       "market": 3664340,
-      "sellers": 281,
-      "bazaar": 3596709,
-      "lowest": 3599999
+      "sellers": 284,
+      "bazaar": 3594237,
+      "lowest": 3599994
     },
     "333": {
       "name": "Liquid Body Armor",
@@ -2168,23 +2168,23 @@
     "334": {
       "name": "Flexible Body Armor",
       "market": 9652309,
-      "sellers": 183,
-      "bazaar": 9299128,
-      "lowest": 9075800
+      "sellers": 185,
+      "bazaar": 9489074,
+      "lowest": 9111110
     },
     "335": {
       "name": "Stick of Dynamite",
       "market": 11002,
-      "sellers": 241,
-      "bazaar": 10795,
-      "lowest": 9499
+      "sellers": 250,
+      "bazaar": 10730,
+      "lowest": 10499
     },
     "336": {
       "name": "Cesium-137",
       "market": 519999998,
-      "sellers": 12,
-      "bazaar": 519666665,
-      "lowest": 518000000
+      "sellers": 10,
+      "bazaar": 519999998,
+      "lowest": 519999998
     },
     "337": {
       "name": "Dirty Bomb",
@@ -2229,23 +2229,23 @@
     "345": {
       "name": "Pack of Trojans",
       "market": 34000000,
-      "sellers": 15,
-      "bazaar": 49299998,
+      "sellers": 14,
+      "bazaar": 49124999,
       "lowest": 47999999
     },
     "346": {
       "name": "Pair of High Heels",
       "market": 95,
-      "sellers": 189,
+      "sellers": 192,
       "bazaar": 96,
       "lowest": 80
     },
     "347": {
       "name": "Thong",
       "market": 31619,
-      "sellers": 170,
-      "bazaar": 31623,
-      "lowest": 30999
+      "sellers": 171,
+      "bazaar": 31580,
+      "lowest": 30491
     },
     "348": {
       "name": "Hazmat Suit",
@@ -2302,16 +2302,16 @@
     "358": {
       "name": "Raw Ivory",
       "market": 69803,
-      "sellers": 202,
-      "bazaar": 70097,
-      "lowest": 70002
+      "sellers": 206,
+      "bazaar": 69934,
+      "lowest": 69000
     },
     "359": {
       "name": "Fine Chisel",
       "market": 35,
       "sellers": 162,
-      "bazaar": 203,
-      "lowest": 35
+      "bazaar": 208,
+      "lowest": 36
     },
     "360": {
       "name": "Ivory Walking Cane",
@@ -2323,9 +2323,9 @@
     "361": {
       "name": "Neumune Tablet",
       "market": 1378063,
-      "sellers": 287,
-      "bazaar": 1387536,
-      "lowest": 1368000
+      "sellers": 286,
+      "bazaar": 1380548,
+      "lowest": 1340000
     },
     "362": {
       "name": "Mr Torn Crown '08",
@@ -2340,51 +2340,51 @@
     "364": {
       "name": "Box of Grenades",
       "market": 1081424,
-      "sellers": 496,
-      "bazaar": 1097571,
-      "lowest": 1081399
+      "sellers": 488,
+      "bazaar": 1099524,
+      "lowest": 1080000
     },
     "365": {
       "name": "Box of Medical Supplies",
       "market": 271323,
-      "sellers": 784,
-      "bazaar": 277732,
-      "lowest": 259000
+      "sellers": 775,
+      "bazaar": 278793,
+      "lowest": 270000
     },
     "366": {
       "name": "Erotic DVD",
       "market": 4231423,
-      "sellers": 399,
-      "bazaar": 4265363,
-      "lowest": 4240000
+      "sellers": 385,
+      "bazaar": 4297616,
+      "lowest": 4200000
     },
     "367": {
       "name": "Feathery Hotel Coupon",
       "market": 13506217,
-      "sellers": 360,
-      "bazaar": 13341811,
-      "lowest": 13339990
+      "sellers": 364,
+      "bazaar": 13331751,
+      "lowest": 13250000
     },
     "368": {
       "name": "Lawyer's Business Card",
       "market": 197541,
-      "sellers": 737,
-      "bazaar": 199578,
-      "lowest": 195000
+      "sellers": 736,
+      "bazaar": 199516,
+      "lowest": 196000
     },
     "369": {
       "name": "Lottery Voucher",
       "market": 939560,
-      "sellers": 264,
-      "bazaar": 909868,
-      "lowest": 899930
+      "sellers": 274,
+      "bazaar": 928997,
+      "lowest": 920000
     },
     "370": {
       "name": "Drug Pack",
       "market": 4344161,
-      "sellers": 332,
-      "bazaar": 4340028,
-      "lowest": 4325000
+      "sellers": 340,
+      "bazaar": 4339097,
+      "lowest": 4320000
     },
     "371": {
       "name": "Dark Doll",
@@ -2394,9 +2394,9 @@
     "372": {
       "name": "Empty Box",
       "market": 314,
-      "sellers": 498,
-      "bazaar": 296,
-      "lowest": 300
+      "sellers": 493,
+      "bazaar": 318,
+      "lowest": 250
     },
     "373": {
       "name": "Parcel",
@@ -2422,28 +2422,28 @@
       "name": "Birthday Wrapping Paper",
       "market": 438,
       "sellers": 193,
-      "bazaar": 429,
-      "lowest": 419
+      "bazaar": 414,
+      "lowest": 400
     },
     "378": {
       "name": "Generic Wrapping Paper",
       "market": 427,
-      "sellers": 160,
-      "bazaar": 420,
+      "sellers": 154,
+      "bazaar": 419,
       "lowest": 400
     },
     "379": {
       "name": "Christmas Wrapping Paper",
       "market": 334,
-      "sellers": 117,
-      "bazaar": 475,
-      "lowest": 330
+      "sellers": 124,
+      "bazaar": 367,
+      "lowest": 322
     },
     "380": {
       "name": "Small Explosive Device",
       "market": 4727876,
-      "sellers": 201,
-      "bazaar": 4802241,
+      "sellers": 202,
+      "bazaar": 4832717,
       "lowest": 4700000
     },
     "381": {
@@ -2466,16 +2466,16 @@
     "384": {
       "name": "Camel Plushie",
       "market": 75401,
-      "sellers": 401,
-      "bazaar": 75417,
-      "lowest": 74899
+      "sellers": 403,
+      "bazaar": 75169,
+      "lowest": 74999
     },
     "385": {
       "name": "Tribulus Omanense",
       "market": 61071,
-      "sellers": 311,
-      "bazaar": 61447,
-      "lowest": 61145
+      "sellers": 329,
+      "bazaar": 61022,
+      "lowest": 60060
     },
     "386": {
       "name": "Sports Sneakers",
@@ -2505,84 +2505,84 @@
     "391": {
       "name": "Macana",
       "market": 107889,
-      "sellers": 546,
-      "bazaar": 100854,
-      "lowest": 98499
+      "sellers": 552,
+      "bazaar": 100593,
+      "lowest": 97514
     },
     "392": {
       "name": "Pepper Spray",
       "market": 1415,
-      "sellers": 352,
-      "bazaar": 1467,
-      "lowest": 1350
+      "sellers": 358,
+      "bazaar": 1490,
+      "lowest": 1399
     },
     "393": {
       "name": "Slingshot",
       "market": 30,
-      "sellers": 145,
-      "bazaar": 57,
-      "lowest": 29
+      "sellers": 142,
+      "bazaar": 87,
+      "lowest": 35
     },
     "394": {
       "name": "Brick",
       "market": 552,
-      "sellers": 938,
-      "bazaar": 546,
+      "sellers": 948,
+      "bazaar": 547,
       "lowest": 510
     },
     "395": {
       "name": "Metal Nunchaku",
       "market": 436473,
-      "sellers": 482,
-      "bazaar": 405463,
-      "lowest": 400000
+      "sellers": 479,
+      "bazaar": 404825,
+      "lowest": 387999
     },
     "396": {
       "name": "Business Class Ticket",
       "market": 8098800,
-      "sellers": 284,
-      "bazaar": 8054922,
-      "lowest": 8028888
+      "sellers": 271,
+      "bazaar": 8087237,
+      "lowest": 8009000
     },
     "397": {
       "name": "Flail",
       "market": 7244500,
       "sellers": 45,
-      "bazaar": 7500000,
-      "lowest": 7500000
+      "bazaar": 7998333,
+      "lowest": 7800000
     },
     "398": {
       "name": "SIG 552",
       "market": 4666666,
-      "sellers": 116,
-      "bazaar": 4236350,
+      "sellers": 120,
+      "bazaar": 4293954,
       "lowest": 3963498
     },
     "399": {
       "name": "ArmaLite M-15A4",
       "market": 21104144,
-      "sellers": 152,
-      "bazaar": 19906923,
+      "sellers": 157,
+      "bazaar": 20114000,
       "lowest": 19890000
     },
     "400": {
       "name": "Guandao",
       "market": 147663,
-      "sellers": 196,
-      "bazaar": 150201,
-      "lowest": 150000
+      "sellers": 197,
+      "bazaar": 150192,
+      "lowest": 149995
     },
     "401": {
       "name": "Lead Pipe",
       "market": 48,
-      "sellers": 306,
+      "sellers": 312,
       "bazaar": 99,
-      "lowest": 13
+      "lowest": 50
     },
     "402": {
       "name": "Ice Pick",
       "market": 14772,
-      "sellers": 197,
+      "sellers": 198,
       "bazaar": 15000,
       "lowest": 14996
     },
@@ -2590,15 +2590,15 @@
       "name": "Box of Tissues",
       "market": 331,
       "sellers": 577,
-      "bazaar": 324,
-      "lowest": 320
+      "bazaar": 331,
+      "lowest": 300
     },
     "404": {
       "name": "Bandana",
       "market": 293,
-      "sellers": 439,
-      "bazaar": 292,
-      "lowest": 275
+      "sellers": 433,
+      "bazaar": 279,
+      "lowest": 210
     },
     "405": {
       "name": "Loaf of Bread",
@@ -2610,121 +2610,121 @@
     "406": {
       "name": "Afro Comb",
       "market": 29518,
-      "sellers": 292,
+      "sellers": 291,
       "bazaar": 29967,
-      "lowest": 29550
+      "lowest": 29000
     },
     "407": {
       "name": "Compass",
       "market": 13976,
-      "sellers": 197,
-      "bazaar": 14031,
-      "lowest": 13900
+      "sellers": 204,
+      "bazaar": 13976,
+      "lowest": 13800
     },
     "408": {
       "name": "Sextant",
       "market": 17614,
-      "sellers": 117,
-      "bazaar": 19297,
-      "lowest": 17700
+      "sellers": 116,
+      "bazaar": 21516,
+      "lowest": 21000
     },
     "409": {
       "name": "Yucca Plant",
       "market": 7011,
-      "sellers": 417,
+      "sellers": 418,
       "bazaar": 7500,
-      "lowest": 7499
+      "lowest": 7498
     },
     "410": {
       "name": "Fire Hydrant",
       "market": 15070,
-      "sellers": 83,
-      "bazaar": 15277,
-      "lowest": 15070
+      "sellers": 88,
+      "bazaar": 15078,
+      "lowest": 14844
     },
     "411": {
       "name": "Model Space Ship",
       "market": 13110,
-      "sellers": 143,
-      "bazaar": 13008,
-      "lowest": 12978
+      "sellers": 145,
+      "bazaar": 12964,
+      "lowest": 12750
     },
     "412": {
       "name": "Sports Shades",
       "market": 2730,
-      "sellers": 479,
-      "bazaar": 2985,
+      "sellers": 486,
+      "bazaar": 2981,
       "lowest": 2700
     },
     "413": {
       "name": "Mountie Hat",
       "market": 21673,
-      "sellers": 336,
-      "bazaar": 22501,
-      "lowest": 22370
+      "sellers": 339,
+      "bazaar": 22505,
+      "lowest": 22499
     },
     "414": {
       "name": "Proda Sunglasses",
       "market": 1819,
-      "sellers": 551,
-      "bazaar": 1992,
+      "sellers": 559,
+      "bazaar": 1985,
       "lowest": 1800
     },
     "415": {
       "name": "Ship in a Bottle",
       "market": 31665,
       "sellers": 145,
-      "bazaar": 30997,
+      "bazaar": 31007,
       "lowest": 30000
     },
     "416": {
       "name": "Paper Weight",
       "market": 4092,
       "sellers": 135,
-      "bazaar": 3720,
-      "lowest": 3680
+      "bazaar": 3908,
+      "lowest": 3723
     },
     "417": {
       "name": "RS232 Cable",
       "market": 203,
-      "sellers": 228,
-      "bazaar": 208,
+      "sellers": 236,
+      "bazaar": 200,
       "lowest": 197
     },
     "418": {
       "name": "Tailor's Dummy",
       "market": 7371,
-      "sellers": 117,
-      "bazaar": 7507,
-      "lowest": 7449
+      "sellers": 119,
+      "bazaar": 7458,
+      "lowest": 7400
     },
     "419": {
       "name": "Small Suitcase",
       "market": 1052228,
       "sellers": 159,
-      "bazaar": 1023054,
-      "lowest": 1000000
+      "bazaar": 1027837,
+      "lowest": 1009998
     },
     "420": {
       "name": "Medium Suitcase",
       "market": 3987751,
-      "sellers": 75,
-      "bazaar": 3852371,
+      "sellers": 73,
+      "bazaar": 3887067,
       "lowest": 3831800
     },
     "421": {
       "name": "Large Suitcase",
       "market": 10388206,
-      "sellers": 61,
-      "bazaar": 10152480,
-      "lowest": 10099999
+      "sellers": 55,
+      "bazaar": 10203074,
+      "lowest": 10173855
     },
     "422": {
       "name": "Vanity Hand Mirror",
       "market": 5427,
-      "sellers": 301,
-      "bazaar": 5231,
-      "lowest": 5000
+      "sellers": 295,
+      "bazaar": 5249,
+      "lowest": 4700
     },
     "423": {
       "name": "Poker Chip",
@@ -2750,65 +2750,65 @@
     "426": {
       "name": "Bottle of Tequila",
       "market": 748,
-      "sellers": 553,
-      "bazaar": 728,
-      "lowest": 720
+      "sellers": 557,
+      "bazaar": 727,
+      "lowest": 650
     },
     "427": {
       "name": "Sumo Doll",
       "market": 12716,
-      "sellers": 114,
-      "bazaar": 12192,
-      "lowest": 11000
+      "sellers": 115,
+      "bazaar": 12429,
+      "lowest": 12000
     },
     "428": {
       "name": "Casino Pass",
       "market": 16880143,
-      "sellers": 101,
-      "bazaar": 16329370,
-      "lowest": 16222219
+      "sellers": 102,
+      "bazaar": 16331014,
+      "lowest": 15999997
     },
     "429": {
       "name": "Chopsticks",
       "market": 29436,
-      "sellers": 46,
-      "bazaar": 38811,
-      "lowest": 30000
+      "sellers": 43,
+      "bazaar": 38326,
+      "lowest": 20000
     },
     "430": {
       "name": "Coconut Bra",
       "market": 299184,
       "sellers": 167,
-      "bazaar": 300531,
-      "lowest": 300000
+      "bazaar": 300408,
+      "lowest": 299999
     },
     "431": {
       "name": "Dart Board",
       "market": 1267,
       "sellers": 147,
-      "bazaar": 1465,
-      "lowest": 1207
+      "bazaar": 1505,
+      "lowest": 999
     },
     "432": {
       "name": "Crazy Straw",
       "market": 771,
-      "sellers": 196,
-      "bazaar": 783,
+      "sellers": 195,
+      "bazaar": 776,
       "lowest": 750
     },
     "433": {
       "name": "Sensu",
       "market": 3278,
       "sellers": 106,
-      "bazaar": 3204,
+      "bazaar": 3188,
       "lowest": 2999
     },
     "434": {
       "name": "Yakitori Lantern",
       "market": 3229,
       "sellers": 177,
-      "bazaar": 3216,
-      "lowest": 3067
+      "bazaar": 3183,
+      "lowest": 3000
     },
     "435": {
       "name": "Dozen White Roses",
@@ -2818,37 +2818,37 @@
     "436": {
       "name": "Snowboard",
       "market": 3943,
-      "sellers": 470,
-      "bazaar": 3990,
+      "sellers": 472,
+      "bazaar": 3994,
       "lowest": 3922
     },
     "437": {
       "name": "Glow Stick",
       "market": 27963,
-      "sellers": 342,
-      "bazaar": 27824,
-      "lowest": 26600
+      "sellers": 341,
+      "bazaar": 27745,
+      "lowest": 25000
     },
     "438": {
       "name": "Cricket Bat",
       "market": 9570,
       "sellers": 355,
-      "bazaar": 9982,
-      "lowest": 9499
+      "bazaar": 9995,
+      "lowest": 9950
     },
     "439": {
       "name": "Frying Pan",
       "market": 183,
-      "sellers": 204,
-      "bazaar": 274,
-      "lowest": 183
+      "sellers": 207,
+      "bazaar": 268,
+      "lowest": 181
     },
     "440": {
       "name": "Pillow",
       "market": 588,
-      "sellers": 535,
-      "bazaar": 641,
-      "lowest": 499
+      "sellers": 540,
+      "bazaar": 631,
+      "lowest": 500
     },
     "441": {
       "name": "Khinkeh P0rnStar Doll",
@@ -2898,65 +2898,65 @@
     "450": {
       "name": "Leopard Coin",
       "market": 1136088,
-      "sellers": 107,
-      "bazaar": 1123892,
+      "sellers": 109,
+      "bazaar": 1081021,
       "lowest": 1053034
     },
     "451": {
       "name": "Florin Coin",
       "market": 1666667,
-      "sellers": 75,
-      "bazaar": 1535664,
+      "sellers": 73,
+      "bazaar": 1543497,
       "lowest": 1500000
     },
     "452": {
       "name": "Gold Noble Coin",
       "market": 1707500,
-      "sellers": 86,
-      "bazaar": 1675915,
-      "lowest": 1653843
+      "sellers": 84,
+      "bazaar": 1703568,
+      "lowest": 1690000
     },
     "453": {
       "name": "Ganesha Sculpture",
       "market": 8500000,
       "sellers": 50,
-      "bazaar": 8765833,
+      "bazaar": 8682500,
       "lowest": 8500000
     },
     "454": {
       "name": "Vairocana Buddha Sculpture",
       "market": 3233333,
-      "sellers": 47,
-      "bazaar": 3514284,
-      "lowest": 3449999
+      "sellers": 50,
+      "bazaar": 3489284,
+      "lowest": 3449998
     },
     "455": {
       "name": "Companion Script : Abdullah",
       "market": 10999997,
       "sellers": 63,
-      "bazaar": 11116609,
-      "lowest": 10999667
+      "bazaar": 10999997,
+      "lowest": 10999993
     },
     "456": {
       "name": "Companion Script : Ubay",
       "market": 10500000,
-      "sellers": 47,
-      "bazaar": 11075776,
+      "sellers": 46,
+      "bazaar": 11159107,
       "lowest": 10999998
     },
     "457": {
       "name": "Companion Script : Ali",
       "market": 10494654,
-      "sellers": 56,
-      "bazaar": 10985702,
-      "lowest": 10752000
+      "sellers": 58,
+      "bazaar": 10775799,
+      "lowest": 10475000
     },
     "458": {
       "name": "Shabti Sculpture",
       "market": 15393332,
-      "sellers": 69,
-      "bazaar": 16486352,
-      "lowest": 15999992
+      "sellers": 66,
+      "bazaar": 16703331,
+      "lowest": 15999994
     },
     "459": {
       "name": "Egyptian Amulet",
@@ -2968,43 +2968,43 @@
     "460": {
       "name": "White Senet Pawn",
       "market": 6199832,
-      "sellers": 100,
-      "bazaar": 6391499,
-      "lowest": 6150000
+      "sellers": 99,
+      "bazaar": 6518666,
+      "lowest": 6199831
     },
     "461": {
       "name": "Black Senet Pawn",
       "market": 5914833,
-      "sellers": 107,
-      "bazaar": 6000000,
-      "lowest": 5999999
+      "sellers": 105,
+      "bazaar": 6001089,
+      "lowest": 6000000
     },
     "462": {
       "name": "Senet Board",
       "market": 410707,
-      "sellers": 186,
-      "bazaar": 402493,
+      "sellers": 187,
+      "bazaar": 403543,
       "lowest": 398300
     },
     "463": {
       "name": "Epinephrine",
       "market": 903224,
-      "sellers": 249,
-      "bazaar": 900571,
-      "lowest": 899000
+      "sellers": 250,
+      "bazaar": 901785,
+      "lowest": 899998
     },
     "464": {
       "name": "Melatonin",
       "market": 300333,
-      "sellers": 238,
-      "bazaar": 299385,
-      "lowest": 298899
+      "sellers": 240,
+      "bazaar": 299817,
+      "lowest": 298000
     },
     "465": {
       "name": "Serotonin",
       "market": 1306691,
-      "sellers": 157,
-      "bazaar": 1299875,
+      "sellers": 154,
+      "bazaar": 1302810,
       "lowest": 1299000
     },
     "466": {
@@ -3017,9 +3017,9 @@
     "467": {
       "name": "Dancing Santa Claus '09",
       "market": 0,
-      "sellers": 15,
+      "sellers": 16,
       "bazaar": 73999999,
-      "lowest": 74000000
+      "lowest": 73000000
     },
     "468": {
       "name": "Christmas Stocking '09",
@@ -3099,65 +3099,65 @@
     "483": {
       "name": "MP5k",
       "market": 447,
-      "sellers": 281,
-      "bazaar": 484,
-      "lowest": 440
+      "sellers": 284,
+      "bazaar": 486,
+      "lowest": 439
     },
     "484": {
       "name": "AK74U",
       "market": 18190,
       "sellers": 215,
-      "bazaar": 24543,
-      "lowest": 14998
+      "bazaar": 20584,
+      "lowest": 16999
     },
     "485": {
       "name": "Skorpion",
       "market": 347,
-      "sellers": 402,
-      "bazaar": 468,
-      "lowest": 346
+      "sellers": 408,
+      "bazaar": 463,
+      "lowest": 300
     },
     "486": {
       "name": "TMP",
       "market": 384,
-      "sellers": 329,
-      "bazaar": 487,
-      "lowest": 289
+      "sellers": 333,
+      "bazaar": 483,
+      "lowest": 200
     },
     "487": {
       "name": "Thompson",
       "market": 510,
-      "sellers": 574,
-      "bazaar": 547,
-      "lowest": 499
+      "sellers": 577,
+      "bazaar": 544,
+      "lowest": 500
     },
     "488": {
       "name": "MP 40",
       "market": 19397,
-      "sellers": 118,
-      "bazaar": 18093,
-      "lowest": 17999
+      "sellers": 124,
+      "bazaar": 17852,
+      "lowest": 16161
     },
     "489": {
       "name": "Luger",
       "market": 304,
-      "sellers": 404,
-      "bazaar": 479,
-      "lowest": 198
+      "sellers": 410,
+      "bazaar": 480,
+      "lowest": 274
     },
     "490": {
       "name": "Blunderbuss",
       "market": 17159,
-      "sellers": 184,
-      "bazaar": 15000,
+      "sellers": 186,
+      "bazaar": 15549,
       "lowest": 15000
     },
     "491": {
       "name": "Zombie Brain",
       "market": 0,
-      "sellers": 9,
-      "bazaar": 470687500,
-      "lowest": 382750000
+      "sellers": 10,
+      "bazaar": 377583333,
+      "lowest": 250000000
     },
     "492": {
       "name": "Human Head",
@@ -3176,93 +3176,93 @@
     "494": {
       "name": "Limoen Saxon",
       "market": 683241,
-      "sellers": 62,
-      "bazaar": 674229,
-      "lowest": 665000
+      "sellers": 61,
+      "bazaar": 692781,
+      "lowest": 688597
     },
     "495": {
       "name": "Nano Pioneer",
       "market": 11739,
-      "sellers": 60,
-      "bazaar": 11271,
+      "sellers": 59,
+      "bazaar": 11627,
       "lowest": 11504
     },
     "496": {
       "name": "Vita Bravo",
       "market": 4062486,
-      "sellers": 30,
-      "bazaar": 4104162,
-      "lowest": 4000000
+      "sellers": 33,
+      "bazaar": 3995025,
+      "lowest": 3899999
     },
     "497": {
       "name": "Zaibatsu Macro",
       "market": 385677,
-      "sellers": 35,
-      "bazaar": 355486,
-      "lowest": 320000
+      "sellers": 34,
+      "bazaar": 392857,
+      "lowest": 350000
     },
     "498": {
       "name": "Çagoutte 10-6",
       "market": 8149,
-      "sellers": 192,
-      "bazaar": 7918,
-      "lowest": 7500
+      "sellers": 187,
+      "bazaar": 7928,
+      "lowest": 7896
     },
     "499": {
       "name": "Papani Colé",
       "market": 10248,
-      "sellers": 88,
-      "bazaar": 10159,
-      "lowest": 10000
+      "sellers": 93,
+      "bazaar": 10097,
+      "lowest": 9900
     },
     "500": {
       "name": "Bedford Racer",
       "market": 8804,
-      "sellers": 90,
-      "bazaar": 8762,
+      "sellers": 89,
+      "bazaar": 8777,
       "lowest": 8628
     },
     "501": {
       "name": "Stålhög 860",
       "market": 4002216,
-      "sellers": 30,
-      "bazaar": 4115928,
-      "lowest": 3900000
+      "sellers": 28,
+      "bazaar": 3880834,
+      "lowest": 3000000
     },
     "502": {
       "name": "Alpha Milano 156",
       "market": 12382,
-      "sellers": 67,
-      "bazaar": 11482,
-      "lowest": 11300
+      "sellers": 62,
+      "bazaar": 12214,
+      "lowest": 11603
     },
     "503": {
       "name": "Bavaria X5",
       "market": 37136,
-      "sellers": 70,
-      "bazaar": 35839,
-      "lowest": 33000
+      "sellers": 68,
+      "bazaar": 36133,
+      "lowest": 35000
     },
     "504": {
       "name": "Coche Basurero",
       "market": 11568,
-      "sellers": 97,
-      "bazaar": 12061,
-      "lowest": 11124
+      "sellers": 93,
+      "bazaar": 12839,
+      "lowest": 11337
     },
     "505": {
       "name": "Bedford Nova",
       "market": 469195,
-      "sellers": 83,
-      "bazaar": 449325,
-      "lowest": 430000
+      "sellers": 80,
+      "bazaar": 450073,
+      "lowest": 450000
     },
     "506": {
       "name": "Verpestung Sport",
       "market": 10036,
-      "sellers": 60,
-      "bazaar": 9891,
-      "lowest": 9345
+      "sellers": 61,
+      "bazaar": 10050,
+      "lowest": 10000
     },
     "507": {
       "name": "Echo S3",
@@ -3274,78 +3274,78 @@
       "name": "Volt RS",
       "market": 54066,
       "sellers": 55,
-      "bazaar": 53927,
-      "lowest": 53000
+      "bazaar": 53719,
+      "lowest": 50000
     },
     "509": {
       "name": "Edomondo S2",
       "market": 24836,
-      "sellers": 51,
+      "sellers": 52,
       "bazaar": 27729,
       "lowest": 26000
     },
     "510": {
       "name": "Nano Cavalier",
       "market": 189993,
-      "sellers": 64,
-      "bazaar": 193331,
+      "sellers": 67,
+      "bazaar": 191188,
       "lowest": 185000
     },
     "511": {
       "name": "Colina Tanprice",
       "market": 43093032,
-      "sellers": 46,
-      "bazaar": 43651491,
-      "lowest": 42000000
+      "sellers": 44,
+      "bazaar": 44454921,
+      "lowest": 42220696
     },
     "512": {
       "name": "Cosmos EX",
       "market": 21603,
-      "sellers": 112,
-      "bazaar": 20347,
+      "sellers": 114,
+      "bazaar": 20564,
       "lowest": 19999
     },
     "513": {
       "name": "Yotsuhada EVX",
       "market": 152265,
-      "sellers": 51,
-      "bazaar": 145066,
-      "lowest": 126332
+      "sellers": 50,
+      "bazaar": 150210,
+      "lowest": 149000
     },
     "514": {
       "name": "Sturmfahrt 111",
       "market": 61122,
-      "sellers": 77,
-      "bazaar": 63814,
-      "lowest": 61749
+      "sellers": 80,
+      "bazaar": 63624,
+      "lowest": 61540
     },
     "515": {
       "name": "Tsubasa Impressor",
       "market": 51449,
-      "sellers": 66,
-      "bazaar": 49834,
-      "lowest": 48988
+      "sellers": 64,
+      "bazaar": 50014,
+      "lowest": 49905
     },
     "516": {
       "name": "Wington GGU",
       "market": 145961,
-      "sellers": 56,
-      "bazaar": 146563,
+      "sellers": 54,
+      "bazaar": 165188,
       "lowest": 140000
     },
     "517": {
       "name": "Weston Marlin 177",
       "market": 2000000,
-      "sellers": 66,
-      "bazaar": 2126962,
+      "sellers": 67,
+      "bazaar": 2121962,
       "lowest": 2100000
     },
     "518": {
       "name": "Echo R8",
       "market": 826999,
-      "sellers": 69,
-      "bazaar": 827726,
-      "lowest": 816473
+      "sellers": 72,
+      "bazaar": 828598,
+      "lowest": 820000
     },
     "519": {
       "name": "Stormatti Casteon",
@@ -3355,37 +3355,37 @@
     "520": {
       "name": "Lolo 458",
       "market": 1039362,
-      "sellers": 100,
-      "bazaar": 1077160,
-      "lowest": 1076989
+      "sellers": 101,
+      "bazaar": 1077290,
+      "lowest": 1076990
     },
     "521": {
       "name": "Lambrini Torobravo",
       "market": 3600848,
-      "sellers": 52,
-      "bazaar": 3689314,
-      "lowest": 3614995
+      "sellers": 55,
+      "bazaar": 3656886,
+      "lowest": 3614991
     },
     "522": {
       "name": "Veloria LFA",
       "market": 4968879,
-      "sellers": 89,
-      "bazaar": 4926355,
+      "sellers": 88,
+      "bazaar": 4938382,
       "lowest": 4800000
     },
     "523": {
       "name": "Mercia SLR",
       "market": 1879683,
-      "sellers": 77,
-      "bazaar": 1919443,
+      "sellers": 79,
+      "bazaar": 1919130,
       "lowest": 1909988
     },
     "524": {
       "name": "Zaibatsu GT-R",
       "market": 511999,
-      "sellers": 43,
-      "bazaar": 494885,
-      "lowest": 489997
+      "sellers": 44,
+      "bazaar": 496663,
+      "lowest": 490000
     },
     "525": {
       "name": "Mr Torn Crown '10",
@@ -3400,128 +3400,128 @@
     "527": {
       "name": "Bag of Candy Kisses",
       "market": 55474,
-      "sellers": 421,
-      "bazaar": 59733,
-      "lowest": 54364
+      "sellers": 434,
+      "bazaar": 58538,
+      "lowest": 54444
     },
     "528": {
       "name": "Bag of Tootsie Rolls",
       "market": 80600,
-      "sellers": 398,
-      "bazaar": 83051,
-      "lowest": 78000
+      "sellers": 394,
+      "bazaar": 84708,
+      "lowest": 79000
     },
     "529": {
       "name": "Bag of Chocolate Truffles",
       "market": 146250,
-      "sellers": 279,
-      "bazaar": 145798,
-      "lowest": 140000
+      "sellers": 266,
+      "bazaar": 154903,
+      "lowest": 144000
     },
     "530": {
       "name": "Can of Munster",
       "market": 1624482,
-      "sellers": 302,
-      "bazaar": 1657047,
-      "lowest": 1624480
+      "sellers": 312,
+      "bazaar": 1638145,
+      "lowest": 1622999
     },
     "531": {
       "name": "Bottle of Pumpkin Brew",
       "market": 57300,
-      "sellers": 547,
-      "bazaar": 57967,
-      "lowest": 57000
+      "sellers": 537,
+      "bazaar": 61418,
+      "lowest": 57200
     },
     "532": {
       "name": "Can of Red Cow",
       "market": 2183646,
-      "sellers": 228,
-      "bazaar": 2243163,
-      "lowest": 2150000
+      "sellers": 230,
+      "bazaar": 2243159,
+      "lowest": 2170000
     },
     "533": {
       "name": "Can of Taurine Elite",
       "market": 3562709,
-      "sellers": 202,
-      "bazaar": 3641838,
-      "lowest": 3562000
+      "sellers": 205,
+      "bazaar": 3644704,
+      "lowest": 3540000
     },
     "534": {
       "name": "Witch's Cauldron",
       "market": 0,
       "sellers": 25,
-      "bazaar": 7025581,
+      "bazaar": 7074160,
       "lowest": 6900000
     },
     "535": {
       "name": "Electronic Pumpkin",
       "market": 21408,
-      "sellers": 119,
-      "bazaar": 20686,
-      "lowest": 20000
+      "sellers": 123,
+      "bazaar": 19711,
+      "lowest": 16125
     },
     "536": {
       "name": "Jack O'Lantern Lamp",
       "market": 2350000,
-      "sellers": 53,
-      "bazaar": 2537306,
+      "sellers": 55,
+      "bazaar": 2406062,
       "lowest": 1999999
     },
     "537": {
       "name": "Spooky Paper Weight",
       "market": 2100000,
-      "sellers": 75,
-      "bazaar": 3604167,
+      "sellers": 76,
+      "bazaar": 3641509,
       "lowest": 3500000
     },
     "538": {
       "name": "Medieval Helmet",
       "market": 12700000,
       "sellers": 28,
-      "bazaar": 11195000,
-      "lowest": 10800000
+      "bazaar": 10955000,
+      "lowest": 10799999
     },
     "539": {
       "name": "Blood Spattered Sickle",
       "market": 0,
-      "sellers": 21,
-      "bazaar": 70000000,
-      "lowest": 55000000
+      "sellers": 19,
+      "bazaar": 87500000,
+      "lowest": 80000000
     },
     "540": {
       "name": "Cauldron",
       "market": 0,
-      "sellers": 28,
+      "sellers": 29,
       "bazaar": 8080000,
       "lowest": 8000000
     },
     "541": {
       "name": "Bottle of Stinky Swamp Punch",
       "market": 284097,
-      "sellers": 385,
-      "bazaar": 282582,
-      "lowest": 279998
+      "sellers": 391,
+      "bazaar": 281018,
+      "lowest": 270000
     },
     "542": {
       "name": "Bottle of Wicked Witch",
       "market": 157051,
-      "sellers": 319,
-      "bazaar": 155914,
-      "lowest": 155480
+      "sellers": 322,
+      "bazaar": 157109,
+      "lowest": 152051
     },
     "543": {
       "name": "Deputy Star",
       "market": 110000000,
-      "sellers": 12,
+      "sellers": 11,
       "bazaar": 150568167,
       "lowest": 142420420
     },
     "544": {
       "name": "Windproof Lighter",
       "market": 6715500,
-      "sellers": 129,
-      "bazaar": 6562344,
-      "lowest": 6499999
+      "sellers": 130,
+      "bazaar": 6548094,
+      "lowest": 6499997
     },
     "545": {
       "name": "Dual TMPs",
@@ -3551,219 +3551,219 @@
     "550": {
       "name": "Bottle of Kandy Kane",
       "market": 57474,
-      "sellers": 580,
-      "bazaar": 57519,
-      "lowest": 56666
+      "sellers": 585,
+      "bazaar": 57660,
+      "lowest": 56300
     },
     "551": {
       "name": "Bottle of Minty Mayhem",
       "market": 154957,
-      "sellers": 427,
-      "bazaar": 160131,
-      "lowest": 153498
+      "sellers": 429,
+      "bazaar": 161437,
+      "lowest": 154000
     },
     "552": {
       "name": "Bottle of Mistletoe Madness",
       "market": 280664,
-      "sellers": 584,
-      "bazaar": 279486,
-      "lowest": 278000
+      "sellers": 587,
+      "bazaar": 280447,
+      "lowest": 277999
     },
     "553": {
       "name": "Can of Santa Shooters",
       "market": 1632944,
-      "sellers": 325,
-      "bazaar": 1639703,
-      "lowest": 1620793
+      "sellers": 330,
+      "bazaar": 1640451,
+      "lowest": 1620000
     },
     "554": {
       "name": "Can of Rockstar Rudolph",
       "market": 2188532,
       "sellers": 273,
-      "bazaar": 2218148,
-      "lowest": 2199999
+      "bazaar": 2236050,
+      "lowest": 2186000
     },
     "555": {
       "name": "Can of X-MASS",
       "market": 3582317,
-      "sellers": 282,
-      "bazaar": 3647010,
-      "lowest": 3620068
+      "sellers": 288,
+      "bazaar": 3646611,
+      "lowest": 3570000
     },
     "556": {
       "name": "Bag of Reindeer Droppings",
       "market": 148637,
-      "sellers": 299,
-      "bazaar": 147135,
-      "lowest": 141000
+      "sellers": 296,
+      "bazaar": 149232,
+      "lowest": 145414
     },
     "557": {
       "name": "Advent Calendar",
       "market": 7278,
-      "sellers": 325,
-      "bazaar": 7291,
+      "sellers": 329,
+      "bazaar": 7142,
       "lowest": 7000
     },
     "558": {
       "name": "Santa's Snot",
       "market": 31845,
-      "sellers": 190,
-      "bazaar": 32696,
-      "lowest": 29998
+      "sellers": 191,
+      "bazaar": 32799,
+      "lowest": 30000
     },
     "559": {
       "name": "Polar Bear Toy",
       "market": 44695,
-      "sellers": 142,
-      "bazaar": 51545,
-      "lowest": 50745
+      "sellers": 150,
+      "bazaar": 46399,
+      "lowest": 43559
     },
     "560": {
       "name": "Fruitcake",
       "market": 629,
-      "sellers": 273,
-      "bazaar": 611,
-      "lowest": 590
+      "sellers": 260,
+      "bazaar": 621,
+      "lowest": 597
     },
     "561": {
       "name": "Book of Carols",
       "market": 13113308,
-      "sellers": 137,
-      "bazaar": 12989051,
+      "sellers": 141,
+      "bazaar": 12988358,
       "lowest": 12849999
     },
     "562": {
       "name": "Sweater",
       "market": 210,
-      "sellers": 305,
-      "bazaar": 215,
-      "lowest": 190
+      "sellers": 310,
+      "bazaar": 214,
+      "lowest": 200
     },
     "563": {
       "name": "Gift Card",
       "market": 2800467,
-      "sellers": 203,
-      "bazaar": 2782477,
-      "lowest": 2760000
+      "sellers": 205,
+      "bazaar": 2793276,
+      "lowest": 2775000
     },
     "564": {
       "name": "Glasses",
       "market": 7080,
-      "sellers": 276,
-      "bazaar": 6957,
-      "lowest": 6666
+      "sellers": 272,
+      "bazaar": 7030,
+      "lowest": 6974
     },
     "565": {
       "name": "High-Speed Drive",
       "market": 313381,
-      "sellers": 434,
-      "bazaar": 310696,
-      "lowest": 309999
+      "sellers": 429,
+      "bazaar": 311600,
+      "lowest": 310000
     },
     "566": {
       "name": "Mountain Bike",
       "market": 102577,
       "sellers": 574,
-      "bazaar": 100379,
-      "lowest": 98866
+      "bazaar": 100540,
+      "lowest": 100000
     },
     "567": {
       "name": "Cut-Throat Razor",
       "market": 23605,
-      "sellers": 419,
-      "bazaar": 22957,
-      "lowest": 22000
+      "sellers": 421,
+      "bazaar": 22979,
+      "lowest": 21999
     },
     "568": {
       "name": "Jemmy",
       "market": 7393,
-      "sellers": 867,
-      "bazaar": 7192,
-      "lowest": 6899
+      "sellers": 868,
+      "bazaar": 7188,
+      "lowest": 6998
     },
     "569": {
       "name": "Balaclava",
       "market": 6868066,
-      "sellers": 47,
-      "bazaar": 6973836,
-      "lowest": 6826856
+      "sellers": 45,
+      "bazaar": 7007371,
+      "lowest": 6000000
     },
     "570": {
       "name": "Advanced Driving Manual",
       "market": 302513,
-      "sellers": 165,
-      "bazaar": 299035,
+      "sellers": 166,
+      "bazaar": 298860,
       "lowest": 275000
     },
     "571": {
       "name": "Ergonomic Keyboard",
       "market": 452291,
-      "sellers": 408,
-      "bazaar": 447677,
-      "lowest": 439999
+      "sellers": 404,
+      "bazaar": 447963,
+      "lowest": 440000
     },
     "572": {
       "name": "Tracking Device",
       "market": 317485,
-      "sellers": 87,
-      "bazaar": 344778,
-      "lowest": 312723
+      "sellers": 91,
+      "bazaar": 338292,
+      "lowest": 300000
     },
     "573": {
       "name": "Screwdriver",
       "market": 2182219,
       "sellers": 46,
-      "bazaar": 2124499,
-      "lowest": 2000000
+      "bazaar": 2133937,
+      "lowest": 2025747
     },
     "574": {
       "name": "Fanny Pack",
       "market": 208739,
-      "sellers": 100,
-      "bazaar": 198925,
-      "lowest": 199999
+      "sellers": 101,
+      "bazaar": 204256,
+      "lowest": 200000
     },
     "575": {
       "name": "Tumble Dryer",
       "market": 166020,
-      "sellers": 87,
-      "bazaar": 172402,
+      "sellers": 90,
+      "bazaar": 171024,
       "lowest": 160000
     },
     "576": {
       "name": "Chloroform",
       "market": 414424,
-      "sellers": 281,
-      "bazaar": 401194,
-      "lowest": 400417
+      "sellers": 282,
+      "bazaar": 407764,
+      "lowest": 400000
     },
     "577": {
       "name": "Heavy Duty Padlock",
       "market": 1718850,
-      "sellers": 39,
-      "bazaar": 1781398,
-      "lowest": 1700000
+      "sellers": 38,
+      "bazaar": 2096672,
+      "lowest": 1500000
     },
     "578": {
       "name": "Duct Tape",
       "market": 808498,
-      "sellers": 209,
-      "bazaar": 777443,
-      "lowest": 768700
+      "sellers": 204,
+      "bazaar": 791715,
+      "lowest": 780000
     },
     "579": {
       "name": "Wireless Dongle",
       "market": 292374,
-      "sellers": 293,
-      "bazaar": 285491,
+      "sellers": 297,
+      "bazaar": 285648,
       "lowest": 275000
     },
     "580": {
       "name": "Horse's Head",
       "market": 2485968,
-      "sellers": 69,
-      "bazaar": 2472395,
-      "lowest": 2436249
+      "sellers": 72,
+      "bazaar": 2451169,
+      "lowest": 2414859
     },
     "581": {
       "name": "Book",
@@ -3795,22 +3795,22 @@
     "586": {
       "name": "Jawbreaker",
       "market": 327350,
-      "sellers": 199,
-      "bazaar": 325125,
-      "lowest": 320000
+      "sellers": 192,
+      "bazaar": 333287,
+      "lowest": 330000
     },
     "587": {
       "name": "Bag of Sherbet",
       "market": 325538,
-      "sellers": 189,
-      "bazaar": 326663,
-      "lowest": 324999
+      "sellers": 196,
+      "bazaar": 324998,
+      "lowest": 323999
     },
     "588": {
       "name": "Goodie Bag",
       "market": 29330731,
-      "sellers": 89,
-      "bazaar": 30064337,
+      "sellers": 91,
+      "bazaar": 29991817,
       "lowest": 29460000
     },
     "589": {
@@ -3847,7 +3847,7 @@
       "name": "Pile of Vomit",
       "market": 0,
       "sellers": 17,
-      "bazaar": 20333333,
+      "bazaar": 24333333,
       "lowest": 18000000
     },
     "596": {
@@ -3888,36 +3888,36 @@
     "601": {
       "name": "Christmas Lights",
       "market": 15833,
-      "sellers": 121,
-      "bazaar": 14870,
-      "lowest": 14000
+      "sellers": 123,
+      "bazaar": 15282,
+      "lowest": 15000
     },
     "602": {
       "name": "Gingerbread Man",
       "market": 122748,
-      "sellers": 102,
-      "bazaar": 125112,
+      "sellers": 103,
+      "bazaar": 127148,
       "lowest": 120293
     },
     "603": {
       "name": "Golden Wreath",
       "market": 21807,
-      "sellers": 196,
-      "bazaar": 21053,
-      "lowest": 19998
+      "sellers": 198,
+      "bazaar": 21278,
+      "lowest": 19000
     },
     "604": {
       "name": "Pair of Ice Skates",
       "market": 261,
-      "sellers": 116,
-      "bazaar": 239,
+      "sellers": 119,
+      "bazaar": 246,
       "lowest": 190
     },
     "605": {
       "name": "Diamond Icicle",
       "market": 99936,
-      "sellers": 77,
-      "bazaar": 99437,
+      "sellers": 76,
+      "bazaar": 99449,
       "lowest": 97999
     },
     "606": {
@@ -3931,22 +3931,22 @@
       "name": "Santa Gloves",
       "market": 461980,
       "sellers": 84,
-      "bazaar": 535617,
+      "bazaar": 542981,
       "lowest": 461980
     },
     "608": {
       "name": "Santa Hat",
       "market": 1489979,
-      "sellers": 79,
-      "bazaar": 1473192,
-      "lowest": 1350000
+      "sellers": 78,
+      "bazaar": 1488476,
+      "lowest": 1400000
     },
     "609": {
       "name": "Santa Jacket",
       "market": 587179,
-      "sellers": 101,
-      "bazaar": 692298,
-      "lowest": 590000
+      "sellers": 100,
+      "bazaar": 735097,
+      "lowest": 606813
     },
     "610": {
       "name": "Santa Trousers",
@@ -3958,135 +3958,135 @@
     "611": {
       "name": "Snowball",
       "market": 30179,
-      "sellers": 139,
-      "bazaar": 29995,
-      "lowest": 28990
+      "sellers": 144,
+      "bazaar": 28872,
+      "lowest": 27499
     },
     "612": {
       "name": "Tavor TAR-21",
       "market": 359734,
-      "sellers": 611,
-      "bazaar": 354244,
-      "lowest": 349999
+      "sellers": 613,
+      "bazaar": 354537,
+      "lowest": 350000
     },
     "613": {
       "name": "Harpoon",
       "market": 199707,
-      "sellers": 212,
-      "bazaar": 202256,
-      "lowest": 199699
+      "sellers": 214,
+      "bazaar": 202420,
+      "lowest": 199999
     },
     "614": {
       "name": "Diamond Bladed Knife",
       "market": 950759,
-      "sellers": 1028,
-      "bazaar": 917901,
-      "lowest": 889999
+      "sellers": 1033,
+      "bazaar": 918108,
+      "lowest": 899998
     },
     "615": {
       "name": "Naval Cutlass",
       "market": 38000000,
-      "sellers": 27,
+      "sellers": 28,
       "bazaar": 54660000,
       "lowest": 47800000
     },
     "616": {
       "name": "Trout",
       "market": 4603,
-      "sellers": 439,
-      "bazaar": 4598,
-      "lowest": 4250
+      "sellers": 445,
+      "bazaar": 4556,
+      "lowest": 4476
     },
     "617": {
       "name": "Banana Orchid",
       "market": 8004,
-      "sellers": 540,
-      "bazaar": 8190,
-      "lowest": 7800
+      "sellers": 544,
+      "bazaar": 8163,
+      "lowest": 7950
     },
     "618": {
       "name": "Stingray Plushie",
       "market": 5011,
-      "sellers": 923,
-      "bazaar": 5211,
-      "lowest": 4988
+      "sellers": 916,
+      "bazaar": 5223,
+      "lowest": 5000
     },
     "619": {
       "name": "Steel Drum",
       "market": 1905,
-      "sellers": 130,
-      "bazaar": 1890,
-      "lowest": 1850
+      "sellers": 127,
+      "bazaar": 1940,
+      "lowest": 1750
     },
     "620": {
       "name": "Nodding Turtle",
       "market": 3204,
-      "sellers": 197,
-      "bazaar": 3123,
-      "lowest": 2999
+      "sellers": 207,
+      "bazaar": 3091,
+      "lowest": 2969
     },
     "621": {
       "name": "Snorkel",
       "market": 14573,
-      "sellers": 260,
-      "bazaar": 14999,
-      "lowest": 14992
+      "sellers": 263,
+      "bazaar": 14979,
+      "lowest": 14500
     },
     "622": {
       "name": "Flippers",
       "market": 7300,
-      "sellers": 150,
-      "bazaar": 7480,
-      "lowest": 7300
+      "sellers": 152,
+      "bazaar": 7449,
+      "lowest": 7000
     },
     "623": {
       "name": "Speedo",
       "market": 3808,
-      "sellers": 181,
-      "bazaar": 3978,
-      "lowest": 3732
+      "sellers": 191,
+      "bazaar": 3717,
+      "lowest": 3456
     },
     "624": {
       "name": "Bikini",
       "market": 5222,
-      "sellers": 476,
-      "bazaar": 5978,
-      "lowest": 5200
+      "sellers": 486,
+      "bazaar": 5859,
+      "lowest": 5000
     },
     "625": {
       "name": "Wetsuit",
       "market": 19676,
       "sellers": 264,
-      "bazaar": 19983,
-      "lowest": 19676
+      "bazaar": 19963,
+      "lowest": 19600
     },
     "626": {
       "name": "Diving Gloves",
       "market": 2995,
-      "sellers": 197,
-      "bazaar": 2994,
-      "lowest": 2965
+      "sellers": 199,
+      "bazaar": 2988,
+      "lowest": 2900
     },
     "627": {
       "name": "Dog Poop",
       "market": 901357,
-      "sellers": 277,
-      "bazaar": 944063,
-      "lowest": 930899
+      "sellers": 279,
+      "bazaar": 947139,
+      "lowest": 890000
     },
     "628": {
       "name": "Stink Bombs",
       "market": 870635,
       "sellers": 293,
-      "bazaar": 898245,
-      "lowest": 869999
+      "bazaar": 897641,
+      "lowest": 867000
     },
     "629": {
       "name": "Toilet Paper",
       "market": 870514,
-      "sellers": 286,
-      "bazaar": 897693,
-      "lowest": 860000
+      "sellers": 283,
+      "bazaar": 909663,
+      "lowest": 850000
     },
     "630": {
       "name": "Mr Torn Crown '12",
@@ -4108,79 +4108,79 @@
     "633": {
       "name": "Latex Gloves",
       "market": 415212,
-      "sellers": 267,
-      "bazaar": 407896,
+      "sellers": 270,
+      "bazaar": 406799,
       "lowest": 400000
     },
     "634": {
       "name": "Bag of Bloody Eyeballs",
       "market": 84944,
-      "sellers": 239,
-      "bazaar": 83861,
-      "lowest": 82229
+      "sellers": 235,
+      "bazaar": 88115,
+      "lowest": 83000
     },
     "635": {
       "name": "Straitjacket",
       "market": 0,
-      "sellers": 3,
-      "bazaar": 8519230769,
+      "sellers": 2,
+      "bazaar": 9197916667,
       "lowest": 375000000
     },
     "636": {
       "name": "Cinnamon Decoration",
       "market": 44264,
-      "sellers": 77,
+      "sellers": 79,
       "bazaar": 61818,
       "lowest": 50000
     },
     "637": {
       "name": "Christmas Express",
       "market": 173000,
-      "sellers": 106,
-      "bazaar": 160228,
-      "lowest": 150000
+      "sellers": 105,
+      "bazaar": 164817,
+      "lowest": 152000
     },
     "638": {
       "name": "Bottle of Christmas Cocktail",
       "market": 165702,
-      "sellers": 334,
-      "bazaar": 164971,
+      "sellers": 338,
+      "bazaar": 165080,
       "lowest": 159999
     },
     "639": {
       "name": "Golden Candy Cane",
       "market": 195005,
-      "sellers": 96,
-      "bazaar": 199605,
-      "lowest": 189998
+      "sellers": 95,
+      "bazaar": 203809,
+      "lowest": 190000
     },
     "640": {
       "name": "Kevlar Gloves",
       "market": 319883,
-      "sellers": 430,
-      "bazaar": 320228,
-      "lowest": 318359
+      "sellers": 435,
+      "bazaar": 320114,
+      "lowest": 319928
     },
     "641": {
       "name": "WWII Helmet",
       "market": 70979,
-      "sellers": 550,
-      "bazaar": 71255,
-      "lowest": 70853
+      "sellers": 546,
+      "bazaar": 71348,
+      "lowest": 70978
     },
     "642": {
       "name": "Motorcycle Helmet",
       "market": 78942767,
-      "sellers": 52,
-      "bazaar": 54980000,
+      "sellers": 54,
+      "bazaar": 57699999,
       "lowest": 54900000
     },
     "643": {
       "name": "Construction Helmet",
       "market": 10712,
-      "sellers": 556,
-      "bazaar": 11358,
-      "lowest": 11000
+      "sellers": 557,
+      "bazaar": 11488,
+      "lowest": 11250
     },
     "644": {
       "name": "Welding Helmet",
@@ -4192,79 +4192,79 @@
     "645": {
       "name": "Safety Boots",
       "market": 57019,
-      "sellers": 557,
-      "bazaar": 58004,
-      "lowest": 57966
+      "sellers": 562,
+      "bazaar": 57992,
+      "lowest": 57000
     },
     "646": {
       "name": "Hiking Boots",
       "market": 4182,
-      "sellers": 201,
+      "sellers": 203,
       "bazaar": 4187,
       "lowest": 4000
     },
     "647": {
       "name": "Leather Helmet",
       "market": 657,
-      "sellers": 434,
-      "bazaar": 884,
-      "lowest": 658
+      "sellers": 436,
+      "bazaar": 886,
+      "lowest": 592
     },
     "648": {
       "name": "Leather Pants",
       "market": 823,
-      "sellers": 339,
-      "bazaar": 881,
-      "lowest": 817
+      "sellers": 344,
+      "bazaar": 877,
+      "lowest": 787
     },
     "649": {
       "name": "Leather Boots",
       "market": 604,
-      "sellers": 535,
-      "bazaar": 712,
-      "lowest": 500
+      "sellers": 539,
+      "bazaar": 714,
+      "lowest": 594
     },
     "650": {
       "name": "Leather Gloves",
       "market": 301,
       "sellers": 727,
-      "bazaar": 593,
-      "lowest": 295
+      "bazaar": 596,
+      "lowest": 300
     },
     "651": {
       "name": "Combat Helmet",
       "market": 3248881,
-      "sellers": 368,
-      "bazaar": 3191029,
-      "lowest": 3150000
+      "sellers": 378,
+      "bazaar": 3175924,
+      "lowest": 3149996
     },
     "652": {
       "name": "Combat Pants",
       "market": 3296782,
-      "sellers": 391,
-      "bazaar": 3098084,
-      "lowest": 3050000
+      "sellers": 393,
+      "bazaar": 3086249,
+      "lowest": 3049996
     },
     "653": {
       "name": "Combat Boots",
       "market": 2632975,
-      "sellers": 337,
-      "bazaar": 2530999,
-      "lowest": 2500000
+      "sellers": 344,
+      "bazaar": 2530942,
+      "lowest": 2498989
     },
     "654": {
       "name": "Combat Gloves",
       "market": 2236834,
-      "sellers": 520,
-      "bazaar": 2183322,
+      "sellers": 524,
+      "bazaar": 2187666,
       "lowest": 2115000
     },
     "655": {
       "name": "Riot Helmet",
       "market": 104063997,
       "sellers": 8,
-      "bazaar": 108000000,
-      "lowest": 105999999
+      "bazaar": 107333333,
+      "lowest": 106000000
     },
     "656": {
       "name": "Riot Body",
@@ -4290,22 +4290,22 @@
     "659": {
       "name": "Riot Gloves",
       "market": 77464642,
-      "sellers": 12,
-      "bazaar": 78583333,
+      "sellers": 10,
+      "bazaar": 79375000,
       "lowest": 76000000
     },
     "660": {
       "name": "Dune Helmet",
       "market": 82594442,
-      "sellers": 12,
-      "bazaar": 72289899,
-      "lowest": 70000000
+      "sellers": 11,
+      "bazaar": 73224189,
+      "lowest": 72000000
     },
     "661": {
       "name": "Dune Vest",
       "market": 77856483,
       "sellers": 15,
-      "bazaar": 73996831,
+      "bazaar": 74122623,
       "lowest": 73988998
     },
     "662": {
@@ -4318,21 +4318,21 @@
     "663": {
       "name": "Dune Boots",
       "market": 79194722,
-      "sellers": 10,
-      "bazaar": 74792827,
-      "lowest": 73333333
+      "sellers": 9,
+      "bazaar": 75714383,
+      "lowest": 74000000
     },
     "664": {
       "name": "Dune Gloves",
       "market": 73275000,
-      "sellers": 14,
-      "bazaar": 73056570,
-      "lowest": 72000000
+      "sellers": 12,
+      "bazaar": 73342284,
+      "lowest": 72399999
     },
     "665": {
       "name": "Assault Helmet",
       "market": 111412857,
-      "sellers": 15,
+      "sellers": 14,
       "bazaar": 81500000,
       "lowest": 80000000
     },
@@ -4347,20 +4347,20 @@
       "name": "Assault Pants",
       "market": 154599737,
       "sellers": 13,
-      "bazaar": 150680000,
+      "bazaar": 153479599,
       "lowest": 144000000
     },
     "668": {
       "name": "Assault Boots",
       "market": 117100000,
-      "sellers": 11,
-      "bazaar": 106200000,
-      "lowest": 105000000
+      "sellers": 10,
+      "bazaar": 106800000,
+      "lowest": 106000000
     },
     "669": {
       "name": "Assault Gloves",
       "market": 116497500,
-      "sellers": 14,
+      "sellers": 12,
       "bazaar": 104250000,
       "lowest": 102500000
     },
@@ -4527,23 +4527,23 @@
     "696": {
       "name": "Piece of Cake '13",
       "market": 0,
-      "sellers": 6,
-      "bazaar": 212499999,
+      "sellers": 7,
+      "bazaar": 224999999,
       "lowest": 188999999
     },
     "697": {
       "name": "Rotten Eggs",
       "market": 0,
-      "sellers": 6,
-      "bazaar": 180875000,
+      "sellers": 7,
+      "bazaar": 159700000,
       "lowest": 63500000
     },
     "698": {
       "name": "Peg Leg",
       "market": 0,
       "sellers": 3,
-      "bazaar": 3393000000,
-      "lowest": 80000000
+      "bazaar": 3391333333,
+      "lowest": 75000000
     },
     "699": {
       "name": "Antidote",
@@ -4555,30 +4555,30 @@
     "700": {
       "name": "Christmas Angel",
       "market": 62894,
-      "sellers": 123,
-      "bazaar": 78933,
+      "sellers": 125,
+      "bazaar": 76808,
       "lowest": 66712
     },
     "701": {
       "name": "Eggnog",
       "market": 966658,
-      "sellers": 63,
-      "bazaar": 934955,
+      "sellers": 64,
+      "bazaar": 954921,
       "lowest": 903000
     },
     "702": {
       "name": "Sprig of Holly",
       "market": 39863,
       "sellers": 94,
-      "bazaar": 51990,
-      "lowest": 49997
+      "bazaar": 52572,
+      "lowest": 49999
     },
     "703": {
       "name": "Festive Socks",
       "market": 5934,
-      "sellers": 190,
-      "bazaar": 5851,
-      "lowest": 5849
+      "sellers": 189,
+      "bazaar": 6335,
+      "lowest": 5500
     },
     "704": {
       "name": "Respo Hoodie",
@@ -4600,9 +4600,9 @@
     "707": {
       "name": "Lump of Coal",
       "market": 3820,
-      "sellers": 271,
-      "bazaar": 3649,
-      "lowest": 3000
+      "sellers": 261,
+      "bazaar": 3796,
+      "lowest": 3700
     },
     "708": {
       "name": "Gold Rosette",
@@ -4759,65 +4759,65 @@
     "731": {
       "name": "Empty Blood Bag",
       "market": 16697,
-      "sellers": 275,
-      "bazaar": 16956,
-      "lowest": 16600
+      "sellers": 281,
+      "bazaar": 17235,
+      "lowest": 16330
     },
     "732": {
       "name": "Blood Bag : A+",
       "market": 16739,
-      "sellers": 537,
-      "bazaar": 16477,
-      "lowest": 16248
+      "sellers": 534,
+      "bazaar": 16403,
+      "lowest": 15999
     },
     "733": {
       "name": "Blood Bag : A-",
       "market": 17478,
-      "sellers": 138,
-      "bazaar": 17008,
+      "sellers": 129,
+      "bazaar": 17072,
       "lowest": 16900
     },
     "734": {
       "name": "Blood Bag : B+",
       "market": 17654,
-      "sellers": 131,
-      "bazaar": 17806,
-      "lowest": 17499
+      "sellers": 129,
+      "bazaar": 17822,
+      "lowest": 17654
     },
     "735": {
       "name": "Blood Bag : B-",
       "market": 21387,
-      "sellers": 51,
-      "bazaar": 21456,
-      "lowest": 21387
+      "sellers": 49,
+      "bazaar": 21504,
+      "lowest": 20959
     },
     "736": {
       "name": "Blood Bag : AB+",
       "market": 17813,
-      "sellers": 99,
-      "bazaar": 17493,
-      "lowest": 17454
+      "sellers": 100,
+      "bazaar": 17480,
+      "lowest": 17444
     },
     "737": {
       "name": "Blood Bag : AB-",
       "market": 24248,
-      "sellers": 60,
-      "bazaar": 24022,
+      "sellers": 56,
+      "bazaar": 24084,
       "lowest": 23763
     },
     "738": {
       "name": "Blood Bag : O+",
       "market": 16953,
-      "sellers": 564,
-      "bazaar": 16428,
-      "lowest": 16299
+      "sellers": 562,
+      "bazaar": 16445,
+      "lowest": 16399
     },
     "739": {
       "name": "Blood Bag : O-",
       "market": 20050,
       "sellers": 180,
-      "bazaar": 19046,
-      "lowest": 18926
+      "bazaar": 19222,
+      "lowest": 18922
     },
     "740": {
       "name": "Mr Torn Crown",
@@ -4834,9 +4834,9 @@
     "742": {
       "name": "Molotov Cocktail",
       "market": 83844,
-      "sellers": 569,
-      "bazaar": 82419,
-      "lowest": 79999
+      "sellers": 572,
+      "bazaar": 82757,
+      "lowest": 80000
     },
     "743": {
       "name": "Christmas Sweater '15",
@@ -5068,29 +5068,29 @@
     "788": {
       "name": "Certificate of Awesome",
       "market": 8164,
-      "sellers": 818,
-      "bazaar": 8152,
-      "lowest": 7348
+      "sellers": 819,
+      "bazaar": 8132,
+      "lowest": 7786
     },
     "789": {
       "name": "Certificate of Lame",
       "market": 5089,
-      "sellers": 415,
-      "bazaar": 8323,
-      "lowest": 5000
+      "sellers": 419,
+      "bazaar": 8410,
+      "lowest": 4999
     },
     "790": {
       "name": "Plastic Sword",
       "market": 21,
-      "sellers": 426,
-      "bazaar": 167,
-      "lowest": 15
+      "sellers": 418,
+      "bazaar": 181,
+      "lowest": 100
     },
     "791": {
       "name": "Mediocre T-Shirt",
       "market": 2300,
-      "sellers": 295,
-      "bazaar": 2210,
+      "sellers": 289,
+      "bazaar": 2244,
       "lowest": 2000
     },
     "792": {
@@ -5166,72 +5166,72 @@
     "806": {
       "name": "Old Lady Mask",
       "market": 16898,
-      "sellers": 113,
-      "bazaar": 24697,
-      "lowest": 21999
+      "sellers": 115,
+      "bazaar": 21785,
+      "lowest": 17500
     },
     "807": {
       "name": "Exotic Gentleman Mask",
       "market": 18103,
-      "sellers": 114,
-      "bazaar": 23432,
-      "lowest": 20000
+      "sellers": 116,
+      "bazaar": 23724,
+      "lowest": 21749
     },
     "808": {
       "name": "Ginger Kid Mask",
       "market": 52803,
-      "sellers": 94,
-      "bazaar": 66058,
-      "lowest": 62000
+      "sellers": 95,
+      "bazaar": 65487,
+      "lowest": 59498
     },
     "809": {
       "name": "Young Lady Mask",
       "market": 18266,
-      "sellers": 125,
-      "bazaar": 19057,
-      "lowest": 18265
+      "sellers": 123,
+      "bazaar": 22498,
+      "lowest": 18999
     },
     "810": {
       "name": "Moustache Man Mask",
       "market": 17578,
-      "sellers": 111,
-      "bazaar": 24746,
-      "lowest": 20155
+      "sellers": 114,
+      "bazaar": 21714,
+      "lowest": 20154
     },
     "811": {
       "name": "Scarred Man Mask",
       "market": 18346,
-      "sellers": 102,
-      "bazaar": 24666,
-      "lowest": 19999
+      "sellers": 106,
+      "bazaar": 21108,
+      "lowest": 19998
     },
     "812": {
       "name": "Psycho Clown Mask",
       "market": 81960,
-      "sellers": 220,
-      "bazaar": 77210,
-      "lowest": 71389
+      "sellers": 223,
+      "bazaar": 77344,
+      "lowest": 71999
     },
     "813": {
       "name": "Nun Mask",
       "market": 17016,
-      "sellers": 144,
-      "bazaar": 21647,
-      "lowest": 19998
+      "sellers": 146,
+      "bazaar": 21781,
+      "lowest": 19997
     },
     "814": {
       "name": "Tyrosine",
       "market": 602282,
-      "sellers": 242,
-      "bazaar": 599998,
-      "lowest": 599986
+      "sellers": 240,
+      "bazaar": 599999,
+      "lowest": 599987
     },
     "815": {
       "name": "Keg of Beer",
       "market": 6480367,
-      "sellers": 188,
-      "bazaar": 6681747,
-      "lowest": 6599999
+      "sellers": 187,
+      "bazaar": 6794435,
+      "lowest": 6666666
     },
     "816": {
       "name": "Glass of Beer",
@@ -5241,23 +5241,23 @@
     "817": {
       "name": "Six-Pack of Alcohol",
       "market": 985877,
-      "sellers": 391,
-      "bazaar": 973008,
-      "lowest": 965000
+      "sellers": 393,
+      "bazaar": 998247,
+      "lowest": 980000
     },
     "818": {
       "name": "Six-Pack of Energy Drink",
       "market": 14740428,
-      "sellers": 112,
-      "bazaar": 14730299,
-      "lowest": 14720000
+      "sellers": 115,
+      "bazaar": 14740030,
+      "lowest": 14700000
     },
     "819": {
       "name": "Rosary Beads",
       "market": 1726780,
-      "sellers": 91,
-      "bazaar": 1678394,
-      "lowest": 1653086
+      "sellers": 88,
+      "bazaar": 1703852,
+      "lowest": 1530000
     },
     "820": {
       "name": "Piggy Bank",
@@ -5320,9 +5320,9 @@
     "831": {
       "name": "Beretta Pico",
       "market": 10200000,
-      "sellers": 20,
-      "bazaar": 10100000,
-      "lowest": 10000000
+      "sellers": 18,
+      "bazaar": 12000003,
+      "lowest": 9000000
     },
     "832": {
       "name": "Riding Crop",
@@ -5334,14 +5334,14 @@
     "833": {
       "name": "Sand",
       "market": 26760,
-      "sellers": 369,
-      "bazaar": 26410,
-      "lowest": 25000
+      "sellers": 345,
+      "bazaar": 26444,
+      "lowest": 25999
     },
     "834": {
       "name": "Sweatpants",
       "market": 722608,
-      "sellers": 47,
+      "sellers": 48,
       "bazaar": 683855,
       "lowest": 637000
     },
@@ -5369,9 +5369,9 @@
     "838": {
       "name": "Homemade Pocket Shotgun",
       "market": 138000000,
-      "sellers": 14,
-      "bazaar": 34311245,
-      "lowest": 32000000
+      "sellers": 13,
+      "bazaar": 36644578,
+      "lowest": 35240000
     },
     "839": {
       "name": "Madball",
@@ -5384,7 +5384,7 @@
       "name": "Nail Bomb",
       "market": 2568886,
       "sellers": 37,
-      "bazaar": 2725269,
+      "bazaar": 2733884,
       "lowest": 2684900
     },
     "841": {
@@ -5398,8 +5398,8 @@
       "name": "Pinstripe Suit Trousers",
       "market": 1363993,
       "sellers": 29,
-      "bazaar": 1379552,
-      "lowest": 1363993
+      "bazaar": 1357426,
+      "lowest": 1350000
     },
     "843": {
       "name": "Duster",
@@ -5420,9 +5420,9 @@
     "846": {
       "name": "Scalpel",
       "market": 156,
-      "sellers": 211,
-      "bazaar": 129,
-      "lowest": 5
+      "sellers": 217,
+      "bazaar": 149,
+      "lowest": 143
     },
     "847": {
       "name": "Nerve Gas",
@@ -5453,15 +5453,15 @@
     "852": {
       "name": "Metal Detector",
       "market": 1461465,
-      "sellers": 130,
-      "bazaar": 1423257,
-      "lowest": 1400000
+      "sellers": 116,
+      "bazaar": 1620120,
+      "lowest": 1557408
     },
     "853": {
       "name": "Cemetery Key",
       "market": 2814347,
-      "sellers": 182,
-      "bazaar": 2781253,
+      "sellers": 181,
+      "bazaar": 2783179,
       "lowest": 2757000
     },
     "854": {
@@ -5477,72 +5477,72 @@
     "856": {
       "name": "Spray Paint : Black",
       "market": 334,
-      "sellers": 335,
-      "bazaar": 340,
-      "lowest": 322
+      "sellers": 342,
+      "bazaar": 344,
+      "lowest": 300
     },
     "857": {
       "name": "Spray Paint : Red",
       "market": 439,
-      "sellers": 323,
+      "sellers": 317,
       "bazaar": 438,
-      "lowest": 420
+      "lowest": 426
     },
     "858": {
       "name": "Spray Paint : Pink",
       "market": 415,
-      "sellers": 262,
-      "bazaar": 417,
+      "sellers": 263,
+      "bazaar": 423,
       "lowest": 400
     },
     "859": {
       "name": "Spray Paint : Purple",
       "market": 413,
-      "sellers": 199,
-      "bazaar": 409,
-      "lowest": 400
+      "sellers": 191,
+      "bazaar": 429,
+      "lowest": 199
     },
     "860": {
       "name": "Spray Paint : Blue",
       "market": 319,
-      "sellers": 278,
-      "bazaar": 431,
-      "lowest": 300
+      "sellers": 281,
+      "bazaar": 417,
+      "lowest": 290
     },
     "861": {
       "name": "Spray Paint : Green",
       "market": 403,
-      "sellers": 278,
-      "bazaar": 400,
-      "lowest": 390
+      "sellers": 275,
+      "bazaar": 393,
+      "lowest": 19
     },
     "862": {
       "name": "Spray Paint : White",
       "market": 303,
-      "sellers": 286,
-      "bazaar": 472,
-      "lowest": 300
+      "sellers": 296,
+      "bazaar": 450,
+      "lowest": 297
     },
     "863": {
       "name": "Spray Paint : Orange",
       "market": 529,
-      "sellers": 208,
-      "bazaar": 518,
-      "lowest": 500
+      "sellers": 213,
+      "bazaar": 484,
+      "lowest": 250
     },
     "864": {
       "name": "Salt Shaker",
       "market": 82401,
-      "sellers": 90,
-      "bazaar": 80723,
-      "lowest": 79999
+      "sellers": 85,
+      "bazaar": 81685,
+      "lowest": 81218
     },
     "865": {
       "name": "Poison Mistletoe",
       "market": 69362272,
-      "sellers": 31,
-      "bazaar": 73413131,
-      "lowest": 70000000
+      "sellers": 25,
+      "bazaar": 75099999,
+      "lowest": 74111101
     },
     "866": {
       "name": "Santa's List '17",
@@ -5559,9 +5559,9 @@
     "868": {
       "name": "Turkey Baster",
       "market": 2223,
-      "sellers": 259,
-      "bazaar": 2981,
-      "lowest": 2200
+      "sellers": 256,
+      "bazaar": 3228,
+      "lowest": 2302
     },
     "869": {
       "name": "Elon Musk Mask '17",
@@ -5574,8 +5574,8 @@
       "name": "Love Juice",
       "market": 3514374,
       "sellers": 880,
-      "bazaar": 3497507,
-      "lowest": 3334000
+      "bazaar": 3497469,
+      "lowest": 3356000
     },
     "871": {
       "name": "Bug Swatter",
@@ -5591,8 +5591,8 @@
       "name": "Bottle of Green Stout",
       "market": 912422,
       "sellers": 470,
-      "bazaar": 921197,
-      "lowest": 909998
+      "bazaar": 928343,
+      "lowest": 909999
     },
     "874": {
       "name": "Prototype",
@@ -5602,114 +5602,114 @@
     "875": {
       "name": "Rotten Apple",
       "market": 607,
-      "sellers": 188,
-      "bazaar": 591,
-      "lowest": 500
+      "sellers": 179,
+      "bazaar": 569,
+      "lowest": 550
     },
     "876": {
       "name": "Festering Chicken",
       "market": 1138,
       "sellers": 198,
-      "bazaar": 1129,
-      "lowest": 850
+      "bazaar": 1137,
+      "lowest": 1127
     },
     "877": {
       "name": "Moldy Pizza",
       "market": 17533,
-      "sellers": 72,
-      "bazaar": 23422,
-      "lowest": 17000
+      "sellers": 70,
+      "bazaar": 23843,
+      "lowest": 22892
     },
     "878": {
       "name": "Smelly Cheese",
       "market": 6618,
-      "sellers": 126,
-      "bazaar": 6396,
-      "lowest": 5969
+      "sellers": 119,
+      "bazaar": 6602,
+      "lowest": 6500
     },
     "879": {
       "name": "Sour Milk",
       "market": 3335,
       "sellers": 85,
-      "bazaar": 3145,
-      "lowest": 3096
+      "bazaar": 3227,
+      "lowest": 3077
     },
     "880": {
       "name": "Stale Bread",
       "market": 2741,
-      "sellers": 117,
-      "bazaar": 2537,
-      "lowest": 2400
+      "sellers": 112,
+      "bazaar": 2637,
+      "lowest": 2487
     },
     "881": {
       "name": "Spoiled Fish",
       "market": 3693,
-      "sellers": 110,
-      "bazaar": 3634,
-      "lowest": 3582
+      "sellers": 111,
+      "bazaar": 3587,
+      "lowest": 3364
     },
     "882": {
       "name": "Insurance Policy",
       "market": 11491,
-      "sellers": 153,
-      "bazaar": 11338,
+      "sellers": 144,
+      "bazaar": 13571,
       "lowest": 11000
     },
     "883": {
       "name": "Bank Statement",
       "market": 13077,
-      "sellers": 436,
-      "bazaar": 14039,
-      "lowest": 13000
+      "sellers": 439,
+      "bazaar": 14830,
+      "lowest": 12999
     },
     "884": {
       "name": "Car Battery",
       "market": 346,
-      "sellers": 427,
-      "bazaar": 336,
-      "lowest": 299
+      "sellers": 422,
+      "bazaar": 343,
+      "lowest": 300
     },
     "885": {
       "name": "Scrap Metal",
       "market": 254,
-      "sellers": 323,
-      "bazaar": 427,
-      "lowest": 200
+      "sellers": 322,
+      "bazaar": 444,
+      "lowest": 245
     },
     "886": {
       "name": "Torn City Times",
       "market": 3129,
-      "sellers": 223,
-      "bazaar": 3071,
+      "sellers": 224,
+      "bazaar": 3085,
       "lowest": 3000
     },
     "887": {
       "name": "Magazine",
       "market": 261,
-      "sellers": 270,
-      "bazaar": 246,
+      "sellers": 271,
+      "bazaar": 252,
       "lowest": 199
     },
     "888": {
       "name": "Umbrella",
       "market": 206,
-      "sellers": 316,
-      "bazaar": 200,
-      "lowest": 190
+      "sellers": 313,
+      "bazaar": 192,
+      "lowest": 2
     },
     "889": {
       "name": "Travel Mug",
       "market": 843,
-      "sellers": 144,
-      "bazaar": 812,
-      "lowest": 699
+      "sellers": 147,
+      "bazaar": 846,
+      "lowest": 800
     },
     "890": {
       "name": "Headphones",
       "market": 213,
-      "sellers": 322,
-      "bazaar": 211,
-      "lowest": 100
+      "sellers": 310,
+      "bazaar": 278,
+      "lowest": 200
     },
     "891": {
       "name": "Undefined",
@@ -5720,113 +5720,113 @@
       "name": "Mix CD",
       "market": 285,
       "sellers": 214,
-      "bazaar": 282,
-      "lowest": 278
+      "bazaar": 264,
+      "lowest": 150
     },
     "893": {
       "name": "Lost and Found Office Key",
       "market": 111481,
-      "sellers": 142,
-      "bazaar": 106808,
-      "lowest": 99999
+      "sellers": 135,
+      "bazaar": 109285,
+      "lowest": 108137
     },
     "894": {
       "name": "Cosmetics Case",
       "market": 204,
       "sellers": 334,
-      "bazaar": 200,
+      "bazaar": 199,
       "lowest": 190
     },
     "895": {
       "name": "Phone Card",
       "market": 252,
-      "sellers": 214,
-      "bazaar": 248,
-      "lowest": 240
+      "sellers": 208,
+      "bazaar": 244,
+      "lowest": 229
     },
     "896": {
       "name": "Subway Pass",
       "market": 1902,
-      "sellers": 245,
-      "bazaar": 1995,
-      "lowest": 1904
+      "sellers": 253,
+      "bazaar": 1959,
+      "lowest": 1860
     },
     "897": {
       "name": "Bottle Cap",
       "market": 874,
-      "sellers": 671,
-      "bazaar": 960,
-      "lowest": 750
+      "sellers": 660,
+      "bazaar": 990,
+      "lowest": 839
     },
     "898": {
       "name": "Silver Coin",
       "market": 28606,
-      "sellers": 150,
-      "bazaar": 28338,
-      "lowest": 27374
+      "sellers": 138,
+      "bazaar": 33171,
+      "lowest": 27000
     },
     "899": {
       "name": "Silver Bead",
       "market": 117172,
       "sellers": 57,
-      "bazaar": 112275,
-      "lowest": 105000
+      "bazaar": 113758,
+      "lowest": 108989
     },
     "900": {
       "name": "Lucky Quarter",
       "market": 267372,
-      "sellers": 135,
-      "bazaar": 259713,
-      "lowest": 240000
+      "sellers": 134,
+      "bazaar": 265838,
+      "lowest": 262025
     },
     "901": {
       "name": "Daffodil",
       "market": 255,
       "sellers": 272,
-      "bazaar": 259,
-      "lowest": 244
+      "bazaar": 254,
+      "lowest": 230
     },
     "902": {
       "name": "Bunch of Carnations",
       "market": 239,
-      "sellers": 272,
-      "bazaar": 235,
-      "lowest": 210
+      "sellers": 276,
+      "bazaar": 225,
+      "lowest": 200
     },
     "903": {
       "name": "White Lily",
       "market": 3594,
-      "sellers": 210,
-      "bazaar": 5085,
-      "lowest": 3590
+      "sellers": 209,
+      "bazaar": 3971,
+      "lowest": 3477
     },
     "904": {
       "name": "Funeral Wreath",
       "market": 233,
-      "sellers": 294,
-      "bazaar": 290,
-      "lowest": 199
+      "sellers": 302,
+      "bazaar": 222,
+      "lowest": 192
     },
     "905": {
       "name": "Car Keys",
       "market": 1033,
-      "sellers": 226,
-      "bazaar": 1025,
-      "lowest": 999
+      "sellers": 218,
+      "bazaar": 1071,
+      "lowest": 900
     },
     "906": {
       "name": "Handkerchief",
       "market": 182,
-      "sellers": 284,
-      "bazaar": 188,
-      "lowest": 149
+      "sellers": 280,
+      "bazaar": 189,
+      "lowest": 150
     },
     "907": {
       "name": "Candle",
       "market": 560,
-      "sellers": 473,
-      "bazaar": 783,
-      "lowest": 559
+      "sellers": 478,
+      "bazaar": 599,
+      "lowest": 549
     },
     "908": {
       "name": "Paper Bag",
@@ -5838,9 +5838,9 @@
     "909": {
       "name": "Tin Can",
       "market": 250,
-      "sellers": 152,
-      "bazaar": 237,
-      "lowest": 199
+      "sellers": 158,
+      "bazaar": 288,
+      "lowest": 230
     },
     "910": {
       "name": "Betting Slip",
@@ -5917,8 +5917,8 @@
       "name": "Bottle of Christmas Spirit",
       "market": 1417426,
       "sellers": 86,
-      "bazaar": 1394996,
-      "lowest": 1245000
+      "bazaar": 1412630,
+      "lowest": 1409000
     },
     "925": {
       "name": "Scammer in the Slammer '18",
@@ -5935,184 +5935,184 @@
     "927": {
       "name": "Baseball Cap",
       "market": 369,
-      "sellers": 394,
-      "bazaar": 375,
-      "lowest": 350
+      "sellers": 397,
+      "bazaar": 363,
+      "lowest": 349
     },
     "928": {
       "name": "Bermudas",
       "market": 270,
-      "sellers": 290,
-      "bazaar": 331,
-      "lowest": 250
+      "sellers": 293,
+      "bazaar": 323,
+      "lowest": 150
     },
     "929": {
       "name": "Blouse",
       "market": 219,
       "sellers": 289,
-      "bazaar": 207,
-      "lowest": 199
+      "bazaar": 205,
+      "lowest": 150
     },
     "930": {
       "name": "Boob Tube",
       "market": 352,
-      "sellers": 291,
-      "bazaar": 315,
-      "lowest": 300
+      "sellers": 288,
+      "bazaar": 369,
+      "lowest": 339
     },
     "931": {
       "name": "Bush Hat",
       "market": 57691,
-      "sellers": 88,
-      "bazaar": 53157,
+      "sellers": 91,
+      "bazaar": 53423,
       "lowest": 52680
     },
     "932": {
       "name": "Camisole",
       "market": 266,
-      "sellers": 297,
-      "bazaar": 317,
+      "sellers": 298,
+      "bazaar": 308,
       "lowest": 240
     },
     "933": {
       "name": "Capri Pants",
       "market": 262,
-      "sellers": 281,
-      "bazaar": 367,
-      "lowest": 250
+      "sellers": 288,
+      "bazaar": 256,
+      "lowest": 200
     },
     "934": {
       "name": "Cardigan",
       "market": 309,
-      "sellers": 285,
-      "bazaar": 344,
-      "lowest": 290
+      "sellers": 293,
+      "bazaar": 323,
+      "lowest": 299
     },
     "935": {
       "name": "Cork Hat",
       "market": 453,
-      "sellers": 285,
-      "bazaar": 446,
-      "lowest": 436
+      "sellers": 286,
+      "bazaar": 439,
+      "lowest": 400
     },
     "936": {
       "name": "Crop Top",
       "market": 10035,
-      "sellers": 162,
-      "bazaar": 9947,
-      "lowest": 9450
+      "sellers": 117,
+      "bazaar": 11004,
+      "lowest": 11000
     },
     "937": {
       "name": "Fisherman Hat",
       "market": 10624,
-      "sellers": 166,
-      "bazaar": 10016,
-      "lowest": 9460
+      "sellers": 164,
+      "bazaar": 10221,
+      "lowest": 9999
     },
     "938": {
       "name": "Gym Shorts",
       "market": 258,
-      "sellers": 256,
-      "bazaar": 259,
+      "sellers": 257,
+      "bazaar": 291,
       "lowest": 247
     },
     "939": {
       "name": "Halterneck",
       "market": 293,
-      "sellers": 235,
-      "bazaar": 286,
+      "sellers": 233,
+      "bazaar": 281,
       "lowest": 200
     },
     "940": {
       "name": "Raincoat",
       "market": 17905,
       "sellers": 127,
-      "bazaar": 16511,
-      "lowest": 15000
+      "bazaar": 17244,
+      "lowest": 16800
     },
     "941": {
       "name": "Pantyhose",
       "market": 192,
-      "sellers": 266,
-      "bazaar": 184,
-      "lowest": 150
+      "sellers": 262,
+      "bazaar": 178,
+      "lowest": 100
     },
     "942": {
       "name": "Pencil Skirt",
       "market": 253,
-      "sellers": 239,
-      "bazaar": 267,
-      "lowest": 250
+      "sellers": 234,
+      "bazaar": 379,
+      "lowest": 200
     },
     "943": {
       "name": "Peplum Top",
       "market": 236,
-      "sellers": 258,
-      "bazaar": 247,
-      "lowest": 230
+      "sellers": 257,
+      "bazaar": 239,
+      "lowest": 100
     },
     "944": {
       "name": "Polo Shirt",
       "market": 277,
-      "sellers": 281,
-      "bazaar": 265,
-      "lowest": 250
+      "sellers": 276,
+      "bazaar": 267,
+      "lowest": 200
     },
     "945": {
       "name": "Poncho",
       "market": 203149,
-      "sellers": 89,
-      "bazaar": 198357,
+      "sellers": 91,
+      "bazaar": 198226,
       "lowest": 194997
     },
     "946": {
       "name": "Puffer Vest",
       "market": 305,
       "sellers": 236,
-      "bazaar": 301,
+      "bazaar": 309,
       "lowest": 288
     },
     "947": {
       "name": "Mackintosh",
       "market": 30556,
-      "sellers": 117,
-      "bazaar": 29708,
+      "sellers": 121,
+      "bazaar": 29580,
       "lowest": 28000
     },
     "948": {
       "name": "Shorts",
       "market": 254,
-      "sellers": 271,
-      "bazaar": 253,
-      "lowest": 244
+      "sellers": 273,
+      "bazaar": 249,
+      "lowest": 100
     },
     "949": {
       "name": "Skirt",
       "market": 362,
-      "sellers": 240,
-      "bazaar": 359,
-      "lowest": 350
+      "sellers": 242,
+      "bazaar": 344,
+      "lowest": 100
     },
     "950": {
       "name": "Travel Socks",
       "market": 335,
-      "sellers": 192,
-      "bazaar": 380,
+      "sellers": 196,
+      "bazaar": 332,
       "lowest": 300
     },
     "951": {
       "name": "Turtleneck",
       "market": 319,
-      "sellers": 281,
-      "bazaar": 305,
+      "sellers": 278,
+      "bazaar": 308,
       "lowest": 240
     },
     "952": {
       "name": "Yoga Pants",
       "market": 304,
-      "sellers": 241,
-      "bazaar": 303,
-      "lowest": 250
+      "sellers": 238,
+      "bazaar": 317,
+      "lowest": 200
     },
     "953": {
       "name": "Bronze Racing Trophy",
@@ -6132,9 +6132,9 @@
     "956": {
       "name": "Blank DVDs",
       "market": 612,
-      "sellers": 331,
-      "bazaar": 799,
-      "lowest": 560
+      "sellers": 328,
+      "bazaar": 798,
+      "lowest": 606
     },
     "957": {
       "name": "Blank DVDs : 50",
@@ -6144,36 +6144,36 @@
     "958": {
       "name": "Chest Harness",
       "market": 1799665,
-      "sellers": 26,
+      "sellers": 27,
       "bazaar": 1686557,
       "lowest": 1500000
     },
     "959": {
       "name": "Choker",
       "market": 1799999,
-      "sellers": 23,
-      "bazaar": 1605333,
-      "lowest": 1400000
+      "sellers": 21,
+      "bazaar": 1738666,
+      "lowest": 1652000
     },
     "960": {
       "name": "Fishnet Stockings",
       "market": 999999,
-      "sellers": 34,
-      "bazaar": 974997,
+      "sellers": 35,
+      "bazaar": 979994,
       "lowest": 900000
     },
     "961": {
       "name": "Knee-high Boots",
       "market": 0,
       "sellers": 39,
-      "bazaar": 1929464,
-      "lowest": 1830618
+      "bazaar": 1943617,
+      "lowest": 1887232
     },
     "962": {
       "name": "Lingerie",
       "market": 2799994,
-      "sellers": 23,
-      "bazaar": 2722661,
+      "sellers": 25,
+      "bazaar": 2655997,
       "lowest": 2595990
     },
     "963": {
@@ -6200,9 +6200,9 @@
     "966": {
       "name": "Bowler Hat",
       "market": 576667,
-      "sellers": 51,
-      "bazaar": 610663,
-      "lowest": 576665
+      "sellers": 52,
+      "bazaar": 597995,
+      "lowest": 576662
     },
     "967": {
       "name": "Fitted Shirt",
@@ -6214,15 +6214,15 @@
     "968": {
       "name": "Bow Tie",
       "market": 599997,
-      "sellers": 36,
+      "sellers": 37,
       "bazaar": 636107,
       "lowest": 599997
     },
     "969": {
       "name": "Neck Tie",
       "market": 1233333,
-      "sellers": 28,
-      "bazaar": 1513208,
+      "sellers": 29,
+      "bazaar": 1479999,
       "lowest": 1220000
     },
     "970": {
@@ -6235,22 +6235,22 @@
     "971": {
       "name": "Blazer",
       "market": 1482246,
-      "sellers": 43,
-      "bazaar": 1509360,
-      "lowest": 1473900
+      "sellers": 41,
+      "bazaar": 1494580,
+      "lowest": 1400000
     },
     "972": {
       "name": "Suit Trousers",
       "market": 2734666,
       "sellers": 31,
-      "bazaar": 2634000,
-      "lowest": 2500000
+      "bazaar": 2595714,
+      "lowest": 2499999
     },
     "973": {
       "name": "Derby Shoes",
       "market": 2656997,
-      "sellers": 21,
-      "bazaar": 2722000,
+      "sellers": 20,
+      "bazaar": 2727500,
       "lowest": 2605000
     },
     "974": {
@@ -6263,9 +6263,9 @@
     "975": {
       "name": "Monocle",
       "market": 0,
-      "sellers": 12,
-      "bazaar": 30500000,
-      "lowest": 30000000
+      "sellers": 11,
+      "bazaar": 28339998,
+      "lowest": 25000000
     },
     "976": {
       "name": "Bronze Microphone",
@@ -6289,23 +6289,23 @@
     "979": {
       "name": "Paint Mask",
       "market": 527723,
-      "sellers": 97,
-      "bazaar": 516273,
-      "lowest": 499900
+      "sellers": 98,
+      "bazaar": 520763,
+      "lowest": 519766
     },
     "980": {
       "name": "Ladder",
       "market": 5547,
       "sellers": 201,
-      "bazaar": 5387,
-      "lowest": 5000
+      "bazaar": 5458,
+      "lowest": 5300
     },
     "981": {
       "name": "Wire Cutters",
       "market": 1885,
-      "sellers": 221,
-      "bazaar": 1665,
-      "lowest": 1000
+      "sellers": 217,
+      "bazaar": 1849,
+      "lowest": 1795
     },
     "982": {
       "name": "Ripped Jeans",
@@ -6324,37 +6324,37 @@
     "984": {
       "name": "Bottle of Moonshine",
       "market": 923135,
-      "sellers": 89,
-      "bazaar": 926816,
-      "lowest": 920069
+      "sellers": 95,
+      "bazaar": 921181,
+      "lowest": 915750
     },
     "985": {
       "name": "Can of Goose Juice",
       "market": 322844,
-      "sellers": 510,
-      "bazaar": 319996,
-      "lowest": 319691
+      "sellers": 513,
+      "bazaar": 319997,
+      "lowest": 319900
     },
     "986": {
       "name": "Can of Damp Valley",
       "market": 706980,
-      "sellers": 355,
-      "bazaar": 704361,
-      "lowest": 700000
+      "sellers": 365,
+      "bazaar": 703379,
+      "lowest": 702000
     },
     "987": {
       "name": "Can of Crocozade",
       "market": 1076454,
-      "sellers": 332,
-      "bazaar": 1099060,
-      "lowest": 1076452
+      "sellers": 331,
+      "bazaar": 1098901,
+      "lowest": 1070839
     },
     "988": {
       "name": "Fur Coat",
       "market": 3595316,
-      "sellers": 26,
-      "bazaar": 3500000,
-      "lowest": 3499999
+      "sellers": 24,
+      "bazaar": 3499998,
+      "lowest": 3499996
     },
     "989": {
       "name": "Fur Scarf",
@@ -6373,7 +6373,7 @@
     "991": {
       "name": "Platform Shoes",
       "market": 945998,
-      "sellers": 43,
+      "sellers": 46,
       "bazaar": 839198,
       "lowest": 819999
     },
@@ -6381,57 +6381,57 @@
       "name": "Silver Flats",
       "market": 338000,
       "sellers": 29,
-      "bazaar": 257500,
+      "bazaar": 272110,
       "lowest": 250000
     },
     "993": {
       "name": "Crystal Bracelet",
       "market": 7006529,
-      "sellers": 18,
+      "sellers": 19,
       "bazaar": 9030000,
       "lowest": 8990000
     },
     "994": {
       "name": "Cocktail Ring",
       "market": 0,
-      "sellers": 32,
-      "bazaar": 2745775,
+      "sellers": 31,
+      "bazaar": 2800996,
       "lowest": 2575326
     },
     "995": {
       "name": "Sun Hat",
       "market": 250000,
       "sellers": 50,
-      "bazaar": 303410,
-      "lowest": 250000
+      "bazaar": 314751,
+      "lowest": 310000
     },
     "996": {
       "name": "Square Sunglasses",
       "market": 1990000,
-      "sellers": 30,
-      "bazaar": 1854000,
+      "sellers": 32,
+      "bazaar": 1855999,
       "lowest": 1800000
     },
     "997": {
       "name": "Statement Necklace",
       "market": 17000000,
-      "sellers": 13,
-      "bazaar": 18500000,
-      "lowest": 18000000
+      "sellers": 15,
+      "bazaar": 17833333,
+      "lowest": 16499999
     },
     "998": {
       "name": "Floral Dress",
       "market": 232169,
-      "sellers": 40,
-      "bazaar": 249880,
-      "lowest": 248506
+      "sellers": 39,
+      "bazaar": 245254,
+      "lowest": 230000
     },
     "1001": {
       "name": "Shrug",
       "market": 259498,
-      "sellers": 52,
-      "bazaar": 271079,
-      "lowest": 240000
+      "sellers": 50,
+      "bazaar": 279412,
+      "lowest": 259495
     },
     "1002": {
       "name": "Eye Patch",
@@ -6486,9 +6486,9 @@
     "1012": {
       "name": "Blood Bag : Irradiated",
       "market": 30179,
-      "sellers": 203,
-      "bazaar": 29549,
-      "lowest": 28999
+      "sellers": 204,
+      "bazaar": 29709,
+      "lowest": 22661
     },
     "1013": {
       "name": "Jigsaw Mask '19",
@@ -6501,8 +6501,8 @@
       "name": "Reading Glasses",
       "market": 538554,
       "sellers": 28,
-      "bazaar": 523855,
-      "lowest": 500000
+      "bazaar": 526231,
+      "lowest": 524996
     },
     "1015": {
       "name": "Chinos",
@@ -6514,22 +6514,22 @@
     "1016": {
       "name": "Collared Shawl",
       "market": 212859,
-      "sellers": 46,
-      "bazaar": 198480,
+      "sellers": 47,
+      "bazaar": 198625,
       "lowest": 194000
     },
     "1017": {
       "name": "Pleated Skirt",
       "market": 193889,
-      "sellers": 35,
-      "bazaar": 215475,
+      "sellers": 36,
+      "bazaar": 214776,
       "lowest": 193889
     },
     "1018": {
       "name": "Flip Flops",
       "market": 217398,
-      "sellers": 44,
-      "bazaar": 188762,
+      "sellers": 42,
+      "bazaar": 191133,
       "lowest": 180000
     },
     "1019": {
@@ -6542,23 +6542,23 @@
     "1020": {
       "name": "Cover-ups",
       "market": 0,
-      "sellers": 14,
-      "bazaar": 3463332,
+      "sellers": 15,
+      "bazaar": 3459997,
       "lowest": 2999999
     },
     "1021": {
       "name": "Sandals",
       "market": 226296,
-      "sellers": 45,
-      "bazaar": 209000,
-      "lowest": 200000
+      "sellers": 44,
+      "bazaar": 212483,
+      "lowest": 206000
     },
     "1022": {
       "name": "Golf Socks",
       "market": 31814,
-      "sellers": 124,
-      "bazaar": 31133,
-      "lowest": 30777
+      "sellers": 120,
+      "bazaar": 31109,
+      "lowest": 30000
     },
     "1023": {
       "name": "Flat Cap",
@@ -6569,14 +6569,14 @@
       "name": "Slippers",
       "market": 14999000,
       "sellers": 8,
-      "bazaar": 12814815,
-      "lowest": 12000000
+      "bazaar": 12814814,
+      "lowest": 11999999
     },
     "1025": {
       "name": "Bathrobe",
       "market": 0,
-      "sellers": 8,
-      "bazaar": 24823250,
+      "sellers": 7,
+      "bazaar": 26406140,
       "lowest": 24798000
     },
     "1026": {
@@ -6589,23 +6589,23 @@
     "1027": {
       "name": "Badge : 15th Anniversary",
       "market": 6401623,
-      "sellers": 33,
-      "bazaar": 7745087,
+      "sellers": 31,
+      "bazaar": 8196000,
       "lowest": 7600000
     },
     "1028": {
       "name": "Birthday Cupcake",
       "market": 4020392,
       "sellers": 95,
-      "bazaar": 4187714,
-      "lowest": 3980188
+      "bazaar": 4186267,
+      "lowest": 4052402
     },
     "1029": {
       "name": "Strippogram Voucher",
       "market": 23681444,
       "sellers": 38,
-      "bazaar": 24441658,
-      "lowest": 23499899
+      "bazaar": 24403333,
+      "lowest": 23450000
     },
     "1030": {
       "name": "Dong : Thomas",
@@ -6624,9 +6624,9 @@
     "1032": {
       "name": "Dong : Effy",
       "market": 0,
-      "sellers": 10,
-      "bazaar": 98500000,
-      "lowest": 94000000
+      "sellers": 9,
+      "bazaar": 160000000,
+      "lowest": 100000000
     },
     "1033": {
       "name": "Dong : Holly",
@@ -6645,7 +6645,7 @@
     "1035": {
       "name": "Anniversary Present",
       "market": 0,
-      "sellers": 29,
+      "sellers": 28,
       "bazaar": 399999999,
       "lowest": 399999999
     },
@@ -6674,14 +6674,14 @@
       "name": "Bag of Humbugs",
       "market": 537152,
       "sellers": 59,
-      "bazaar": 531511,
-      "lowest": 520000
+      "bazaar": 532419,
+      "lowest": 526409
     },
     "1040": {
       "name": "Christmas Cracker",
       "market": 830206,
       "sellers": 83,
-      "bazaar": 902936,
+      "bazaar": 950302,
       "lowest": 850000
     },
     "1041": {
@@ -6692,79 +6692,79 @@
     "1042": {
       "name": "Concussion Grenade",
       "market": 3930000,
-      "sellers": 28,
-      "bazaar": 3973333,
-      "lowest": 3920000
+      "sellers": 30,
+      "bazaar": 3919999,
+      "lowest": 3919994
     },
     "1043": {
       "name": "Paper Crown : Green",
       "market": 807504,
-      "sellers": 37,
-      "bazaar": 900036,
-      "lowest": 799429
+      "sellers": 39,
+      "bazaar": 810522,
+      "lowest": 795000
     },
     "1044": {
       "name": "Paper Crown : Yellow",
       "market": 783631,
-      "sellers": 31,
-      "bazaar": 974978,
-      "lowest": 700000
+      "sellers": 34,
+      "bazaar": 892074,
+      "lowest": 610106
     },
     "1045": {
       "name": "Paper Crown : Red",
       "market": 741184,
-      "sellers": 24,
+      "sellers": 25,
       "bazaar": 958462,
       "lowest": 669485
     },
     "1046": {
       "name": "Paper Crown : Blue",
       "market": 671464,
-      "sellers": 37,
-      "bazaar": 990696,
-      "lowest": 900000
+      "sellers": 36,
+      "bazaar": 996546,
+      "lowest": 899994
     },
     "1047": {
       "name": "Denim Shirt",
       "market": 235590,
-      "sellers": 44,
+      "sellers": 45,
       "bazaar": 251296,
       "lowest": 250000
     },
     "1048": {
       "name": "Denim Vest",
       "market": 219547,
-      "sellers": 56,
-      "bazaar": 229221,
-      "lowest": 210000
+      "sellers": 59,
+      "bazaar": 205727,
+      "lowest": 200000
     },
     "1049": {
       "name": "Denim Jacket",
       "market": 214707,
-      "sellers": 54,
-      "bazaar": 208047,
+      "sellers": 56,
+      "bazaar": 205106,
       "lowest": 200000
     },
     "1050": {
       "name": "Denim Jeans",
       "market": 1299999,
       "sellers": 14,
-      "bazaar": 1713333,
+      "bazaar": 1742000,
       "lowest": 1570000
     },
     "1051": {
       "name": "Denim Shoes",
       "market": 196879,
-      "sellers": 49,
-      "bazaar": 320956,
-      "lowest": 300000
+      "sellers": 46,
+      "bazaar": 354000,
+      "lowest": 333999
     },
     "1052": {
       "name": "Denim Cap",
       "market": 218623,
-      "sellers": 43,
-      "bazaar": 233524,
-      "lowest": 218623
+      "sellers": 44,
+      "bazaar": 238165,
+      "lowest": 219000
     },
     "1053": {
       "name": "Bread Knife",
@@ -6792,9 +6792,9 @@
     "1057": {
       "name": "Gentleman Cache",
       "market": 2848637,
-      "sellers": 85,
-      "bazaar": 2943275,
-      "lowest": 2831134
+      "sellers": 84,
+      "bazaar": 2920427,
+      "lowest": 2831133
     },
     "1058": {
       "name": "Gold Chain",
@@ -6806,28 +6806,28 @@
     "1059": {
       "name": "Snapback Hat",
       "market": 1376759,
-      "sellers": 5,
-      "bazaar": 3200000,
+      "sellers": 4,
+      "bazaar": 7322839,
       "lowest": 4999999
     },
     "1060": {
       "name": "Saggy Pants",
       "market": 5541805,
-      "sellers": 18,
-      "bazaar": 5613935,
-      "lowest": 5300000
+      "sellers": 19,
+      "bazaar": 5347268,
+      "lowest": 5200000
     },
     "1061": {
       "name": "Oversized Shirt",
       "market": 443846,
-      "sellers": 28,
-      "bazaar": 397103,
-      "lowest": 370000
+      "sellers": 27,
+      "bazaar": 422828,
+      "lowest": 400000
     },
     "1062": {
       "name": "Basketball Shirt",
       "market": 370750,
-      "sellers": 41,
+      "sellers": 43,
       "bazaar": 371593,
       "lowest": 333000
     },
@@ -6856,27 +6856,27 @@
       "name": "Shutter Shades",
       "market": 2949990,
       "sellers": 30,
-      "bazaar": 3229629,
+      "bazaar": 3159721,
       "lowest": 2888888
     },
     "1067": {
       "name": "Silver Hoodie",
       "market": 1070998,
-      "sellers": 34,
-      "bazaar": 1055057,
-      "lowest": 900000
+      "sellers": 33,
+      "bazaar": 1106730,
+      "lowest": 989999
     },
     "1068": {
       "name": "Bucket Hat",
       "market": 252998,
-      "sellers": 20,
-      "bazaar": 284332,
+      "sellers": 19,
+      "bazaar": 295749,
       "lowest": 252998
     },
     "1069": {
       "name": "Puffer Jacket",
       "market": 1433767,
-      "sellers": 28,
+      "sellers": 26,
       "bazaar": 1382888,
       "lowest": 1350000
     },
@@ -6891,134 +6891,134 @@
       "name": "Onesie",
       "market": 0,
       "sellers": 2,
-      "bazaar": 54999900,
-      "lowest": 54999900
+      "bazaar": 47499950,
+      "lowest": 40000000
     },
     "1072": {
       "name": "Baseball Jacket",
       "market": 379827,
-      "sellers": 43,
-      "bazaar": 377930,
-      "lowest": 374999
+      "sellers": 44,
+      "bazaar": 361930,
+      "lowest": 300000
     },
     "1073": {
       "name": "Braces",
       "market": 899990,
-      "sellers": 18,
+      "sellers": 19,
       "bazaar": 1040737,
       "lowest": 899989
     },
     "1074": {
       "name": "Panama Hat",
       "market": 526667,
-      "sellers": 29,
-      "bazaar": 523333,
+      "sellers": 27,
+      "bazaar": 525333,
       "lowest": 520000
     },
     "1075": {
       "name": "Pipe",
       "market": 0,
       "sellers": 7,
-      "bazaar": 62500000,
-      "lowest": 60000000
+      "bazaar": 60833333,
+      "lowest": 55000000
     },
     "1076": {
       "name": "Shoulder Sweater",
       "market": 0,
-      "sellers": 14,
-      "bazaar": 2937499,
+      "sellers": 13,
+      "bazaar": 2916665,
       "lowest": 2750000
     },
     "1077": {
       "name": "Sports Jacket",
       "market": 1500000,
-      "sellers": 22,
-      "bazaar": 2180000,
-      "lowest": 2099999
+      "sellers": 25,
+      "bazaar": 2166665,
+      "lowest": 900000
     },
     "1078": {
       "name": "Old Wallet",
       "market": 4148,
-      "sellers": 474,
-      "bazaar": 4337,
-      "lowest": 3000
+      "sellers": 434,
+      "bazaar": 5058,
+      "lowest": 5004
     },
     "1079": {
       "name": "Cardholder",
       "market": 7050,
-      "sellers": 247,
-      "bazaar": 6963,
-      "lowest": 6909
+      "sellers": 224,
+      "bazaar": 7440,
+      "lowest": 7000
     },
     "1080": {
       "name": "Billfold",
       "market": 34070,
-      "sellers": 457,
-      "bazaar": 35017,
-      "lowest": 30000
+      "sellers": 418,
+      "bazaar": 35515,
+      "lowest": 33499
     },
     "1081": {
       "name": "Coin Purse",
       "market": 3007,
-      "sellers": 253,
-      "bazaar": 3024,
-      "lowest": 1500
+      "sellers": 248,
+      "bazaar": 3455,
+      "lowest": 2900
     },
     "1082": {
       "name": "Zip Wallet",
       "market": 6043,
-      "sellers": 441,
-      "bazaar": 6446,
+      "sellers": 444,
+      "bazaar": 6785,
       "lowest": 6250
     },
     "1083": {
       "name": "Clutch",
       "market": 5651,
-      "sellers": 499,
-      "bazaar": 6014,
-      "lowest": 5000
+      "sellers": 494,
+      "bazaar": 6185,
+      "lowest": 5800
     },
     "1084": {
       "name": "Credit Card",
       "market": 354,
-      "sellers": 497,
-      "bazaar": 354,
+      "sellers": 502,
+      "bazaar": 355,
       "lowest": 2
     },
     "1085": {
       "name": "Lipstick",
       "market": 203,
-      "sellers": 310,
-      "bazaar": 186,
-      "lowest": 195
+      "sellers": 297,
+      "bazaar": 191,
+      "lowest": 100
     },
     "1086": {
       "name": "Driver's License",
       "market": 4840,
-      "sellers": 398,
-      "bazaar": 4959,
-      "lowest": 4800
+      "sellers": 405,
+      "bazaar": 5000,
+      "lowest": 4999
     },
     "1087": {
       "name": "Tampon",
       "market": 1031,
-      "sellers": 324,
-      "bazaar": 1139,
-      "lowest": 850
+      "sellers": 315,
+      "bazaar": 1645,
+      "lowest": 980
     },
     "1088": {
       "name": "Receipt",
       "market": 222,
-      "sellers": 238,
-      "bazaar": 267,
-      "lowest": 200
+      "sellers": 197,
+      "bazaar": 748,
+      "lowest": 723
     },
     "1089": {
       "name": "Family Photo",
       "market": 765,
       "sellers": 347,
-      "bazaar": 759,
-      "lowest": 750
+      "bazaar": 756,
+      "lowest": 700
     },
     "1090": {
       "name": "Lint",
@@ -7030,64 +7030,64 @@
     "1091": {
       "name": "Handcuffs",
       "market": 21637,
-      "sellers": 98,
-      "bazaar": 23886,
-      "lowest": 21636
+      "sellers": 89,
+      "bazaar": 25867,
+      "lowest": 24320
     },
     "1092": {
       "name": "Lubricant",
       "market": 4041,
-      "sellers": 347,
-      "bazaar": 3751,
-      "lowest": 1669
+      "sellers": 342,
+      "bazaar": 3841,
+      "lowest": 3745
     },
     "1093": {
       "name": "Hit Contract",
       "market": 8375,
-      "sellers": 170,
-      "bazaar": 8321,
-      "lowest": 8000
+      "sellers": 159,
+      "bazaar": 12110,
+      "lowest": 8350
     },
     "1094": {
       "name": "Syringe",
       "market": 512,
-      "sellers": 560,
+      "sellers": 542,
       "bazaar": 496,
-      "lowest": 449
+      "lowest": 400
     },
     "1095": {
       "name": "Spoon",
       "market": 2721,
-      "sellers": 148,
-      "bazaar": 2669,
-      "lowest": 2499
+      "sellers": 132,
+      "bazaar": 3512,
+      "lowest": 2300
     },
     "1096": {
       "name": "Cell Phone",
       "market": 344,
-      "sellers": 332,
-      "bazaar": 338,
-      "lowest": 300
+      "sellers": 338,
+      "bazaar": 326,
+      "lowest": 150
     },
     "1097": {
       "name": "Assless Chaps",
       "market": 888679,
-      "sellers": 30,
-      "bazaar": 966666,
-      "lowest": 890000
+      "sellers": 32,
+      "bazaar": 1001998,
+      "lowest": 999995
     },
     "1098": {
       "name": "Opera Gloves",
       "market": 0,
-      "sellers": 21,
-      "bazaar": 4100000,
-      "lowest": 3500000
+      "sellers": 19,
+      "bazaar": 4661664,
+      "lowest": 4000000
     },
     "1099": {
       "name": "Booty Shorts",
       "market": 2826999,
-      "sellers": 27,
-      "bazaar": 2681750,
+      "sellers": 28,
+      "bazaar": 2659998,
       "lowest": 2499999
     },
     "1100": {
@@ -7100,15 +7100,15 @@
     "1101": {
       "name": "Ball Gag",
       "market": 0,
-      "sellers": 13,
+      "sellers": 12,
       "bazaar": 54750000,
       "lowest": 50000000
     },
     "1102": {
       "name": "Blindfold",
       "market": 0,
-      "sellers": 22,
-      "bazaar": 3823333,
+      "sellers": 21,
+      "bazaar": 3833333,
       "lowest": 3000000
     },
     "1103": {
@@ -7121,7 +7121,7 @@
     "1104": {
       "name": "Maid Hat",
       "market": 815000,
-      "sellers": 35,
+      "sellers": 34,
       "bazaar": 785925,
       "lowest": 715000
     },
@@ -7135,9 +7135,9 @@
     "1106": {
       "name": "Fascinator Hat",
       "market": 6624998,
-      "sellers": 13,
-      "bazaar": 7500000,
-      "lowest": 7500000
+      "sellers": 12,
+      "bazaar": 9833333,
+      "lowest": 9500000
     },
     "1107": {
       "name": "Wedding Dress",
@@ -7156,7 +7156,7 @@
     "1109": {
       "name": "Head Scarf",
       "market": 377000,
-      "sellers": 28,
+      "sellers": 27,
       "bazaar": 381333,
       "lowest": 377000
     },
@@ -7164,133 +7164,133 @@
       "name": "Nightgown",
       "market": 13899500,
       "sellers": 4,
-      "bazaar": 18849500,
+      "bazaar": 18349500,
       "lowest": 17698999
     },
     "1111": {
       "name": "Pullover",
       "market": 226893,
       "sellers": 48,
-      "bazaar": 217520,
+      "bazaar": 212295,
       "lowest": 200000
     },
     "1112": {
       "name": "Elegant Cache",
       "market": 3687525,
-      "sellers": 104,
-      "bazaar": 3612319,
+      "sellers": 109,
+      "bazaar": 3523793,
       "lowest": 3500000
     },
     "1113": {
       "name": "Naughty Cache",
       "market": 5723288,
-      "sellers": 117,
-      "bazaar": 5753161,
-      "lowest": 5500000
+      "sellers": 115,
+      "bazaar": 5819010,
+      "lowest": 5780521
     },
     "1114": {
       "name": "Elderly Cache",
       "market": 1319028,
-      "sellers": 134,
-      "bazaar": 1288349,
-      "lowest": 1250000
+      "sellers": 131,
+      "bazaar": 1297678,
+      "lowest": 1292647
     },
     "1115": {
       "name": "Denim Cache",
       "market": 735379,
-      "sellers": 157,
-      "bazaar": 727789,
-      "lowest": 707835
+      "sellers": 159,
+      "bazaar": 722246,
+      "lowest": 707828
     },
     "1116": {
       "name": "Wannabe Cache",
       "market": 4227131,
-      "sellers": 84,
-      "bazaar": 4204918,
+      "sellers": 85,
+      "bazaar": 4156783,
       "lowest": 4000000
     },
     "1117": {
       "name": "Cutesy Cache",
       "market": 3206916,
-      "sellers": 88,
-      "bazaar": 3206333,
-      "lowest": 2999999
+      "sellers": 87,
+      "bazaar": 3106973,
+      "lowest": 2750000
     },
     "1118": {
       "name": "Armor Cache",
       "market": 325549999,
-      "sellers": 16,
-      "bazaar": 321999999,
-      "lowest": 321999999
+      "sellers": 13,
+      "bazaar": 321989996,
+      "lowest": 321989994
     },
     "1119": {
       "name": "Melee Cache",
       "market": 155424449,
-      "sellers": 9,
+      "sellers": 5,
       "bazaar": 153399999,
-      "lowest": 153399999
+      "lowest": 153399998
     },
     "1120": {
       "name": "Small Arms Cache",
       "market": 119622645,
-      "sellers": 10,
-      "bazaar": 120045453,
-      "lowest": 119499999
+      "sellers": 6,
+      "bazaar": 119147222,
+      "lowest": 119122222
     },
     "1121": {
       "name": "Medium Arms Cache",
       "market": 212187496,
-      "sellers": 16,
-      "bazaar": 209999999,
-      "lowest": 209999999
+      "sellers": 14,
+      "bazaar": 209989997,
+      "lowest": 209989997
     },
     "1122": {
       "name": "Heavy Arms Cache",
       "market": 393400000,
-      "sellers": 7,
-      "bazaar": 399999750,
-      "lowest": 399999000
+      "sellers": 6,
+      "bazaar": 399998333,
+      "lowest": 399998000
     },
     "1123": {
       "name": "Spy Camera",
       "market": 550,
-      "sellers": 461,
-      "bazaar": 548,
-      "lowest": 540
+      "sellers": 465,
+      "bazaar": 536,
+      "lowest": 499
     },
     "1124": {
       "name": "Card Programmer",
       "market": 108807,
-      "sellers": 146,
-      "bazaar": 106776,
-      "lowest": 100000
+      "sellers": 143,
+      "bazaar": 107596,
+      "lowest": 106432
     },
     "1125": {
       "name": "Card Skimmer",
       "market": 2679,
-      "sellers": 384,
-      "bazaar": 2655,
-      "lowest": 2500
+      "sellers": 372,
+      "bazaar": 2660,
+      "lowest": 2600
     },
     "1126": {
       "name": "Tutu",
       "market": 0,
-      "sellers": 19,
+      "sellers": 20,
       "bazaar": 3933333,
       "lowest": 3800000
     },
     "1127": {
       "name": "Knee Socks",
       "market": 270000,
-      "sellers": 45,
-      "bazaar": 264403,
+      "sellers": 46,
+      "bazaar": 265062,
       "lowest": 250000
     },
     "1128": {
       "name": "Kitty Shoes",
       "market": 7069420,
-      "sellers": 12,
-      "bazaar": 7400000,
+      "sellers": 11,
+      "bazaar": 8866667,
       "lowest": 7400000
     },
     "1129": {
@@ -7304,13 +7304,13 @@
       "name": "Bunny Ears",
       "market": 1500000,
       "sellers": 31,
-      "bazaar": 1874448,
+      "bazaar": 1878707,
       "lowest": 1750000
     },
     "1131": {
       "name": "Puppy Ears",
       "market": 1348622,
-      "sellers": 27,
+      "sellers": 28,
       "bazaar": 1389724,
       "lowest": 1348621
     },
@@ -7318,22 +7318,22 @@
       "name": "Heart Sunglasses",
       "market": 0,
       "sellers": 5,
-      "bazaar": 59666656,
-      "lowest": 50000000
+      "bazaar": 56333323,
+      "lowest": 45000000
     },
     "1133": {
       "name": "Hair Bow",
       "market": 512500,
-      "sellers": 29,
-      "bazaar": 550833,
+      "sellers": 31,
+      "bazaar": 538125,
       "lowest": 500000
     },
     "1134": {
       "name": "Lolita Dress",
       "market": 1933333,
-      "sellers": 16,
-      "bazaar": 2291767,
-      "lowest": 2275300
+      "sellers": 18,
+      "bazaar": 2215229,
+      "lowest": 2166950
     },
     "1135": {
       "name": "Unicorn Horn",
@@ -7345,9 +7345,9 @@
     "1136": {
       "name": "Check Skirt",
       "market": 199926,
-      "sellers": 45,
-      "bazaar": 214585,
-      "lowest": 199925
+      "sellers": 46,
+      "bazaar": 226186,
+      "lowest": 205000
     },
     "1137": {
       "name": "Polka Dot Dress",
@@ -7359,22 +7359,22 @@
     "1138": {
       "name": "Ballet Shoes",
       "market": 348250,
-      "sellers": 38,
-      "bazaar": 403531,
-      "lowest": 340000
+      "sellers": 36,
+      "bazaar": 440750,
+      "lowest": 348250
     },
     "1139": {
       "name": "Dungarees",
       "market": 0,
       "sellers": 26,
-      "bazaar": 201633,
-      "lowest": 199900
+      "bazaar": 212143,
+      "lowest": 200000
     },
     "1140": {
       "name": "Tights",
       "market": 257000,
-      "sellers": 27,
-      "bazaar": 215725,
+      "sellers": 28,
+      "bazaar": 214999,
       "lowest": 200000
     },
     "1141": {
@@ -7393,29 +7393,29 @@
     "1143": {
       "name": "Disposable Mask",
       "market": 356,
-      "sellers": 395,
-      "bazaar": 350,
-      "lowest": 299
+      "sellers": 388,
+      "bazaar": 337,
+      "lowest": 300
     },
     "1144": {
       "name": "Chin Diaper",
       "market": 0,
-      "sellers": 12,
-      "bazaar": 15000000,
+      "sellers": 11,
+      "bazaar": 19450000,
       "lowest": 15000000
     },
     "1145": {
       "name": "Tighty Whities",
       "market": 305883,
-      "sellers": 55,
-      "bazaar": 359603,
-      "lowest": 349665
+      "sellers": 57,
+      "bazaar": 347818,
+      "lowest": 340000
     },
     "1146": {
       "name": "Tangerine",
       "market": 129787,
-      "sellers": 106,
-      "bazaar": 128292,
+      "sellers": 107,
+      "bazaar": 127936,
       "lowest": 125000
     },
     "1147": {
@@ -7426,9 +7426,9 @@
     "1148": {
       "name": "Broken Bauble",
       "market": 41076,
-      "sellers": 111,
-      "bazaar": 46525,
-      "lowest": 42999
+      "sellers": 110,
+      "bazaar": 48091,
+      "lowest": 43000
     },
     "1149": {
       "name": "Purple Easter Egg",
@@ -7452,56 +7452,56 @@
     "1152": {
       "name": "SMAW Launcher",
       "market": 10000000,
-      "sellers": 15,
-      "bazaar": 10666667,
+      "sellers": 14,
+      "bazaar": 10916667,
       "lowest": 10500000
     },
     "1153": {
       "name": "China Lake",
       "market": 9369964,
-      "sellers": 20,
-      "bazaar": 9331292,
-      "lowest": 9300000
+      "sellers": 24,
+      "bazaar": 9299999,
+      "lowest": 9299999
     },
     "1154": {
       "name": "Milkor MGL",
       "market": 14000000,
-      "sellers": 20,
-      "bazaar": 14388183,
+      "sellers": 18,
+      "bazaar": 14518588,
       "lowest": 14000000
     },
     "1155": {
       "name": "PKM",
       "market": 10939986,
-      "sellers": 18,
-      "bazaar": 10433333,
-      "lowest": 10400000
+      "sellers": 19,
+      "bazaar": 10399998,
+      "lowest": 10399996
     },
     "1156": {
       "name": "Negev NG-5",
       "market": 17246666,
-      "sellers": 13,
-      "bazaar": 11833333,
-      "lowest": 10500000
+      "sellers": 14,
+      "bazaar": 10499996,
+      "lowest": 10499996
     },
     "1157": {
       "name": "Stoner 96",
       "market": 8925000,
       "sellers": 9,
-      "bazaar": 8924466,
-      "lowest": 8899262
+      "bazaar": 8989335,
+      "lowest": 8925000
     },
     "1158": {
       "name": "Meat Hook",
       "market": 21750000,
-      "sellers": 41,
-      "bazaar": 23000000,
-      "lowest": 20000000
+      "sellers": 39,
+      "bazaar": 25311111,
+      "lowest": 24999999
     },
     "1159": {
       "name": "Cleaver",
       "market": 25780000,
-      "sellers": 56,
+      "sellers": 53,
       "bazaar": 28464286,
       "lowest": 26250000
     },
@@ -7581,9 +7581,9 @@
     "1178": {
       "name": "Party Popper",
       "market": 198892,
-      "sellers": 106,
-      "bazaar": 196428,
-      "lowest": 190666
+      "sellers": 108,
+      "bazaar": 193730,
+      "lowest": 175000
     },
     "1179": {
       "name": "Eye Bleach",
@@ -7607,7 +7607,7 @@
     "1182": {
       "name": "Head Bandage",
       "market": 3991719,
-      "sellers": 23,
+      "sellers": 24,
       "bazaar": 5666666,
       "lowest": 5000000
     },
@@ -7615,85 +7615,85 @@
       "name": "Medical Eye Patch",
       "market": 1000000,
       "sellers": 23,
-      "bazaar": 1174999,
+      "bazaar": 1240000,
       "lowest": 999999
     },
     "1184": {
       "name": "Knee Brace",
       "market": 298500,
-      "sellers": 36,
-      "bazaar": 351699,
+      "sellers": 33,
+      "bazaar": 371900,
       "lowest": 298500
     },
     "1185": {
       "name": "Band-Aids",
       "market": 2710598,
-      "sellers": 12,
-      "bazaar": 2999995,
-      "lowest": 2999992
+      "sellers": 14,
+      "bazaar": 2994998,
+      "lowest": 2990000
     },
     "1186": {
       "name": "Torso Bandage",
       "market": 3626238,
-      "sellers": 16,
-      "bazaar": 4257035,
-      "lowest": 3996663
+      "sellers": 15,
+      "bazaar": 4524814,
+      "lowest": 3996665
     },
     "1187": {
       "name": "Prosthetic Arm",
       "market": 41000000,
       "sellers": 10,
-      "bazaar": 46966667,
-      "lowest": 40000000
+      "bazaar": 45300000,
+      "lowest": 35000000
     },
     "1188": {
       "name": "Prosthetic Leg",
       "market": 52999990,
-      "sellers": 5,
-      "bazaar": 49999999,
-      "lowest": 49999998
+      "sellers": 6,
+      "bazaar": 45000000,
+      "lowest": 45000000
     },
     "1189": {
       "name": "Formaldehyde",
       "market": 2536,
-      "sellers": 141,
-      "bazaar": 2491,
+      "sellers": 142,
+      "bazaar": 2488,
       "lowest": 2449
     },
     "1190": {
       "name": "Hook Hand",
       "market": 110000000,
       "sellers": 5,
-      "bazaar": 126666667,
-      "lowest": 100000000
+      "bazaar": 123333333,
+      "lowest": 90000000
     },
     "1191": {
       "name": "Plaster Cast Leg",
       "market": 685170,
       "sellers": 23,
-      "bazaar": 669441,
+      "bazaar": 669439,
       "lowest": 650000
     },
     "1192": {
       "name": "Plaster Cast Arm",
       "market": 709980,
       "sellers": 31,
-      "bazaar": 702497,
-      "lowest": 700000
+      "bazaar": 702496,
+      "lowest": 699996
     },
     "1193": {
       "name": "Neck Brace",
       "market": 490082,
-      "sellers": 34,
-      "bazaar": 465225,
-      "lowest": 450448
+      "sellers": 35,
+      "bazaar": 465113,
+      "lowest": 450000
     },
     "1194": {
       "name": "Halo Vest",
       "market": 2800000,
-      "sellers": 19,
-      "bazaar": 2797999,
-      "lowest": 2797998
+      "sellers": 18,
+      "bazaar": 2799000,
+      "lowest": 2797999
     },
     "1195": {
       "name": "Crutches",
@@ -7705,191 +7705,191 @@
     "1196": {
       "name": "Medical Diaper",
       "market": 717873,
-      "sellers": 29,
-      "bazaar": 713218,
+      "sellers": 28,
+      "bazaar": 697624,
       "lowest": 615000
     },
     "1197": {
       "name": "Hospital Gown",
       "market": 529999,
-      "sellers": 35,
-      "bazaar": 529667,
-      "lowest": 528999
+      "sellers": 34,
+      "bazaar": 529666,
+      "lowest": 528996
     },
     "1198": {
       "name": "Sticky Notes",
       "market": 17720,
-      "sellers": 96,
-      "bazaar": 17519,
+      "sellers": 101,
+      "bazaar": 17390,
       "lowest": 17000
     },
     "1199": {
       "name": "Casket",
       "market": 53995,
       "sellers": 159,
-      "bazaar": 52405,
-      "lowest": 51999
+      "bazaar": 52270,
+      "lowest": 50000
     },
     "1200": {
       "name": "Nitrous Tank",
       "market": 23240,
-      "sellers": 123,
-      "bazaar": 22738,
-      "lowest": 22499
+      "sellers": 126,
+      "bazaar": 22785,
+      "lowest": 22498
     },
     "1201": {
       "name": "Rope",
       "market": 599,
-      "sellers": 221,
-      "bazaar": 514,
+      "sellers": 201,
+      "bazaar": 588,
       "lowest": 500
     },
     "1202": {
       "name": "Window Breaker",
       "market": 202406,
-      "sellers": 328,
-      "bazaar": 198771,
-      "lowest": 195798
+      "sellers": 326,
+      "bazaar": 199620,
+      "lowest": 198358
     },
     "1203": {
       "name": "Lockpicks",
       "market": 49751,
-      "sellers": 399,
-      "bazaar": 49843,
+      "sellers": 396,
+      "bazaar": 49916,
       "lowest": 49000
     },
     "1204": {
       "name": "Skeleton Key",
       "market": 79543,
-      "sellers": 256,
+      "sellers": 255,
       "bazaar": 80000,
-      "lowest": 80000
+      "lowest": 79999
     },
     "1205": {
       "name": "Wrench",
       "market": 442,
-      "sellers": 247,
-      "bazaar": 437,
-      "lowest": 422
+      "sellers": 268,
+      "bazaar": 415,
+      "lowest": 398
     },
     "1206": {
       "name": "Truck Nuts",
       "market": 1049998,
-      "sellers": 51,
-      "bazaar": 1291587,
-      "lowest": 1133998
+      "sellers": 54,
+      "bazaar": 1187831,
+      "lowest": 1133995
     },
     "1207": {
       "name": "Thimble",
       "market": 2533488,
-      "sellers": 48,
-      "bazaar": 2433276,
-      "lowest": 2432330
+      "sellers": 46,
+      "bazaar": 2443411,
+      "lowest": 2432431
     },
     "1208": {
       "name": "Beach Ball",
       "market": 969,
-      "sellers": 195,
-      "bazaar": 927,
-      "lowest": 850
+      "sellers": 159,
+      "bazaar": 994,
+      "lowest": 909
     },
     "1209": {
       "name": "Hunting Trophy",
       "market": 64546,
-      "sellers": 65,
-      "bazaar": 63477,
-      "lowest": 63000
+      "sellers": 67,
+      "bazaar": 63004,
+      "lowest": 60996
     },
     "1210": {
       "name": "Hoe",
       "market": 12970,
-      "sellers": 214,
-      "bazaar": 12026,
-      "lowest": 8999
+      "sellers": 207,
+      "bazaar": 12581,
+      "lowest": 12000
     },
     "1211": {
       "name": "Fishing Rod",
       "market": 7913,
-      "sellers": 158,
-      "bazaar": 8179,
-      "lowest": 7794
+      "sellers": 162,
+      "bazaar": 8140,
+      "lowest": 7910
     },
     "1212": {
       "name": "Bleach",
       "market": 24836,
-      "sellers": 126,
-      "bazaar": 24366,
-      "lowest": 23500
+      "sellers": 120,
+      "bazaar": 27156,
+      "lowest": 24776
     },
     "1213": {
       "name": "Lye",
       "market": 20638,
-      "sellers": 60,
-      "bazaar": 34038,
-      "lowest": 20600
+      "sellers": 58,
+      "bazaar": 34657,
+      "lowest": 20432
     },
     "1214": {
       "name": "Towel",
       "market": 252,
-      "sellers": 252,
+      "sellers": 240,
       "bazaar": 244,
-      "lowest": 150
+      "lowest": 200
     },
     "1215": {
       "name": "Scissors",
       "market": 2466,
-      "sellers": 452,
-      "bazaar": 2393,
-      "lowest": 2255
+      "sellers": 451,
+      "bazaar": 2404,
+      "lowest": 2199
     },
     "1216": {
       "name": "Clippers",
       "market": 1384,
-      "sellers": 130,
-      "bazaar": 1335,
-      "lowest": 1299
+      "sellers": 129,
+      "bazaar": 1320,
+      "lowest": 1100
     },
     "1217": {
       "name": "Shaving Foam",
       "market": 327,
-      "sellers": 217,
-      "bazaar": 316,
-      "lowest": 300
+      "sellers": 216,
+      "bazaar": 319,
+      "lowest": 317
     },
     "1219": {
       "name": "Oxygen Tank",
       "market": 24213,
-      "sellers": 398,
-      "bazaar": 24101,
+      "sellers": 392,
+      "bazaar": 24167,
       "lowest": 22978
     },
     "1220": {
       "name": "Massage Oil",
       "market": 1701,
-      "sellers": 156,
-      "bazaar": 1696,
-      "lowest": 1650
+      "sellers": 157,
+      "bazaar": 1678,
+      "lowest": 1560
     },
     "1221": {
       "name": "Jigsaw Puzzle",
       "market": 9230,
-      "sellers": 222,
-      "bazaar": 9161,
-      "lowest": 8500
+      "sellers": 221,
+      "bazaar": 9049,
+      "lowest": 8996
     },
     "1222": {
       "name": "Picture Frame",
       "market": 2152,
-      "sellers": 79,
-      "bazaar": 3188,
-      "lowest": 2086
+      "sellers": 77,
+      "bazaar": 3722,
+      "lowest": 2150
     },
     "1223": {
       "name": "Cigar Cutter",
       "market": 35067,
-      "sellers": 57,
-      "bazaar": 37221,
-      "lowest": 40000
+      "sellers": 51,
+      "bazaar": 41744,
+      "lowest": 40987
     },
     "1224": {
       "name": "Ash Tray",
@@ -7899,317 +7899,317 @@
     "1225": {
       "name": "Bowling Trophy",
       "market": 485954,
-      "sellers": 79,
-      "bazaar": 480652,
-      "lowest": 475000
+      "sellers": 80,
+      "bazaar": 476625,
+      "lowest": 460000
     },
     "1226": {
       "name": "Fertilizer",
       "market": 2972,
-      "sellers": 204,
-      "bazaar": 2903,
-      "lowest": 2800
+      "sellers": 205,
+      "bazaar": 3904,
+      "lowest": 2900
     },
     "1227": {
       "name": "Igniter Cord",
       "market": 3833,
-      "sellers": 236,
-      "bazaar": 3774,
+      "sellers": 239,
+      "bazaar": 3806,
       "lowest": 3700
     },
     "1228": {
       "name": "Bond Paper",
       "market": 313,
-      "sellers": 237,
-      "bazaar": 595,
-      "lowest": 305
+      "sellers": 238,
+      "bazaar": 598,
+      "lowest": 300
     },
     "1230": {
       "name": "Remote Detonator",
       "market": 3008,
-      "sellers": 282,
-      "bazaar": 2954,
-      "lowest": 2730
+      "sellers": 289,
+      "bazaar": 2949,
+      "lowest": 2700
     },
     "1231": {
       "name": "Golf Club",
       "market": 1647,
       "sellers": 345,
-      "bazaar": 2130,
-      "lowest": 1647
+      "bazaar": 2146,
+      "lowest": 2000
     },
     "1232": {
       "name": "Garden Gnome",
       "market": 9464,
-      "sellers": 136,
-      "bazaar": 12133,
-      "lowest": 9300
+      "sellers": 134,
+      "bazaar": 13569,
+      "lowest": 9000
     },
     "1233": {
       "name": "Wheelbarrow",
       "market": 558,
-      "sellers": 362,
-      "bazaar": 581,
-      "lowest": 509
+      "sellers": 370,
+      "bazaar": 566,
+      "lowest": 520
     },
     "1234": {
       "name": "Shovel",
       "market": 316,
-      "sellers": 311,
-      "bazaar": 310,
-      "lowest": 279
+      "sellers": 308,
+      "bazaar": 338,
+      "lowest": 300
     },
     "1235": {
       "name": "Blanket",
       "market": 9429,
-      "sellers": 552,
-      "bazaar": 9426,
+      "sellers": 550,
+      "bazaar": 9365,
       "lowest": 9000
     },
     "1236": {
       "name": "Crockpot",
       "market": 14112,
-      "sellers": 141,
-      "bazaar": 19273,
-      "lowest": 13000
+      "sellers": 136,
+      "bazaar": 20585,
+      "lowest": 20000
     },
     "1237": {
       "name": "Plunger",
       "market": 9155,
-      "sellers": 92,
-      "bazaar": 9721,
+      "sellers": 96,
+      "bazaar": 9178,
       "lowest": 8999
     },
     "1238": {
       "name": "Silver Cutlery Set",
       "market": 7985,
       "sellers": 115,
-      "bazaar": 7962,
-      "lowest": 7800
+      "bazaar": 7871,
+      "lowest": 7250
     },
     "1239": {
       "name": "Stash Box",
       "market": 50069,
-      "sellers": 416,
-      "bazaar": 49625,
-      "lowest": 48498
+      "sellers": 415,
+      "bazaar": 49941,
+      "lowest": 49068
     },
     "1240": {
       "name": "Perfume",
       "market": 1805,
-      "sellers": 275,
-      "bazaar": 1898,
+      "sellers": 274,
+      "bazaar": 1936,
       "lowest": 1700
     },
     "1241": {
       "name": "Croquet Set",
       "market": 12178,
-      "sellers": 125,
-      "bazaar": 11856,
-      "lowest": 11800
+      "sellers": 127,
+      "bazaar": 11805,
+      "lowest": 11000
     },
     "1242": {
       "name": "Horseshoe",
       "market": 1322,
-      "sellers": 188,
-      "bazaar": 1232,
-      "lowest": 1200
+      "sellers": 191,
+      "bazaar": 1309,
+      "lowest": 1199
     },
     "1243": {
       "name": "Persian Rug",
       "market": 102185,
-      "sellers": 65,
-      "bazaar": 105655,
+      "sellers": 67,
+      "bazaar": 103186,
       "lowest": 101163
     },
     "1244": {
       "name": "Typewriter",
       "market": 10961,
       "sellers": 256,
-      "bazaar": 10812,
-      "lowest": 10500
+      "bazaar": 10699,
+      "lowest": 10494
     },
     "1245": {
       "name": "Chandelier",
       "market": 725925,
       "sellers": 44,
-      "bazaar": 655920,
+      "bazaar": 716550,
       "lowest": 647000
     },
     "1246": {
       "name": "Inkwell",
       "market": 11067,
-      "sellers": 206,
-      "bazaar": 10623,
-      "lowest": 9750
+      "sellers": 205,
+      "bazaar": 10689,
+      "lowest": 9977
     },
     "1247": {
       "name": "Bull Semen",
       "market": 763903,
-      "sellers": 77,
-      "bazaar": 793228,
-      "lowest": 750000
+      "sellers": 72,
+      "bazaar": 802672,
+      "lowest": 764759
     },
     "1248": {
       "name": "Ammonia",
       "market": 2207,
-      "sellers": 249,
-      "bazaar": 2362,
-      "lowest": 2185
+      "sellers": 254,
+      "bazaar": 2193,
+      "lowest": 1900
     },
     "1249": {
       "name": "Hydrochloric Acid",
       "market": 98912,
-      "sellers": 116,
-      "bazaar": 118717,
-      "lowest": 90000
+      "sellers": 118,
+      "bazaar": 111559,
+      "lowest": 109995
     },
     "1250": {
       "name": "Anchor",
       "market": 260775,
-      "sellers": 108,
-      "bazaar": 256673,
-      "lowest": 254284
+      "sellers": 101,
+      "bazaar": 261137,
+      "lowest": 259577
     },
     "1251": {
       "name": "Boat Engine",
       "market": 74892,
-      "sellers": 161,
-      "bazaar": 75409,
-      "lowest": 73000
+      "sellers": 164,
+      "bazaar": 75570,
+      "lowest": 75000
     },
     "1252": {
       "name": "Brass Ingot",
       "market": 13100,
-      "sellers": 133,
-      "bazaar": 15000,
-      "lowest": 14999
+      "sellers": 136,
+      "bazaar": 14994,
+      "lowest": 13000
     },
     "1253": {
       "name": "Tractor Part",
       "market": 6262,
-      "sellers": 104,
-      "bazaar": 6554,
-      "lowest": 6259
+      "sellers": 105,
+      "bazaar": 6489,
+      "lowest": 6263
     },
     "1254": {
       "name": "Tire",
       "market": 752,
-      "sellers": 125,
-      "bazaar": 907,
-      "lowest": 742
+      "sellers": 126,
+      "bazaar": 947,
+      "lowest": 723
     },
     "1255": {
       "name": "Bone Saw",
       "market": 1245,
-      "sellers": 255,
-      "bazaar": 1534,
-      "lowest": 666
+      "sellers": 258,
+      "bazaar": 1495,
+      "lowest": 1195
     },
     "1256": {
       "name": "Machine Part",
       "market": 3853,
-      "sellers": 124,
-      "bazaar": 4000,
-      "lowest": 3997
+      "sellers": 126,
+      "bazaar": 3981,
+      "lowest": 3800
     },
     "1257": {
       "name": "Cattle Prod",
       "market": 14291,
-      "sellers": 232,
-      "bazaar": 14093,
-      "lowest": 13764
+      "sellers": 226,
+      "bazaar": 14214,
+      "lowest": 14000
     },
     "1258": {
       "name": "Binoculars",
       "market": 2008,
-      "sellers": 473,
-      "bazaar": 1994,
-      "lowest": 1900
+      "sellers": 476,
+      "bazaar": 1998,
+      "lowest": 1890
     },
     "1259": {
       "name": "Razor Wire",
       "market": 13565,
       "sellers": 247,
-      "bazaar": 13510,
-      "lowest": 13350
+      "bazaar": 13431,
+      "lowest": 13000
     },
     "1260": {
       "name": "Stamp Collection",
       "market": 64727,
-      "sellers": 84,
-      "bazaar": 63792,
-      "lowest": 60000
+      "sellers": 82,
+      "bazaar": 64464,
+      "lowest": 64000
     },
     "1261": {
       "name": "Bucket",
       "market": 1713,
       "sellers": 417,
-      "bazaar": 1647,
+      "bazaar": 1662,
       "lowest": 1500
     },
     "1262": {
       "name": "Urea",
       "market": 5425,
-      "sellers": 154,
-      "bazaar": 5752,
+      "sellers": 156,
+      "bazaar": 5591,
       "lowest": 5250
     },
     "1263": {
       "name": "Phosphorus",
       "market": 13344,
-      "sellers": 181,
-      "bazaar": 16271,
+      "sellers": 184,
+      "bazaar": 17330,
       "lowest": 16500
     },
     "1264": {
       "name": "Potassium Nitrate",
       "market": 49114,
-      "sellers": 542,
-      "bazaar": 48747,
-      "lowest": 46000
+      "sellers": 555,
+      "bazaar": 48227,
+      "lowest": 47499
     },
     "1265": {
       "name": "Grain",
       "market": 4018,
-      "sellers": 161,
-      "bazaar": 3961,
-      "lowest": 3777
+      "sellers": 170,
+      "bazaar": 3918,
+      "lowest": 3794
     },
     "1266": {
       "name": "Shampoo",
       "market": 307,
-      "sellers": 206,
-      "bazaar": 306,
+      "sellers": 198,
+      "bazaar": 307,
       "lowest": 300
     },
     "1267": {
       "name": "Detergent",
       "market": 2948,
-      "sellers": 106,
-      "bazaar": 2909,
-      "lowest": 2859
+      "sellers": 111,
+      "bazaar": 2837,
+      "lowest": 2799
     },
     "1268": {
       "name": "Vitamins",
       "market": 415,
-      "sellers": 204,
-      "bazaar": 375,
-      "lowest": 390
+      "sellers": 200,
+      "bazaar": 408,
+      "lowest": 380
     },
     "1269": {
       "name": "Cough Syrup",
       "market": 1064,
-      "sellers": 171,
-      "bazaar": 1008,
+      "sellers": 165,
+      "bazaar": 1100,
       "lowest": 950
     },
     "1270": {
       "name": "Paper Towels",
       "market": 8161,
-      "sellers": 183,
-      "bazaar": 7906,
-      "lowest": 7799
+      "sellers": 187,
+      "bazaar": 7913,
+      "lowest": 6999
     },
     "1271": {
       "name": "Pepper Mill",
@@ -8220,92 +8220,92 @@
       "name": "Toothbrush",
       "market": 2824,
       "sellers": 86,
-      "bazaar": 3848,
-      "lowest": 2796
+      "bazaar": 3392,
+      "lowest": 2799
     },
     "1273": {
       "name": "Toothpaste",
       "market": 1775,
-      "sellers": 104,
-      "bazaar": 2882,
-      "lowest": 1800
+      "sellers": 83,
+      "bazaar": 3968,
+      "lowest": 1700
     },
     "1274": {
       "name": "Mouthwash",
       "market": 360,
-      "sellers": 187,
-      "bazaar": 351,
-      "lowest": 348
+      "sellers": 181,
+      "bazaar": 350,
+      "lowest": 345
     },
     "1275": {
       "name": "Mop",
       "market": 2604,
-      "sellers": 143,
-      "bazaar": 2533,
-      "lowest": 2398
+      "sellers": 140,
+      "bazaar": 2520,
+      "lowest": 2496
     },
     "1276": {
       "name": "Broom",
       "market": 2771,
-      "sellers": 95,
-      "bazaar": 2725,
-      "lowest": 2600
+      "sellers": 96,
+      "bazaar": 2618,
+      "lowest": 2500
     },
     "1277": {
       "name": "Floor Cleaner",
       "market": 1615,
-      "sellers": 279,
-      "bazaar": 1554,
-      "lowest": 1400
+      "sellers": 277,
+      "bazaar": 1583,
+      "lowest": 1500
     },
     "1278": {
       "name": "Model Spine",
       "market": 8227,
       "sellers": 133,
-      "bazaar": 7955,
-      "lowest": 7894
+      "bazaar": 7921,
+      "lowest": 7500
     },
     "1279": {
       "name": "Massage Table",
       "market": 12817,
-      "sellers": 109,
-      "bazaar": 12693,
-      "lowest": 12432
+      "sellers": 110,
+      "bazaar": 12661,
+      "lowest": 11999
     },
     "1280": {
       "name": "Scalp Massager",
       "market": 835,
-      "sellers": 145,
-      "bazaar": 822,
-      "lowest": 752
+      "sellers": 150,
+      "bazaar": 807,
+      "lowest": 800
     },
     "1281": {
       "name": "Dentures",
       "market": 4191,
-      "sellers": 102,
-      "bazaar": 5021,
-      "lowest": 4250
+      "sellers": 101,
+      "bazaar": 5613,
+      "lowest": 4200
     },
     "1282": {
       "name": "Gold Tooth",
       "market": 14239,
-      "sellers": 237,
-      "bazaar": 14027,
-      "lowest": 13500
+      "sellers": 233,
+      "bazaar": 14227,
+      "lowest": 13950
     },
     "1283": {
       "name": "Bleaching Tray",
       "market": 3117,
-      "sellers": 151,
-      "bazaar": 3031,
+      "sellers": 154,
+      "bazaar": 3038,
       "lowest": 2999
     },
     "1284": {
       "name": "Dental Mirror",
       "market": 62417,
-      "sellers": 105,
-      "bazaar": 60474,
-      "lowest": 59000
+      "sellers": 109,
+      "bazaar": 60308,
+      "lowest": 58999
     },
     "1285": {
       "name": "Paperclips",
@@ -8317,65 +8317,65 @@
     "1286": {
       "name": "Stapler",
       "market": 6324,
-      "sellers": 137,
-      "bazaar": 5911,
-      "lowest": 5999
+      "sellers": 135,
+      "bazaar": 5759,
+      "lowest": 5750
     },
     "1287": {
       "name": "Hole Punch",
       "market": 3418,
       "sellers": 166,
-      "bazaar": 3344,
-      "lowest": 3200
+      "bazaar": 3276,
+      "lowest": 3000
     },
     "1288": {
       "name": "Notepad",
       "market": 242,
-      "sellers": 225,
-      "bazaar": 245,
-      "lowest": 200
+      "sellers": 221,
+      "bazaar": 385,
+      "lowest": 239
     },
     "1289": {
       "name": "Permanent Marker",
       "market": 1216,
-      "sellers": 194,
-      "bazaar": 1195,
-      "lowest": 1180
+      "sellers": 193,
+      "bazaar": 1173,
+      "lowest": 1000
     },
     "1290": {
       "name": "Toner",
       "market": 301,
-      "sellers": 428,
-      "bazaar": 302,
-      "lowest": 296
+      "sellers": 426,
+      "bazaar": 299,
+      "lowest": 270
     },
     "1291": {
       "name": "Bloody Apron",
       "market": 2172748,
-      "sellers": 68,
-      "bazaar": 2114882,
-      "lowest": 2050000
+      "sellers": 67,
+      "bazaar": 2151882,
+      "lowest": 2100000
     },
     "1292": {
       "name": "Bone",
       "market": 7462,
-      "sellers": 207,
-      "bazaar": 7998,
-      "lowest": 7200
+      "sellers": 199,
+      "bazaar": 9523,
+      "lowest": 8000
     },
     "1293": {
       "name": "Injury Cache",
       "market": 4153644,
-      "sellers": 103,
-      "bazaar": 4103921,
-      "lowest": 3999999
+      "sellers": 105,
+      "bazaar": 4083020,
+      "lowest": 4000000
     },
     "1294": {
       "name": "Glitter Bomb",
       "market": 589413,
-      "sellers": 398,
-      "bazaar": 551902,
-      "lowest": 494999
+      "sellers": 413,
+      "bazaar": 558473,
+      "lowest": 519990
     },
     "1295": {
       "name": "Hell Priest Mask '22",
@@ -8399,9 +8399,9 @@
     "1298": {
       "name": "Tin of Treats",
       "market": 1283445,
-      "sellers": 136,
-      "bazaar": 1309066,
-      "lowest": 1283444
+      "sellers": 130,
+      "bazaar": 1345658,
+      "lowest": 1302642
     },
     "1299": {
       "name": "Queen Elizabeth II Mask '22",
@@ -8413,51 +8413,51 @@
     "1300": {
       "name": "eCPU",
       "market": 330,
-      "sellers": 400,
-      "bazaar": 329,
-      "lowest": 320
+      "sellers": 390,
+      "bazaar": 319,
+      "lowest": 300
     },
     "1301": {
       "name": "CPU",
       "market": 314,
-      "sellers": 429,
-      "bazaar": 346,
+      "sellers": 449,
+      "bazaar": 315,
       "lowest": 300
     },
     "1302": {
       "name": "HPCPU",
       "market": 8717,
       "sellers": 545,
-      "bazaar": 8854,
-      "lowest": 8700
+      "bazaar": 8825,
+      "lowest": 8499
     },
     "1303": {
       "name": "Computer Fan",
       "market": 1527,
-      "sellers": 123,
-      "bazaar": 2261,
-      "lowest": 1470
+      "sellers": 138,
+      "bazaar": 1357,
+      "lowest": 1400
     },
     "1304": {
       "name": "Water Block",
       "market": 4075,
-      "sellers": 466,
-      "bazaar": 4045,
-      "lowest": 3959
+      "sellers": 462,
+      "bazaar": 4007,
+      "lowest": 3750
     },
     "1305": {
       "name": "Heat Sink",
       "market": 42935,
-      "sellers": 198,
-      "bazaar": 41449,
-      "lowest": 39997
+      "sellers": 196,
+      "bazaar": 42514,
+      "lowest": 41994
     },
     "1306": {
       "name": "PSU",
       "market": 444,
       "sellers": 159,
-      "bazaar": 422,
-      "lowest": 390
+      "bazaar": 408,
+      "lowest": 400
     },
     "1307": {
       "name": "Sentinel Helmet",
@@ -8497,79 +8497,79 @@
     "1312": {
       "name": "Chocolate Egg",
       "market": 1269249,
-      "sellers": 344,
-      "bazaar": 1257183,
+      "sellers": 340,
+      "bazaar": 1261620,
       "lowest": 1248996
     },
     "1313": {
       "name": "Cassock",
       "market": 6174038,
-      "sellers": 25,
-      "bazaar": 5996667,
-      "lowest": 5820000
+      "sellers": 27,
+      "bazaar": 5873333,
+      "lowest": 5800000
     },
     "1314": {
       "name": "Embosser",
       "market": 4223410,
-      "sellers": 180,
-      "bazaar": 4190331,
-      "lowest": 4100000
+      "sellers": 173,
+      "bazaar": 4203728,
+      "lowest": 4200000
     },
     "1315": {
       "name": "Hot Foil Stamper",
       "market": 5187045,
-      "sellers": 102,
-      "bazaar": 5039231,
-      "lowest": 4999997
+      "sellers": 104,
+      "bazaar": 4999713,
+      "lowest": 4999000
     },
     "1316": {
       "name": "Sewing Kit",
       "market": 34989,
-      "sellers": 175,
-      "bazaar": 34173,
-      "lowest": 33750
+      "sellers": 171,
+      "bazaar": 33522,
+      "lowest": 32000
     },
     "1317": {
       "name": "Crucible",
       "market": 112154,
-      "sellers": 43,
-      "bazaar": 124205,
+      "sellers": 40,
+      "bazaar": 132599,
       "lowest": 112714
     },
     "1318": {
       "name": "Glue",
       "market": 496,
-      "sellers": 210,
-      "bazaar": 495,
-      "lowest": 484
+      "sellers": 217,
+      "bazaar": 500,
+      "lowest": 480
     },
     "1319": {
       "name": "Crushed Enamel",
       "market": 10218,
-      "sellers": 157,
-      "bazaar": 9975,
-      "lowest": 9877
+      "sellers": 159,
+      "bazaar": 9947,
+      "lowest": 9876
     },
     "1320": {
       "name": "Blowtorch",
       "market": 202286,
-      "sellers": 367,
-      "bazaar": 200798,
-      "lowest": 199500
+      "sellers": 377,
+      "bazaar": 199477,
+      "lowest": 192980
     },
     "1321": {
       "name": "Adhesive Plastic",
       "market": 495,
       "sellers": 438,
-      "bazaar": 498,
-      "lowest": 480
+      "bazaar": 497,
+      "lowest": 490
     },
     "1322": {
       "name": "Cardstock",
       "market": 509,
-      "sellers": 314,
-      "bazaar": 499,
-      "lowest": 495
+      "sellers": 308,
+      "bazaar": 500,
+      "lowest": 499
     },
     "1323": {
       "name": "Royal Tiara",
@@ -8594,177 +8594,177 @@
     "1327": {
       "name": "Printer",
       "market": 45153,
-      "sellers": 566,
-      "bazaar": 44994,
-      "lowest": 44467
+      "sellers": 565,
+      "bazaar": 44998,
+      "lowest": 44750
     },
     "1328": {
       "name": "Graver",
       "market": 92604,
-      "sellers": 82,
-      "bazaar": 89963,
-      "lowest": 89750
+      "sellers": 84,
+      "bazaar": 89958,
+      "lowest": 89745
     },
     "1329": {
       "name": "Perforator",
       "market": 368255,
       "sellers": 294,
-      "bazaar": 362570,
-      "lowest": 355900
+      "bazaar": 362571,
+      "lowest": 355895
     },
     "1330": {
       "name": "Fountain Pen",
       "market": 1672,
-      "sellers": 158,
-      "bazaar": 1515,
-      "lowest": 1494
+      "sellers": 152,
+      "bazaar": 1617,
+      "lowest": 1600
     },
     "1331": {
       "name": "Hand Drill",
       "market": 604,
-      "sellers": 156,
-      "bazaar": 624,
-      "lowest": 500
+      "sellers": 162,
+      "bazaar": 596,
+      "lowest": 590
     },
     "1332": {
       "name": "Wax Seal Stamp",
       "market": 277391,
-      "sellers": 119,
-      "bazaar": 250766,
+      "sellers": 115,
+      "bazaar": 266212,
       "lowest": 250000
     },
     "1333": {
       "name": "Bonded Latex",
       "market": 247269,
-      "sellers": 166,
-      "bazaar": 252486,
-      "lowest": 252000
+      "sellers": 177,
+      "bazaar": 246653,
+      "lowest": 242000
     },
     "1334": {
       "name": "Grinding Stone",
       "market": 93623,
-      "sellers": 84,
+      "sellers": 82,
       "bazaar": 92159,
       "lowest": 90000
     },
     "1335": {
       "name": "Parking Permit",
       "market": 6324,
-      "sellers": 201,
-      "bazaar": 6461,
-      "lowest": 6300
+      "sellers": 199,
+      "bazaar": 6484,
+      "lowest": 6200
     },
     "1336": {
       "name": "Birth Certificate",
       "market": 61170,
-      "sellers": 112,
-      "bazaar": 62544,
-      "lowest": 61100
+      "sellers": 111,
+      "bazaar": 62596,
+      "lowest": 62547
     },
     "1337": {
       "name": "Diploma",
       "market": 50257,
-      "sellers": 112,
+      "sellers": 110,
       "bazaar": 50285,
-      "lowest": 50100
+      "lowest": 50120
     },
     "1338": {
       "name": "Polishing Pad",
       "market": 253289,
-      "sellers": 106,
-      "bazaar": 246401,
+      "sellers": 107,
+      "bazaar": 249252,
       "lowest": 245000
     },
     "1339": {
       "name": "Bank Check",
       "market": 178707,
-      "sellers": 70,
-      "bazaar": 185296,
-      "lowest": 185000
+      "sellers": 72,
+      "bazaar": 185200,
+      "lowest": 184996
     },
     "1340": {
       "name": "Double Cut File",
       "market": 300,
-      "sellers": 211,
-      "bazaar": 298,
-      "lowest": 294
+      "sellers": 214,
+      "bazaar": 284,
+      "lowest": 200
     },
     "1341": {
       "name": "Concert Ticket",
       "market": 3102,
       "sellers": 213,
-      "bazaar": 3292,
-      "lowest": 3100
+      "bazaar": 3293,
+      "lowest": 3140
     },
     "1342": {
       "name": "Travel Visa",
       "market": 120597,
-      "sellers": 91,
-      "bazaar": 122961,
-      "lowest": 122584
+      "sellers": 92,
+      "bazaar": 123431,
+      "lowest": 122827
     },
     "1343": {
       "name": "Passport",
       "market": 578206,
       "sellers": 86,
-      "bazaar": 588780,
+      "bazaar": 588945,
       "lowest": 587499
     },
     "1344": {
       "name": "Medical Bill",
       "market": 11022,
-      "sellers": 512,
-      "bazaar": 11376,
-      "lowest": 11000
+      "sellers": 509,
+      "bazaar": 11492,
+      "lowest": 10900
     },
     "1345": {
       "name": "Prescription",
       "market": 73471,
-      "sellers": 96,
-      "bazaar": 75480,
+      "sellers": 97,
+      "bazaar": 75424,
       "lowest": 75000
     },
     "1346": {
       "name": "Magnifying Glass",
       "market": 1657553,
-      "sellers": 137,
-      "bazaar": 1621512,
-      "lowest": 1600000
+      "sellers": 128,
+      "bazaar": 1653356,
+      "lowest": 1650000
     },
     "1347": {
       "name": "Certificate Seal",
       "market": 163353,
       "sellers": 197,
-      "bazaar": 161749,
-      "lowest": 159000
+      "bazaar": 159428,
+      "lowest": 162999
     },
     "1348": {
       "name": "Aluminum Plate",
       "market": 5692,
-      "sellers": 609,
-      "bazaar": 5628,
-      "lowest": 5400
+      "sellers": 617,
+      "bazaar": 5621,
+      "lowest": 5399
     },
     "1349": {
       "name": "License Plate",
       "market": 94056,
-      "sellers": 157,
-      "bazaar": 95082,
-      "lowest": 94000
+      "sellers": 154,
+      "bazaar": 95136,
+      "lowest": 95000
     },
     "1350": {
       "name": "Police Badge",
       "market": 241179,
       "sellers": 244,
-      "bazaar": 232499,
+      "bazaar": 233377,
       "lowest": 232000
     },
     "1351": {
       "name": "Flashlight",
       "market": 70100,
-      "sellers": 504,
-      "bazaar": 69004,
-      "lowest": 64999
+      "sellers": 502,
+      "bazaar": 69560,
+      "lowest": 67999
     },
     "1352": {
       "name": "Collectible Cache",
@@ -8774,16 +8774,16 @@
     "1353": {
       "name": "Megaphone",
       "market": 73687,
-      "sellers": 138,
-      "bazaar": 72416,
-      "lowest": 70666
+      "sellers": 145,
+      "bazaar": 72715,
+      "lowest": 72209
     },
     "1354": {
       "name": "Office Chair",
       "market": 7765925,
-      "sellers": 66,
-      "bazaar": 7742064,
-      "lowest": 7527095
+      "sellers": 65,
+      "bazaar": 7743658,
+      "lowest": 7750632
     },
     "1355": {
       "name": "Vanguard Respirator",
@@ -8830,23 +8830,23 @@
     "1361": {
       "name": "Dog Treats",
       "market": 1612,
-      "sellers": 293,
-      "bazaar": 1579,
-      "lowest": 1500
+      "sellers": 286,
+      "bazaar": 1591,
+      "lowest": 1550
     },
     "1362": {
       "name": "Net",
       "market": 794885,
-      "sellers": 326,
-      "bazaar": 774706,
-      "lowest": 749998
+      "sellers": 325,
+      "bazaar": 776246,
+      "lowest": 774000
     },
     "1363": {
       "name": "Ipecac Syrup",
       "market": 39515,
-      "sellers": 399,
-      "bazaar": 39661,
-      "lowest": 39278
+      "sellers": 402,
+      "bazaar": 39407,
+      "lowest": 38400
     },
     "1364": {
       "name": "Yorkshire Pudding",
@@ -8880,9 +8880,9 @@
     "1369": {
       "name": "Reindeer Antlers",
       "market": 0,
-      "sellers": 5,
-      "bazaar": 59499999,
-      "lowest": 48999998
+      "sellers": 3,
+      "bazaar": 590000000,
+      "lowest": 70000000
     },
     "1370": {
       "name": "Chakra Stones",
@@ -8932,36 +8932,36 @@
     "1379": {
       "name": "ATM Key",
       "market": 213559,
-      "sellers": 141,
-      "bazaar": 212284,
+      "sellers": 142,
+      "bazaar": 212308,
       "lowest": 209990
     },
     "1380": {
       "name": "RF Detector",
       "market": 1191407,
-      "sellers": 152,
-      "bazaar": 1173403,
-      "lowest": 1100000
+      "sellers": 148,
+      "bazaar": 1175831,
+      "lowest": 1150000
     },
     "1381": {
       "name": "ID Badge",
       "market": 108468,
-      "sellers": 215,
-      "bazaar": 108408,
-      "lowest": 105438
+      "sellers": 217,
+      "bazaar": 108346,
+      "lowest": 105437
     },
     "1382": {
       "name": "Lanyard",
       "market": 578,
-      "sellers": 148,
-      "bazaar": 582,
-      "lowest": 568
+      "sellers": 147,
+      "bazaar": 573,
+      "lowest": 567
     },
     "1383": {
       "name": "DSLR Camera",
       "market": 113162,
-      "sellers": 96,
-      "bazaar": 109807,
+      "sellers": 94,
+      "bazaar": 110866,
       "lowest": 107000
     },
     "1384": {
@@ -9268,23 +9268,23 @@
     "1429": {
       "name": "Zip Ties",
       "market": 2505,
-      "sellers": 283,
-      "bazaar": 2468,
-      "lowest": 2350
+      "sellers": 285,
+      "bazaar": 2399,
+      "lowest": 2294
     },
     "1430": {
       "name": "Shaped Charge",
       "market": 98593,
-      "sellers": 238,
-      "bazaar": 96062,
-      "lowest": 94999
+      "sellers": 243,
+      "bazaar": 96355,
+      "lowest": 94995
     },
     "1431": {
       "name": "Core Drill",
       "market": 85400,
-      "sellers": 475,
-      "bazaar": 85381,
-      "lowest": 83799
+      "sellers": 477,
+      "bazaar": 85434,
+      "lowest": 83400
     },
     "1448": {
       "name": "Halloween Basket : Apocalyptic",
@@ -9322,9 +9322,9 @@
     "1453": {
       "name": "Oversized Christmas Sweater",
       "market": 0,
-      "sellers": 2,
-      "bazaar": 625000000,
-      "lowest": 250000000
+      "sellers": 1,
+      "bazaar": 1000000000,
+      "lowest": 1000000000
     },
     "1454": {
       "name": "Las Vegas Shot Glass '23",
@@ -9339,58 +9339,58 @@
     "1456": {
       "name": "Bolas",
       "market": 7499999,
-      "sellers": 17,
-      "bazaar": 8533333,
-      "lowest": 8300000
+      "sellers": 18,
+      "bazaar": 8266667,
+      "lowest": 8000000
     },
     "1457": {
       "name": "Kerosene",
       "market": 10103,
-      "sellers": 290,
-      "bazaar": 11766,
-      "lowest": 9900
+      "sellers": 292,
+      "bazaar": 11664,
+      "lowest": 8998
     },
     "1458": {
       "name": "Diesel",
       "market": 5001,
-      "sellers": 405,
-      "bazaar": 4938,
-      "lowest": 4700
+      "sellers": 398,
+      "bazaar": 4978,
+      "lowest": 4900
     },
     "1459": {
       "name": "Hydrogen Tank",
       "market": 13963,
-      "sellers": 211,
-      "bazaar": 14638,
-      "lowest": 13000
+      "sellers": 213,
+      "bazaar": 14637,
+      "lowest": 13850
     },
     "1460": {
       "name": "Methane Tank",
       "market": 14049,
-      "sellers": 335,
-      "bazaar": 13964,
-      "lowest": 13900
+      "sellers": 341,
+      "bazaar": 13996,
+      "lowest": 13850
     },
     "1461": {
       "name": "Thermite",
       "market": 110221,
-      "sellers": 202,
-      "bazaar": 120013,
-      "lowest": 100000
+      "sellers": 213,
+      "bazaar": 109227,
+      "lowest": 108000
     },
     "1462": {
       "name": "Magnesium Shavings",
       "market": 59708,
-      "sellers": 431,
-      "bazaar": 59001,
+      "sellers": 451,
+      "bazaar": 58252,
       "lowest": 55000
     },
     "1463": {
       "name": "Fire Extinguisher",
       "market": 106653,
-      "sellers": 301,
-      "bazaar": 105777,
-      "lowest": 100000
+      "sellers": 309,
+      "bazaar": 104324,
+      "lowest": 104519
     },
     "1464": {
       "name": "Mermaid Tiara",
@@ -9407,9 +9407,9 @@
     "1466": {
       "name": "Lighter",
       "market": 2107,
-      "sellers": 431,
-      "bazaar": 2076,
-      "lowest": 1999
+      "sellers": 425,
+      "bazaar": 2092,
+      "lowest": 2000
     },
     "1467": {
       "name": "Withered M'aol Tentacle",
@@ -9461,9 +9461,9 @@
     "1476": {
       "name": "Kelsie's Keepsake",
       "market": 170000001,
-      "sellers": 3,
-      "bazaar": 316666666,
-      "lowest": 199999997
+      "sellers": 2,
+      "bazaar": 375000000,
+      "lowest": 250000000
     },
     "1477": {
       "name": "Ana's Keepsake",
@@ -9504,161 +9504,161 @@
       "name": "Bearer Bond",
       "market": 90175,
       "sellers": 48,
-      "bazaar": 93968,
-      "lowest": 90000
+      "bazaar": 94011,
+      "lowest": 91999
     },
     "1483": {
       "name": "Insulin",
       "market": 9142,
-      "sellers": 58,
-      "bazaar": 9683,
-      "lowest": 9500
+      "sellers": 57,
+      "bazaar": 9853,
+      "lowest": 9600
     },
     "1484": {
       "name": "Bear Gall",
       "market": 34916,
       "sellers": 74,
-      "bazaar": 35000,
-      "lowest": 34901
+      "bazaar": 35026,
+      "lowest": 35000
     },
     "1485": {
       "name": "Shark Fin",
       "market": 65598,
-      "sellers": 69,
-      "bazaar": 65994,
-      "lowest": 65000
+      "sellers": 66,
+      "bazaar": 65986,
+      "lowest": 66028
     },
     "1486": {
       "name": "Turtle Shell",
       "market": 97825,
-      "sellers": 61,
-      "bazaar": 98030,
-      "lowest": 97999
+      "sellers": 60,
+      "bazaar": 98019,
+      "lowest": 98000
     },
     "1487": {
       "name": "Patagonian Fossil",
       "market": 630751,
-      "sellers": 39,
-      "bazaar": 633782,
-      "lowest": 629500
+      "sellers": 40,
+      "bazaar": 637096,
+      "lowest": 630751
     },
     "1488": {
       "name": "Meteorite Fragment",
       "market": 475033,
-      "sellers": 74,
-      "bazaar": 478528,
-      "lowest": 478000
+      "sellers": 78,
+      "bazaar": 477898,
+      "lowest": 474069
     },
     "1489": {
       "name": "Ephedrine Powder",
       "market": 26846,
-      "sellers": 88,
-      "bazaar": 26988,
-      "lowest": 26999
+      "sellers": 90,
+      "bazaar": 27002,
+      "lowest": 27000
     },
     "1490": {
       "name": "Safrole Oil",
       "market": 15883,
-      "sellers": 86,
-      "bazaar": 16010,
-      "lowest": 15999
+      "sellers": 89,
+      "bazaar": 16006,
+      "lowest": 15681
     },
     "1491": {
       "name": "Ergotamine Ampoule",
       "market": 19876,
-      "sellers": 98,
-      "bazaar": 19999,
+      "sellers": 102,
+      "bazaar": 19997,
       "lowest": 19989
     },
     "1492": {
       "name": "Counterfeit Manga",
       "market": 69716,
-      "sellers": 64,
+      "sellers": 67,
       "bazaar": 70000,
-      "lowest": 70000
+      "lowest": 69730
     },
     "1493": {
       "name": "Whale Meat",
       "market": 39668,
-      "sellers": 58,
-      "bazaar": 39999,
-      "lowest": 39998
+      "sellers": 56,
+      "bazaar": 40000,
+      "lowest": 39999
     },
     "1494": {
       "name": "Pangolin Scales",
       "market": 204538,
-      "sellers": 42,
-      "bazaar": 205381,
-      "lowest": 205300
+      "sellers": 40,
+      "bazaar": 205581,
+      "lowest": 205420
     },
     "1495": {
       "name": "Ambergris Lump",
       "market": 429627,
-      "sellers": 25,
-      "bazaar": 430019,
-      "lowest": 430000
+      "sellers": 26,
+      "bazaar": 430080,
+      "lowest": 429000
     },
     "1496": {
       "name": "Natural Pearls",
       "market": 149328,
-      "sellers": 48,
-      "bazaar": 149999,
-      "lowest": 149998
+      "sellers": 44,
+      "bazaar": 150384,
+      "lowest": 150100
     },
     "1497": {
       "name": "Uncut Diamonds",
       "market": 240003,
-      "sellers": 100,
-      "bazaar": 240210,
-      "lowest": 239998
+      "sellers": 98,
+      "bazaar": 240507,
+      "lowest": 240003
     },
     "1498": {
       "name": "Tiger Bone Powder",
       "market": 69762,
-      "sellers": 45,
-      "bazaar": 69999,
-      "lowest": 69997
+      "sellers": 40,
+      "bazaar": 70073,
+      "lowest": 70000
     },
     "1499": {
       "name": "Obsidian Point",
       "market": 131662,
-      "sellers": 71,
-      "bazaar": 130097,
-      "lowest": 128000
+      "sellers": 79,
+      "bazaar": 129945,
+      "lowest": 129029
     },
     "1500": {
       "name": "Quartzite Point",
       "market": 154025,
       "sellers": 44,
-      "bazaar": 155711,
-      "lowest": 155000
+      "bazaar": 153705,
+      "lowest": 152000
     },
     "1501": {
       "name": "Chert Point",
       "market": 116701,
-      "sellers": 36,
-      "bazaar": 117716,
-      "lowest": 117385
+      "sellers": 38,
+      "bazaar": 117251,
+      "lowest": 116500
     },
     "1502": {
       "name": "Basalt Point",
       "market": 99099,
-      "sellers": 78,
-      "bazaar": 99588,
+      "sellers": 77,
+      "bazaar": 99769,
       "lowest": 98900
     },
     "1503": {
       "name": "Chalcedony Point",
       "market": 137808,
-      "sellers": 19,
-      "bazaar": 138909,
-      "lowest": 135000
+      "sellers": 21,
+      "bazaar": 140215,
+      "lowest": 140000
     },
     "1504": {
       "name": "Quartz Point",
       "market": 131320,
-      "sellers": 50,
-      "bazaar": 130025,
+      "sellers": 49,
+      "bazaar": 130186,
       "lowest": 129999
     },
     "1505": {
@@ -9683,16 +9683,16 @@
     "1508": {
       "name": "Priceless Painting",
       "market": 70000000,
-      "sellers": 4,
-      "bazaar": 73999934,
-      "lowest": 69999999
+      "sellers": 3,
+      "bazaar": 94413307,
+      "lowest": 77999869
     },
     "1509": {
       "name": "Angle Grinder",
       "market": 172732,
-      "sellers": 414,
-      "bazaar": 170014,
-      "lowest": 168600
+      "sellers": 417,
+      "bazaar": 168859,
+      "lowest": 165000
     }
   }
 }
